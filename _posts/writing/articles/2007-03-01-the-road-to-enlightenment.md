@@ -3,7 +3,7 @@ title: "The Road to Enlightnement"
 date: 2007-03-01
 pin: false
 categories: [writing, article]
-tags: [open source software, ps3, enlightenment, linux]
+tags: [open source software, ps3, enlightenment, linux, linux format magazine]
 description: A 2007 Linux Format Magazine article about the Enlightment desktop environment running on a Linux distribution for the PS3.
 # image:
 #   path:
