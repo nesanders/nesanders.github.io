@@ -10,7 +10,7 @@ description: A 2007 Free Software Magazine article about running Linux GUI softw
 #  alt:
 ---
 
-*This article was originally published in [Free Software Magazine](http://freesoftwaremagazine.com/articles/run_any_gnu_linux_app_on_windows_without_any_virtualization/) on 2007-11-12.*
+*This article was originally published in [Free Software Magazine](https://freesoftwaremagazine.com/articles/run_any_gnu_linux_app_on_windows_without_any_virtualization/) on 2007-11-12.*
 
 # Run any GNU/Linux app on Windows without any virtualization
 
@@ -21,11 +21,11 @@ SSH tools, long used by UNIX gurus to perform complicated administrative tasks o
 
 Before you begin, make sure you have the necessary materials. You need an Ubuntu machine to serve programs and a Windows machine to access them, a USB stick if you want to make your setup portable, and a fast network connection if you want to be able to run anything more complicated than `nano`.
 
-You are going to be focusing your attention on accessing programs from a Windows machine, but first you need to install some server software on your Ubuntu box. You will be installing [OpenSSH](http://www.openssh.com/), the de facto standard in the free software world for opening a secure gateway to your PC. The OpenSSH server installs just like any other software and requires no additional configuration for our purposes. The whole process should take about two minutes.
+You are going to be focusing your attention on accessing programs from a Windows machine, but first you need to install some server software on your Ubuntu box. You will be installing [OpenSSH](https://www.openssh.com/), the de facto standard in the free software world for opening a secure gateway to your PC. The OpenSSH server installs just like any other software and requires no additional configuration for our purposes. The whole process should take about two minutes.
 
 > The OpenSSH server installs just like any other software and requires no additional configuration—the whole process should take about two minutes
 
-These instructions are tailored for Ubuntu users, but OpenSSH is available for nearly every GNU/Linux distribution and other UNIX-like operating systems. Windows users can install SSH servers, too. Although it is only a bit more complicated on Microsoft’s platform, you will have to refer to the [OpenSSH for Windows project](http://sshwindows.sourceforge.net/) for guidance.
+These instructions are tailored for Ubuntu users, but OpenSSH is available for nearly every GNU/Linux distribution and other UNIX-like operating systems. Windows users can install SSH servers, too. Although it is only a bit more complicated on Microsoft’s platform, you will have to refer to the [OpenSSH for Windows project](https://sshwindows.sourceforge.net/) for guidance.
 
 If you are comfortable installing software on your Ubuntu machine, go ahead and install the `openssh-server` package. If this is unfamiliar territory, all you need to do is enter the command below in a terminal. You can use the Terminal program found in the Applications→Accessories menu.
 
@@ -37,17 +37,17 @@ You will be prompted to enter your user password and respond “yes” to instal
 
 You can also install software using Synaptic Package Manager (System→Administration→Synaptic Package Manager), without touching the command line.
 
-Stay by your Ubuntu box for one more minute. To access it later on, you will need to know the machine’s location on the internet (IP address). If you don’t know it already, visit a [website that will tell you your IP address](http://whatsmyip.org/). Depending upon your internet service provider’s practices, this address could change periodically. You can create a stable DNS name for yourself using a [dynamic DNS service](http://www.google.com/Top/Computers/Software/Internet/Servers/Address_Management/Dynamic_DNS_Services/).
+Stay by your Ubuntu box for one more minute. To access it later on, you will need to know the machine’s location on the internet (IP address). If you don’t know it already, visit a [website that will tell you your IP address](https://whatsmyip.org/). Depending upon your internet service provider’s practices, this address could change periodically. You can create a stable DNS name for yourself using a [dynamic DNS service](https://www.google.com/Top/Computers/Software/Internet/Servers/Address_Management/Dynamic_DNS_Services/).
 
-If your Ubuntu machine is one of several computers in a local area network (LAN), things become a bit more complicated. To access the Ubuntu machine from another computer within the LAN, you will have to find out what address your Ubuntu box has been assigned. If you are using a home network router, this should be easy to do from a web browser—consult your router’s manual for details.  Alternatively, you can use the `[ifconfig](http://linux.die.net/man/8/ifconfig)` command or ask your system administrator.
+If your Ubuntu machine is one of several computers in a local area network (LAN), things become a bit more complicated. To access the Ubuntu machine from another computer within the LAN, you will have to find out what address your Ubuntu box has been assigned. If you are using a home network router, this should be easy to do from a web browser—consult your router’s manual for details.  Alternatively, you can use the `[ifconfig](https://linux.die.net/man/8/ifconfig)` command or ask your system administrator.
 
 If you are accessing your LAN from elsewhere on the internet, you will need to make sure your router is forwarding the SSH port (`port 22`, by default) to the Ubuntu machine. This can also be setup from your router’s web interface without much hassle.
 
 # Windows client-side software
 
-You are going to need some software Microsoft didn’t supply for you to access your server on Windows, but I wasn’t lying—you don’t have to install any of it if you don’t want to. You will need an SSH client to connect to your Ubuntu box and an X-server to display graphical applications. You can use free software tools from [Xming](http://www.straightrunning.com/XmingNotes/), which can be carried around on a portable USB stick (or any other portable device with about 8MB of free space) usable on any computer running Windows. If you don’t want to bother with the USB stick, just install everything to the computer as normal.
+You are going to need some software Microsoft didn’t supply for you to access your server on Windows, but I wasn’t lying—you don’t have to install any of it if you don’t want to. You will need an SSH client to connect to your Ubuntu box and an X-server to display graphical applications. You can use free software tools from [Xming](https://www.straightrunning.com/XmingNotes/), which can be carried around on a portable USB stick (or any other portable device with about 8MB of free space) usable on any computer running Windows. If you don’t want to bother with the USB stick, just install everything to the computer as normal.
 
-If you are using Windows XP or newer, download the [Xming installer](http://sourceforge.net/project/showfiles.php?group_id=156984&package_id=175377) and double click to begin. Note that there is also an older version of [Xming for Windows 2000](http://sourceforge.net/project/downloading.php?group_id=156984&filename=Xming-6-9-0-18-setup.exe), but platforms prior to that are not supported. Click “Next” on the welcome screen to be prompted for the installation location. If you want to put it on your USB stick, click “Browse” and select the proper drive.
+If you are using Windows XP or newer, download the [Xming installer](https://sourceforge.net/project/showfiles.php?group_id=156984&package_id=175377) and double click to begin. Note that there is also an older version of [Xming for Windows 2000](https://sourceforge.net/project/downloading.php?group_id=156984&filename=Xming-6-9-0-18-setup.exe), but platforms prior to that are not supported. Click “Next” on the welcome screen to be prompted for the installation location. If you want to put it on your USB stick, click “Browse” and select the proper drive.
 
 ![Figure 1: If you are installing to a USB stick, make sure you specify the correct drive.]({{"/assets/img/writing/2007_fsm_run_gnulinux_apps_on_windows_no_virtualization/Install.jpg" | relative_url }})
 *Figure 1: If you are installing to a USB stick, make sure you specify the correct drive.*
@@ -64,7 +64,7 @@ You will be greeted with a handy wizard to help you access your Ubuntu machine. 
 
 Click “Next” and then fill out the server and program’s parameters. First, enter the name of the program you want to run in the text box next to the words “Start program”. It is important that you know the Unix name of the desired program, which is the command you would type on your Ubuntu machine to run it rather than the exact name of the application. This is usually just the application’s name in all lower-case letters. For instance, to run the GIMP, type `gimp`. Some software does deviate from this rule, such as Firefox: `mozilla-firefox`.
 
-Still on the same screen, select the “Using PuTTY (plink.exe)” option in the “Run Remote” frame. [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) isn’t installed on this USB stick, but Xming came with a replacement program that does everything you need it to. I will discuss this program in more detail shortly.
+Still on the same screen, select the “Using PuTTY (plink.exe)” option in the “Run Remote” frame. [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) isn’t installed on this USB stick, but Xming came with a replacement program that does everything you need it to. I will discuss this program in more detail shortly.
 
 In the “Connect to computer” textbox, input the IP address of your Ubuntu box that you noted earlier. In the “Login as user” textbox, input your Ubuntu user name. Of course, in the “Password” box you need to input your Ubuntu password. Click “Next” twice and then “Finish” to start the application.
 
@@ -75,7 +75,7 @@ Once you have your application running, you can use it just as you would sitting
 
 > Once you have your application running, you can use it just as you would sitting in front of your Ubuntu box, but keep in mind that you are still using all the hardware from your Ubuntu machine
 
-This also means that applications will run just as fast as they do on your Ubuntu box, even if your Windows machine is sluggish, provided that you have a fast network connection. One thing that should transfer between computers automatically is the contents of the clipboard when you copy and paste things, although this does not work perfectly. To learn how to easily share files between your two computers using SSH, refer to the [SSH Beyond the Command Line](http://www.freesoftwaremagazine.com/articles/ssh_beyond_the_command_line) article in Free Software Magazine issue 19.
+This also means that applications will run just as fast as they do on your Ubuntu box, even if your Windows machine is sluggish, provided that you have a fast network connection. One thing that should transfer between computers automatically is the contents of the clipboard when you copy and paste things, although this does not work perfectly. To learn how to easily share files between your two computers using SSH, refer to the [SSH Beyond the Command Line](https://www.freesoftwaremagazine.com/articles/ssh_beyond_the_command_line) article in Free Software Magazine issue 19.
 
 # Xming and the command line
 

@@ -10,7 +10,7 @@ description: A 2007 Free Software Magazine article about cross-platform file sha
 #  alt:
 ---
 
-*This article was originally published in [Free Software Magazine](http://freesoftwaremagazine.com/articles/2007_fsm_ssh_beyond_the_command_line/) on 2007-09-26.*
+*This article was originally published in [Free Software Magazine](https://freesoftwaremagazine.com/articles/2007_fsm_ssh_beyond_the_command_line/) on 2007-09-26.*
 
 # SSH beyond the command line
 
@@ -28,13 +28,13 @@ If you’d like to get more in depth, you can use it to load or edit a spreadshe
 
 # Installing the server
 
-The SSH protocol has been around for a while and several server packages have sprung up around it. The choice is a bit simpler than KDE vs GNOME, though, because almost everyone you meet will recommend [OpenSSH](http://www.openssh.com/). It’s tried, true, secure, free software developed by the [OpenBSD project](http://www.openbsd.org/) but made available for nearly every operating system under the sun.
+The SSH protocol has been around for a while and several server packages have sprung up around it. The choice is a bit simpler than KDE vs GNOME, though, because almost everyone you meet will recommend [OpenSSH](https://www.openssh.com/). It’s tried, true, secure, free software developed by the [OpenBSD project](https://www.openbsd.org/) but made available for nearly every operating system under the sun.
 
 If you’re using a Unix-like system such as GNU/Linux, installation really is as simple as for any other software. If your distribution has a package management utility, OpenSSH is undoubtedly available from it. In Debian and Ubuntu, it’s listed as “`openssh-server`”. If you normally have to install software from source, you can get the code from the OpenSSH website.
 
-Unfortunately, things are a bit more complicated if you use Windows. You will need to use some software called [Cygwin](http://www.cygwin.com/) to emulate the GNU/Linux platform on your Windows box. If you are already familiar with Cygwin, you can install OpenSSH as a native package.
+Unfortunately, things are a bit more complicated if you use Windows. You will need to use some software called [Cygwin](https://www.cygwin.com/) to emulate the GNU/Linux platform on your Windows box. If you are already familiar with Cygwin, you can install OpenSSH as a native package.
 
-Wait, though! If you don’t use Cygwin already—wouldn’t you know it—someone has gone and made the whole process just as easy. The [OpenSSH for Windows](http://sshwindows.sourceforge.net/) project has combined OpenSSH with only the absolutely necessary components of Cygwin, rolled it all up into a ball, and released it as free software on Sourceforge. Download and double click the “binary installer” as you would any other Windows setup package.
+Wait, though! If you don’t use Cygwin already—wouldn’t you know it—someone has gone and made the whole process just as easy. The [OpenSSH for Windows](https://sshwindows.sourceforge.net/) project has combined OpenSSH with only the absolutely necessary components of Cygwin, rolled it all up into a ball, and released it as free software on Sourceforge. Download and double click the “binary installer” as you would any other Windows setup package.
 
 # Some minor tweaking, if desired
 
@@ -66,7 +66,7 @@ Next, you may want to assure that you are the only user who can access your comp
 AllowUsers [my user]
 ```
 
-Now only `[my user]` will be able to log in, using his regular account password. You can do a lot with [host and user restrictions](http://www.ssh.com/support/documentation/online/ssh/adminguide/32/Restricting_User_Logins.html) with SSH, but this should be enough for our purposes.
+Now only `[my user]` will be able to log in, using his regular account password. You can do a lot with [host and user restrictions](https://www.ssh.com/support/documentation/online/ssh/adminguide/32/Restricting_User_Logins.html) with SSH, but this should be enough for our purposes.
 
 ## Don’t forget to restart!
 
@@ -78,13 +78,13 @@ You will need to restart the SSH server before these changes to the configuratio
 
 The `ssh` in the above command may be replaced by, for instance, `sshd`, depending upon your distribution. You can use your shell’s tab-complete feature to guess at the right syntax. If you’re having a really hard time entering this command, you could just restart your computer—but that shouldn’t be necessary.
 
-To access the server you have just configured, you will need to know the exact address of your system. If you don’t have a domain name configured, just use your [IP address](http://whatsmyip.org/). Of course, depending upon your internet service provider, this address could change periodically and you may need to use a [dynamic DNS service](http://en.wikipedia.org/wiki/Dynamic_DNS) to make a stable URL.
+To access the server you have just configured, you will need to know the exact address of your system. If you don’t have a domain name configured, just use your [IP address](https://whatsmyip.org/). Of course, depending upon your internet service provider, this address could change periodically and you may need to use a [dynamic DNS service](https://en.wikipedia.org/wiki/Dynamic_DNS) to make a stable URL.
 
-If you are accessing the machine within a LAN, check your router’s configuration for the address of each machine. If you are dialing into a LAN, make sure the standard SSH port (22) is being [forwarded](http://www.wikihow.com/Set-up-Port-Forwarding-on-a-Router) to the machine.
+If you are accessing the machine within a LAN, check your router’s configuration for the address of each machine. If you are dialing into a LAN, make sure the standard SSH port (22) is being [forwarded](https://www.wikihow.com/Set-up-Port-Forwarding-on-a-Router) to the machine.
 
 # Down to business: trading files
 
-There are [a lot of SSH clients](http://en.wikipedia.org/wiki/Comparison_of_SSH_clients) out there available for nearly every platform imaginable. I’m going to take a wild guess and assume that the majority of you Free Software Magazine readers are using GNOME, KDE, or Windows at home or at work. Below, I’ll walk you through graphical clients that were made for each of these three platforms and a command-line client that will work almost everywhere else.
+There are [a lot of SSH clients](https://en.wikipedia.org/wiki/Comparison_of_SSH_clients) out there available for nearly every platform imaginable. I’m going to take a wild guess and assume that the majority of you Free Software Magazine readers are using GNOME, KDE, or Windows at home or at work. Below, I’ll walk you through graphical clients that were made for each of these three platforms and a command-line client that will work almost everywhere else.
 
 ## The old standby: scp
 
@@ -136,7 +136,7 @@ You may specify a specific directory on the remote server if you wish. The remot
 ![Figure 2: Accessing remote directories in Konqueror takes a few more clicks than in Nautilus, but the process is very similar]({{"/assets/img/writing/2007_fsm_ssh_beyond_the_command_line/Konqueror.jpg" | relative_url }})
 *Figure 2: Accessing remote directories in Konqueror takes a few more clicks than in Nautilus, but the process is very similar*
 
-When you add a remote location this way, you are be guided through setting up a link using KDE’s fish [KIO-slave](http://www.kde.org/info/). KIO lets you use simple URLs to access remote directories in KDE applications. Each “slave” supports a different protocol—fish works with SSH. As with GNOME, some programs will refuse to access remote servers, but most KDE 3.5 applications will play nicely.
+When you add a remote location this way, you are be guided through setting up a link using KDE’s fish [KIO-slave](https://www.kde.org/info/). KIO lets you use simple URLs to access remote directories in KDE applications. Each “slave” supports a different protocol—fish works with SSH. As with GNOME, some programs will refuse to access remote servers, but most KDE 3.5 applications will play nicely.
 
 You can skip the *Add a Network Folder* wizard and construct your fish URLs directly without too much difficulty. Use the following format:
 
@@ -156,7 +156,7 @@ You can do a lot of fun things with network transparency and fish. Right click o
 
 ## Windows: less integration, but just as much fun with WinSCP
 
-Microsoft has not embraced SSH to the extent that the major free software desktop environments have, but you can still perform typical file transferring tasks with SSH from a Windows box using third party clients. Several Windows scp clients exist, but I will focus on [WinSCP](http://winscp.net/eng/index.php), a popular, simple, and free tool. WinSCP 4.0 (currently in beta) includes support for FTP, but I will explore the 3.x series and its SSH functionality only. Download the [standalone executable or installation file](http://winscp.net/eng/download.php) for WinSCP 3.8.2.
+Microsoft has not embraced SSH to the extent that the major free software desktop environments have, but you can still perform typical file transferring tasks with SSH from a Windows box using third party clients. Several Windows scp clients exist, but I will focus on [WinSCP](https://winscp.net/eng/index.php), a popular, simple, and free tool. WinSCP 4.0 (currently in beta) includes support for FTP, but I will explore the 3.x series and its SSH functionality only. Download the [standalone executable or installation file](https://winscp.net/eng/download.php) for WinSCP 3.8.2.
 
 ![Figure 3: The scheme for logging into an SSH server from a GUI front end should be clear by now, and WinSCP calls for no exceptions]({{"/assets/img/writing/2007_fsm_ssh_beyond_the_command_line/WinSCP.jpg" | relative_url }})
 *Figure 3: The scheme for logging into an SSH server from a GUI front end should be clear by now, and WinSCP calls for no exceptions*
@@ -165,7 +165,7 @@ WinSCP’s GUI can look like either a complicated Windows Explorer window or the
 
 WinSCP has some advanced features for synchronizing remote directories and managing remote server sessions that will not be addressed here. You may also execute commands on files on the remote server using the `File→Custom Commands` menu. WinSCP’s Preferences dialog is filled with dozens of settings to configure the way it uses the SSH protocol.
 
-While WinSCP is definitely less integrated than the GNOME and KDE solutions discussed, the developers have made a valiant effort to establish their application’s functionality within Explorer. Upon installation, or from the Preferences dialog, you may register WinSCP to handle SSH protocol addresses and add WinSCP to Explorer’s context menus. There are also options for integrating WinSCP with the [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) Windows SSH client.
+While WinSCP is definitely less integrated than the GNOME and KDE solutions discussed, the developers have made a valiant effort to establish their application’s functionality within Explorer. Upon installation, or from the Preferences dialog, you may register WinSCP to handle SSH protocol addresses and add WinSCP to Explorer’s context menus. There are also options for integrating WinSCP with the [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) Windows SSH client.
 
 # Don’t stop there!
 
