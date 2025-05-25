@@ -1,16 +1,6 @@
 
 ```
 
-
-\vspace{-3mm}
-\subsection{Linux Weekly News}{, ``Google Summer of Code 2007 Conclusion''}{\MMMM{9} 2007}
-\subsubsection{}{\url{https://lwn.net/Articles/250412/}}{\textbf{Web feature}}
-
-
-\vspace{-3mm}
-\subsection{Linux.com}{, ``Learning the Samba: file and print-sharing between Windows and GNU/Linux machines''}{\MMMM{8} 2007}
-\subsubsection{}{\url{http://www.linux.com/whatislinux/118625}}{\textbf{Web feature}}
-
 \vspace{-3mm}
 \subsection{Linux Weekly News}{, ``Google Summer of Code: Mozilla Projects''}{\MMMM{8} 2007}
 \subsubsection{}{\url{https://lwn.net/Articles/246196/}}{\textbf{Web feature}}
@@ -162,3 +152,13 @@
 \vspace{-3mm}
 \subsection{Free Software Magazine}{, ``Run any GNU/Linux app on Windows without any virtualization''}{\MMMM{11} 2007}
 \subsubsection{}{\url{http://freesoftwaremagazine.com/articles/run_any_gnu_linux_app_on_windows_without_any_virtualization/}}{\textbf{Print feature}}
+
+
+
+\vspace{-3mm}
+\subsection{Linux Weekly News}{, ``Google Summer of Code 2007 Conclusion''}{\MMMM{9} 2007}
+\subsubsection{}{\url{https://lwn.net/Articles/250412/}}{\textbf{Web feature}}
+
+\vspace{-3mm}
+\subsection{Linux.com}{, ``Learning the Samba: file and print-sharing between Windows and GNU/Linux machines''}{\MMMM{8} 2007}
+\subsubsection{}{\url{http://www.linux.com/whatislinux/118625}}{\textbf{Web feature}}
