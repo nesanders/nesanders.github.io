@@ -1,9 +1,9 @@
 ---
-title: "Publication: Core-collapse Supernova Progenitors in the Era of Untargeted Transient Searches"
+title: "Core-collapse Supernova Progenitors in the Era of Untargeted Transient Searches"
 date: 2014-06-06
 pin: false
 categories: [research, thesis]
-tags: ["astrophysics", "education", "supernovae"]
+tags: ["astrophysics", "thesis", "supernovae"]
 description: "Harvard University Department of Astronomy PhD thesis published 2014."
 authors: ["nes", "etal"]
 ---
