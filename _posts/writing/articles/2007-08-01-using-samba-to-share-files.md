@@ -10,13 +10,13 @@ description: A 2007 Linux.com article about sharing files between Linux and Wind
 #  alt:
 ---
 
-*This article was originally published on [Linux.com](https://web.archive.org/web/20081010131954/http://www.linux.com/whatislinux/118625) on 2007-08.*
+*This article was originally published on [Linux.com](https://web.archive.org/web/20081010131954/https://www.linux.com/whatislinux/118625) on 2007-08.*
 
-Your home network might have a few Windows machines on the ground floor, a Mac in an upstairs bedroom, a PocketPC on a nightstand, and a Linux box or two in the basement, all networked with a generic router. For all the devices in this familiar family setup, or even [a scenario with thousands of users](https://web.archive.org/web/20081010131954/http://us3.samba.org/samba/docs/man/Samba-Guide/2000users.html), the [Samba](https://web.archive.org/web/20081010131954/http://us3.samba.org/) suite is an ideal solution for file and print sharing.
+Your home network might have a few Windows machines on the ground floor, a Mac in an upstairs bedroom, a PocketPC on a nightstand, and a Linux box or two in the basement, all networked with a generic router. For all the devices in this familiar family setup, or even [a scenario with thousands of users](https://web.archive.org/web/20081010131954/https://us3.samba.org/samba/docs/man/Samba-Guide/2000users.html), the [Samba](https://web.archive.org/web/20081010131954/https://us3.samba.org/) suite is an ideal solution for file and print sharing.
 
 Several cross-platform file and print-sharing solutions exist, but Samba and the SMB/CIFS protocol may be the easiest to implement in a home networking environment. Windows machines and Macs come with the functionality to work with with Samba out of the box, and you should only need to install a single Samba package for Linux machines. GNOME and KDE offer Samba client functionality built in to their default file managers, Nautilus and Konqueror, respectively.
 
-We'll focus on configuring and using Samba for file and print-sharing in a typical home network with Linux and Windows machines. You can choose from [several Samba configuration GUIs](https://web.archive.org/web/20081010131954/http://us3.samba.org/samba/GUI/), but we'll go the old-fashioned route and point our text editors to smb.conf. The configuration file is commonly found at /etc/samba/smb.conf or /usr/local/samba/lib/smb.conf. Note that you will need to be root to edit these, or use sudo.
+We'll focus on configuring and using Samba for file and print-sharing in a typical home network with Linux and Windows machines. You can choose from [several Samba configuration GUIs](https://web.archive.org/web/20081010131954/https://us3.samba.org/samba/GUI/), but we'll go the old-fashioned route and point our text editors to smb.conf. The configuration file is commonly found at /etc/samba/smb.conf or /usr/local/samba/lib/smb.conf. Note that you will need to be root to edit these, or use sudo.
 
 Samba will run on nearly any Unix-like system and can be found in the repositories of just about every Linux distribution. Begin by using your distribution's package manager to make sure it is installed.
 
@@ -32,7 +32,7 @@ The first option to consider is Samba's security level. This line will appear un
 
 For a home network, you may want to consider setting this to `share`. The main difference is that with the `user` setting you will be required to log into the Samba server before you can browse its resources. This is a wise precaution on untrusted networks, but will be inconvenient when using resources you would like your entire household to have access to, such as a printer. With `share` enabled, you can still require users to authenticate themselves with a password to access particular resources.
 
-While still in the *[global]* section, let's move on to printers. If you use the [Common UNIX Printing System](https://web.archive.org/web/20081010131954/http://www.cups.org/) (CUPS) (which most distributions default to), the only thing you need to do to have Samba recognize your printers is set the following lines accordingly:
+While still in the *[global]* section, let's move on to printers. If you use the [Common UNIX Printing System](https://web.archive.org/web/20081010131954/https://www.cups.org/) (CUPS) (which most distributions default to), the only thing you need to do to have Samba recognize your printers is set the following lines accordingly:
 
 ```
     printing = cups
@@ -53,7 +53,7 @@ hosts allow = 192.168.0.
 hosts deny = ALL
 ```
 
-Note that the final digit of the IP address was left off on the `hosts allow` line. This specifies that any IP address in that range be allowed. For additional security against external access, look into [blocking Samba ports with a firewall](https://web.archive.org/web/20081010131954/http://us4.samba.org/samba/docs/man/Samba-HOWTO-Collection/securing-samba.html#firewallports).
+Note that the final digit of the IP address was left off on the `hosts allow` line. This specifies that any IP address in that range be allowed. For additional security against external access, look into [blocking Samba ports with a firewall](https://web.archive.org/web/20081010131954/https://us4.samba.org/samba/docs/man/Samba-HOWTO-Collection/securing-samba.html#firewallports).
 
 ## Sharing directories and printers
 
@@ -163,10 +163,10 @@ Alternatively, enter the server details manually. On the next screen, select you
 
 ## Troubleshooting
 
-If you've experienced any problems getting any of this functionality to work, turn to the [Samba troubleshooting checklist](https://web.archive.org/web/20081010131954/http://us3.samba.org/samba/docs/man/Samba-HOWTO-Collection/diagnosis.html). A quick trick borrowed from that document for testing your Samba configuration file for obvious errors is to run the following command:
+If you've experienced any problems getting any of this functionality to work, turn to the [Samba troubleshooting checklist](https://web.archive.org/web/20081010131954/https://us3.samba.org/samba/docs/man/Samba-HOWTO-Collection/diagnosis.html). A quick trick borrowed from that document for testing your Samba configuration file for obvious errors is to run the following command:
 
 `testparm smb.conf`
 
 Again, the exact path of your *smb.conf* may vary by distribution.
 
-We have only explored basic Samba functionality here, tailored for a home network. More extreme usage scenarios are addressed in detail in the [Samba by example guide](https://web.archive.org/web/20081010131954/http://us3.samba.org/samba/docs/man/Samba-Guide/).
+We have only explored basic Samba functionality here, tailored for a home network. More extreme usage scenarios are addressed in detail in the [Samba by example guide](https://web.archive.org/web/20081010131954/https://us3.samba.org/samba/docs/man/Samba-Guide/).

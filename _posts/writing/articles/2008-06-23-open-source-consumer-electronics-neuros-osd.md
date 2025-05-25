@@ -10,7 +10,7 @@ description: A 2008 ExtremeTech article about the open source Neuros OSD media p
 #  alt:
 ---
 
-*This article was originally published in print in [ExtremeTech](https://web.archive.org/web/20080707181944/http://www.extremetech.com/article2/0,2845,2321105,00.asp) on 2008-06-23.*
+*This article was originally published in print in [ExtremeTech](https://web.archive.org/web/20080707181944/https://www.extremetech.com/article2/0,2845,2321105,00.asp) on 2008-06-23.*
 
 Somewhere on IRC:
 

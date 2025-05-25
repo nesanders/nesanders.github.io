@@ -90,25 +90,6 @@
 \subsection{Linux.com}{, ``Phonon and the future of KDE multimedia''}{\MMMM{5} 2006}
 \subsubsection{}{\url{http://applications.linux.com/applications/06/05/05/1540250.shtml}}{\textbf{Web feature}}
 
-\vspace{-3mm}
-\subsection{Linux.com}{, ``openSUSE inspires derivative distros''}{\MMMM{11} 2005}
-\subsubsection{}{\url{http://www.linux.com/article.pl?sid=05/10/19/2026240}}{\textbf{Web feature}}
-
-\vspace{-3mm}
-\subsection{Newsforge}{, ``Neuros takes open source approach to hardware and software development''}{\MMMM{9} 2005}
-\subsubsection{}{\url{http://software.newsforge.com/article.pl?sid=05/09/13/1631226}}{\textbf{Web feature}}
-
-\vspace{-3mm}
-\subsection{Newsforge}{, ``Platform-specific Gecko-based browsers''}{\MMMM{5} 2005}
-\subsubsection{}{\url{http://internet.newsforge.com/article.pl?sid=05/05/03/1649210}}{\textbf{Web feature}}
-
-\vspace{-3mm}
-\subsection{Newsforge}{, ``Enlightenment DR17 is coming - eventually''}{\MMMM{4} 2005}
-\subsubsection{}{\url{http://software.newsforge.com/article.pl?sid=05/04/05/186210}}{\textbf{Web feature}}
-
-\vspace{-3mm}
-\subsection{Newsforge}{, `` KDE tips and tricks''}{\MMMM{2} 2005}
-\subsubsection{}{\url{http://software.newsforge.com/article.pl?sid=05/01/20/1822225}}{\textbf{Web feature}}
 ```
 
 
@@ -162,3 +143,24 @@
 \vspace{-3mm}
 \subsection{Linux.com}{, ``Learning the Samba: file and print-sharing between Windows and GNU/Linux machines''}{\MMMM{8} 2007}
 \subsubsection{}{\url{http://www.linux.com/whatislinux/118625}}{\textbf{Web feature}}
+
+\vspace{-3mm}
+\subsection{Newsforge}{, `` KDE tips and tricks''}{\MMMM{2} 2005}
+\subsubsection{}{\url{http://software.newsforge.com/article.pl?sid=05/01/20/1822225}}{\textbf{Web feature}}
+
+
+\vspace{-3mm}
+\subsection{Newsforge}{, ``Enlightenment DR17 is coming - eventually''}{\MMMM{4} 2005}
+\subsubsection{}{\url{http://software.newsforge.com/article.pl?sid=05/04/05/186210}}{\textbf{Web feature}}
+
+\vspace{-3mm}
+\subsection{Newsforge}{, ``Platform-specific Gecko-based browsers''}{\MMMM{5} 2005}
+\subsubsection{}{\url{http://internet.newsforge.com/article.pl?sid=05/05/03/1649210}}{\textbf{Web feature}}
+
+\vspace{-3mm}
+\subsection{Newsforge}{, ``Neuros takes open source approach to hardware and software development''}{\MMMM{9} 2005}
+\subsubsection{}{\url{http://software.newsforge.com/article.pl?sid=05/09/13/1631226}}{\textbf{Web feature}}
+
+\vspace{-3mm}
+\subsection{Linux.com}{, ``openSUSE inspires derivative distros''}{\MMMM{11} 2005}
+\subsubsection{}{\url{http://www.linux.com/article.pl?sid=05/10/19/2026240}}{\textbf{Web feature}}
