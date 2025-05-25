@@ -1,27 +1,5 @@
 
 ```
-
-\vspace{-3mm}
-\subsection{Linux Weekly News}{, ``Google Summer of Code: Mozilla Projects''}{\MMMM{8} 2007}
-\subsubsection{}{\url{https://lwn.net/Articles/246196/}}{\textbf{Web feature}}
-
-\vspace{-3mm}
-\subsection{Linux Weekly News}{, ``GSoC: Student Tackles Wine Direct3D 10 Support''}{\MMMM{7} 2007}
-\subsubsection{}{\url{https://lwn.net/Articles/242043/}}{\textbf{Web feature}}
-
-
-%CV     \vspace{-3mm}
-%CV     \subsection{Linux Weekly News}{, ``Google Summer of Code 2007 Kicks Off''}{\MMMM{4} 2007}
-%CV     \subsubsection{}{\url{https://lwn.net/Articles/230249/}}{\textbf{Web feature}}
-
-\vspace{-3mm}
-\subsection{Linux.com}{, ``KDE's Plasma is heating up''}{\MMMM{6} 2007}
-\subsubsection{}{\url{http://www.linux.com/feature/114560}}{\textbf{Web feature}}
-
-\vspace{-3mm}
-\subsection{Linux Weekly News}{, ``Google Summer of Code Series, OpenMRS''}{\MMMM{6} 2007}
-\subsubsection{}{\url{https://lwn.net/Articles/238285/}}{\textbf{Web feature}}
-
 \vspace{-3mm}
 \subsection{Linux Weekly News}{, ``Summer of Code 2007 - Ubuntu projects''}{\MMMM{5} 2007}
 \subsubsection{}{\url{https://lwn.net/Articles/235653/}}{\textbf{Web feature}}
@@ -31,20 +9,8 @@
 \subsubsection{}{\url{http://www.linux.com/article.pl?sid=07/05/18/1631258}}{\textbf{Web feature}}
 
 \vspace{-3mm}
-\subsection{Linux.com}{, ``PCLinuxOS launching hardware certification program''}{\MMMM{4} 2007}
-\subsubsection{}{\url{http://www.linux.com/article.pl?sid=07/04/20/193254}}{\textbf{Web feature}}
-
-\vspace{-3mm}
 \subsection{Linux.com}{, ``K3b enters new era with approaching 1.0 release''}{\MMMM{3} 2007}
 \subsubsection{}{\url{http://www.linux.com/article.pl?sid=07/03/05/181224}}{\textbf{Web feature}}
-
-\vspace{-3mm}
-\subsection{Linux.com}{, ``PCLinuxOS launching hardware certification program''}{\MMMM{4} 2007}
-\subsubsection{}{\url{http://www.linux.com/article.pl?sid=07/04/20/193254}}{\textbf{Web feature}}
-
-\vspace{-3mm}
-\subsection{Linux Weekly News}{, ``KDE 4 gets more Hot New Stuff''}{\MMMM{3} 2007}
-\subsubsection{}{\url{https://lwn.net/Articles/227855/}}{\textbf{Web feature}}
 
 \vspace{-3mm}
 \subsection{Linux.com}{, ``KDE 4's Sonnet will turbocharge language processing''}{\MMMM{2} 2007}
@@ -63,10 +29,6 @@
 \subsubsection{}{\url{http://lwn.net/Articles/193723/}}{\textbf{News report}}
 
 \vspace{-3mm}
-\subsection{Linux.com}{, ``Opera contests draws attention to widget development''}{\MMMM{1} 2007}
-\subsubsection{}{\url{http://www.linux.com/article.pl?sid=06/12/21/2151234}}{\textbf{Web feature}}
-
-\vspace{-3mm}
 \subsection{Linux.com}{, ``OpenUsability funds student projects''}{\MMMM{8} 2006}
 \subsubsection{}{\url{http://www.linux.com/article.pl?sid=06/08/18/1633214}}{\textbf{Web feature}}
 
@@ -81,14 +43,6 @@
 \vspace{-3mm}
 \subsection{Newsforge}{, ``Four Core continues series of KDE 4 meetings''}{\MMMM{7} 2006}
 \subsubsection{}{\url{http://trends.newsforge.com/trends/06/07/10/2047210.shtml}}{\textbf{News report}}
-
-\vspace{-3mm}
-\subsection{Newsforge}{, ``KDE 4 Multimedia Meeting exceeds expectations''}{\MMMM{5} 2006}
-\subsubsection{}{\url{http://software.newsforge.com/software/06/05/31/1536229.shtml}}{\textbf{News report}}
-
-\vspace{-3mm}
-\subsection{Linux.com}{, ``Phonon and the future of KDE multimedia''}{\MMMM{5} 2006}
-\subsubsection{}{\url{http://applications.linux.com/applications/06/05/05/1540250.shtml}}{\textbf{Web feature}}
 
 ```
 
@@ -164,3 +118,53 @@
 \vspace{-3mm}
 \subsection{Linux.com}{, ``openSUSE inspires derivative distros''}{\MMMM{11} 2005}
 \subsubsection{}{\url{http://www.linux.com/article.pl?sid=05/10/19/2026240}}{\textbf{Web feature}}
+
+\vspace{-3mm}
+\subsection{Linux.com}{, ``Phonon and the future of KDE multimedia''}{\MMMM{5} 2006}
+\subsubsection{}{\url{http://applications.linux.com/applications/06/05/05/1540250.shtml}}{\textbf{Web feature}}
+
+\vspace{-3mm}
+\subsection{Newsforge}{, ``KDE 4 Multimedia Meeting exceeds expectations''}{\MMMM{5} 2006}
+\subsubsection{}{\url{http://software.newsforge.com/software/06/05/31/1536229.shtml}}{\textbf{News report}}
+
+
+\vspace{-3mm}
+\subsection{Linux Weekly News}{, ``Google Summer of Code: Mozilla Projects''}{\MMMM{8} 2007}
+\subsubsection{}{\url{https://lwn.net/Articles/246196/}}{\textbf{Web feature}}
+
+
+\vspace{-3mm}
+\subsection{Linux Weekly News}{, ``GSoC: Student Tackles Wine Direct3D 10 Support''}{\MMMM{7} 2007}
+\subsubsection{}{\url{https://lwn.net/Articles/242043/}}{\textbf{Web feature}}
+
+
+%CV     \vspace{-3mm}
+%CV     \subsection{Linux Weekly News}{, ``Google Summer of Code 2007 Kicks Off''}{\MMMM{4} 2007}
+%CV     \subsubsection{}{\url{https://lwn.net/Articles/230249/}}{\textbf{Web feature}}
+
+
+\vspace{-3mm}
+\subsection{Linux.com}{, ``PCLinuxOS launching hardware certification program''}{\MMMM{4} 2007}
+\subsubsection{}{\url{http://www.linux.com/article.pl?sid=07/04/20/193254}}{\textbf{Web feature}}
+
+
+\vspace{-3mm}
+\subsection{Linux.com}{, ``Opera contests draws attention to widget development''}{\MMMM{1} 2007}
+\subsubsection{}{\url{http://www.linux.com/article.pl?sid=06/12/21/2151234}}{\textbf{Web feature}}
+
+\vspace{-3mm}
+\subsection{Linux Weekly News}{, ``Google Summer of Code Series, OpenMRS''}{\MMMM{6} 2007}
+\subsubsection{}{\url{https://lwn.net/Articles/238285/}}{\textbf{Web feature}}
+
+\vspace{-3mm}
+\subsection{Linux Weekly News}{, ``KDE 4 gets more Hot New Stuff''}{\MMMM{3} 2007}
+\subsubsection{}{\url{https://lwn.net/Articles/227855/}}{\textbf{Web feature}}
+
+\vspace{-3mm}
+\subsection{Linux.com}{, ``PCLinuxOS launching hardware certification program''}{\MMMM{4} 2007}
+\subsubsection{}{\url{http://www.linux.com/article.pl?sid=07/04/20/193254}}{\textbf{Web feature}}
+
+\vspace{-3mm}
+\subsection{Linux.com}{, ``KDE's Plasma is heating up''}{\MMMM{6} 2007}
+\subsubsection{}{\url{http://www.linux.com/feature/114560}}{\textbf{Web feature}}
+
