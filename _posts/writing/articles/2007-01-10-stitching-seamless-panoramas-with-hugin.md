@@ -10,7 +10,7 @@ description: A 2007 Free Software Magazine article about stitching panoramic pho
 #  alt:
 ---
 
-*This article was originally published in [Free Software Magazine](http://freesoftwaremagazine.com/articles/stitching_seamless_panoramas_with_hugin/) on 2007-01-10.*
+*This article was originally published in [Free Software Magazine](https://freesoftwaremagazine.com/articles/stitching_seamless_panoramas_with_hugin/) on 2007-01-10.*
 
 # Stitching seamless panoramas with Hugin
 
