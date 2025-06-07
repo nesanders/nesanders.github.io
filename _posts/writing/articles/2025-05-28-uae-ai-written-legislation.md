@@ -5,7 +5,7 @@ pin: false
 categories: [writing, article]
 tags: [democracy, ai, legislation, foreign policy]
 description: An article for Foreign Policy about the new UAE plan to use AI to generate law and its precedents.
-authors: [nes, apascal]
+authors: [nes, bruce]
 ---
 
 *This article was written with [Bruce Schneier](https://www.schneier.com) and originally published at [Foreign Policy](https://foreignpolicy.com/2025/05/14/ai-generated-law-uae-legislation/) on 2025-05-14.*
