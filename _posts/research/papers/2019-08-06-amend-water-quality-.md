@@ -3,7 +3,7 @@ title: "AMEND: Open source, data-driven oversight of water quality in New Englan
 date: 2019-08-06
 pin: false
 categories: [research, paper]
-tags: ["environment", "statistics"]
+tags: ["environment", "statistics", "sewage"]
 description: "Details the AMEND project, an open-source initiative for data-driven monitoring and oversight of water quality in New England."
 authors: ["nes"]
 ---
