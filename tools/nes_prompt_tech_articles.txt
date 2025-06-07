@@ -32,13 +32,6 @@
 \subsection{Newsforge}{, ``French company embraces, contributes to free software''}{\MMMM{8} 2006}
 \subsubsection{}{\url{http://www.newsforge.com/article.pl?sid=06/08/11/1832232}}{\textbf{Web feature}}
 
-\vspace{-3mm}
-\subsection{Linux.com}{, ``Smart Package Manager: a better mousetrap''}{\MMMM{7} 2006}
-\subsubsection{}{\url{http://www.linux.com/article.pl?sid=06/07/07/1612259}}{\textbf{Web feature}}
-
-\vspace{-3mm}
-\subsection{Newsforge}{, ``Four Core continues series of KDE 4 meetings''}{\MMMM{7} 2006}
-\subsubsection{}{\url{http://trends.newsforge.com/trends/06/07/10/2047210.shtml}}{\textbf{News report}}
 
 ```
 
@@ -168,3 +161,12 @@
 \vspace{-3mm}
 \subsection{Linux.com}{, ``K3b enters new era with approaching 1.0 release''}{\MMMM{3} 2007}
 \subsubsection{}{\url{http://www.linux.com/article.pl?sid=07/03/05/181224}}{\textbf{Web feature}}
+
+\vspace{-3mm}
+\subsection{Newsforge}{, ``Four Core continues series of KDE 4 meetings''}{\MMMM{7} 2006}
+\subsubsection{}{\url{http://trends.newsforge.com/trends/06/07/10/2047210.shtml}}{\textbf{News report}}
+
+
+\vspace{-3mm}
+\subsection{Linux.com}{, ``Smart Package Manager: a better mousetrap''}{\MMMM{7} 2006}
+\subsubsection{}{\url{http://www.linux.com/article.pl?sid=06/07/07/1612259}}{\textbf{Web feature}}
