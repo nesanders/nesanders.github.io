@@ -9,10 +9,6 @@
 \subsubsection{}{\url{http://www.linux.com/article.pl?sid=07/05/18/1631258}}{\textbf{Web feature}}
 
 \vspace{-3mm}
-\subsection{Linux.com}{, ``K3b enters new era with approaching 1.0 release''}{\MMMM{3} 2007}
-\subsubsection{}{\url{http://www.linux.com/article.pl?sid=07/03/05/181224}}{\textbf{Web feature}}
-
-\vspace{-3mm}
 \subsection{Linux.com}{, ``KDE 4's Sonnet will turbocharge language processing''}{\MMMM{2} 2007}
 \subsubsection{}{\url{http://www.linux.com/article.pl?sid=07/02/01/1935238}}{\textbf{Web feature}}
 
@@ -168,3 +164,7 @@
 \subsection{Linux.com}{, ``KDE's Plasma is heating up''}{\MMMM{6} 2007}
 \subsubsection{}{\url{http://www.linux.com/feature/114560}}{\textbf{Web feature}}
 
+
+\vspace{-3mm}
+\subsection{Linux.com}{, ``K3b enters new era with approaching 1.0 release''}{\MMMM{3} 2007}
+\subsubsection{}{\url{http://www.linux.com/article.pl?sid=07/03/05/181224}}{\textbf{Web feature}}

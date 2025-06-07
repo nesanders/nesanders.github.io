@@ -313,13 +313,3 @@ description: An article outlining the possibilities AI provides to enhance publi
 <p>
 	Despite the hurdles to overcome in developing well-trained and trustworthy chatbots, the urgency with which we must address climate change requires that we consider opportunities to work alongside AI in ways that will engage as much of the public as possible in pursuing solutions as quickly as possible. More broadly, as AI assistive tools improve in their understanding of science, perhaps they can help all of us do the same. If used appropriately, ethically, and sustainably, these tools could usher in a shift in how diverse publics engage with science topics like climate change, medicine, and more and, in turn, how they form opinions, build trust, and incorporate scientific information into their own decisionmaking.
 </p>
-<h3>
-	Author Information
-</h3>
-<p>
-	Nathan E. Sanders (
-	<a href="mailto:nsanders@cyber.harvard.edu" target="_blank" rel="noopener">
-		nsanders@cyber.harvard.edu
-	</a>
-	), Berkman Klein Center for Internet &amp; Society, Harvard University, Cambridge, Mass.; and Rose Hendricks, Association of Science and Technology Centers, Washington, D.C.
-</p>
