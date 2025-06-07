@@ -3,14 +3,14 @@ title: "Season of KDE fosters young students, Part Two"
 date: 2006-08-04
 pin: false
 categories: [writing, article]
-tags: [open source software, kde, linux, gwenview, linux weekly news]
+tags: [open source software, kde, linux, koffice, wine, k3b, linux weekly news]
 description: A 2006 article for the Linux Weekly News about the KDE summer internship-like program, the Season of KDE, detailing several student projects.
 # image:
 #   path:
 #  alt:
 ---
 
-*This article was originally published in [LWN]https://lwn.net/Articles/193724/) on 2006-08-04.*
+*This article was originally published in [LWN](https://lwn.net/Articles/193724/) on 2006-08-04 and is the second of two articles in a series.*
 
 The first five student projects in the Season of KDE
 coding effort were explored in
