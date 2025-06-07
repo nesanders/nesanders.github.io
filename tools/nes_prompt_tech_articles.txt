@@ -1,11 +1,5 @@
 
 ```
-
-
-\vspace{-3mm}
-\subsection{Linux Weekly News}{, ``Season of KDE fosters young students, Part Two''}{\MMMM{2} 2007}
-\subsubsection{}{\url{http://lwn.net/Articles/193724/}}{\textbf{News report}}
-
 \vspace{-3mm}
 \subsection{Linux Weekly News}{, ``Season of KDE fosters young students, Part One''}{\MMMM{2} 2007}
 \subsubsection{}{\url{http://lwn.net/Articles/193723/}}{\textbf{News report}}
@@ -176,4 +170,8 @@
 \vspace{-3mm}
 \subsection{Linux Weekly News}{, ``KDE 4 Graphics Gets New Direction with Gwenview II''}{\MMMM{2} 2007}
 \subsubsection{}{\url{http://lwn.net/Articles/221059/}}{\textbf{News report}}
+
+\vspace{-3mm}
+\subsection{Linux Weekly News}{, ``Season of KDE fosters young students, Part Two''}{\MMMM{2} 2007}
+\subsubsection{}{\url{http://lwn.net/Articles/193724/}}{\textbf{News report}}
 

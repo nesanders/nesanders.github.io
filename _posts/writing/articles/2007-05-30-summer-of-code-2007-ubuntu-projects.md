@@ -20,8 +20,6 @@ May 28th marked the official commencement of student projects for the <a href="h
 Ubuntu's GSoC projects are too numerous to explore comprehensively here.  More information on all of them is available at the <a href="https://code.google.com/soc/ubuntu/about.html">Ubuntu GSoC page</a>.  We contacted students and mentors from five of Ubuntu's GSoC projects and asked them to describe how their initial proposals have evolved to the projects they are now working on, what their work will do for Ubuntu users, and how other distributions may benefit.
 
 
-<a name="jumptohere"></a>
-
 ## Lois Desplat's "<a href="https://code.google.com/soc/ubuntu/appinfo.html?csaid=F759B5D30A8F79AF">Revision Controlled Home Directories</a>" (mentored by Martin Pitt)
 
 
