@@ -1,6 +1,6 @@
 ---
 title: "AI-Generated Law Isn’t Necessarily a Terrible Idea"
-date: 2025-05-28  
+date: 2025-05-14 
 pin: false
 categories: [writing, article]
 tags: [democracy, ai, legislation, foreign policy]
