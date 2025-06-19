@@ -3,12 +3,12 @@ title: "Will AI take your job? The answer could hinge on the 4 S’s of the tech
 date: 2025-06-16
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, , the conversation]
+tags: [democracy, ai, the conversation]
 description: An article for Foreign Policy about the new UAE plan to use AI to generate law and its precedents.
 authors: [nes, bruce]
 ---
 
-*This article was written with [Bruce Schneier](https://www.schneier.com) and originally published at [The Conversation](https://theconversation.com/will-ai-take-your-job-the-answer-could-hinge-on-the-4-ss-of-the-technologys-advantages-over-humans-258469) on 2025-06-16.*
+*This article was written with [Bruce Schneier](https://www.schneier.com) and originally published at [The Conversation](https://theconversation.com/will-ai-take-your-job-the-answer-could-hinge-on-the-4-ss-of-the-technologys-advantages-over-humans-258469) on 2025-06-16. It was syndicated at the [Seattle PI](https://www.seattlepi.com/news/article/will-ai-take-your-job-the-answer-could-hinge-on-20379143.php) among other outlets.*
 
 
       
