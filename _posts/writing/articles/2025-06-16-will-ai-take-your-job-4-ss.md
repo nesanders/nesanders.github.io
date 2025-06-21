@@ -8,7 +8,7 @@ description: An article for Foreign Policy about the new UAE plan to use AI to g
 authors: [nes, bruce]
 ---
 
-*This article was written with [Bruce Schneier](https://www.schneier.com) and originally published at [The Conversation](https://theconversation.com/will-ai-take-your-job-the-answer-could-hinge-on-the-4-ss-of-the-technologys-advantages-over-humans-258469) on 2025-06-16. It was syndicated at the [Seattle PI](https://www.seattlepi.com/news/article/will-ai-take-your-job-the-answer-could-hinge-on-20379143.php) among other outlets.*
+*This article was written with [Bruce Schneier](https://www.schneier.com) and originally published at [The Conversation](https://theconversation.com/will-ai-take-your-job-the-answer-could-hinge-on-the-4-ss-of-the-technologys-advantages-over-humans-258469) on 2025-06-16. It was syndicated at the [Seattle PI](https://www.seattlepi.com/news/article/will-ai-take-your-job-the-answer-could-hinge-on-20379143.php) and [FastCompany](https://www.fastcompany.com/91353099/ai-4-advantages-over-humans-work) among other outlets.*
 
 
       
