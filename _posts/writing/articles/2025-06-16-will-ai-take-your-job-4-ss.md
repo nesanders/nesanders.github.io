@@ -4,7 +4,7 @@ date: 2025-06-16
 pin: false
 categories: [writing, article]
 tags: [democracy, ai, the conversation]
-description: An article for Foreign Policy about the new UAE plan to use AI to generate law and its precedents.
+description: An article for The Conversation about AI's fundamendal differentiating capabilities.
 authors: [nes, bruce]
 ---
 
