@@ -1,5 +1,6 @@
 ---
-title: "Obama's Climate Decision"
+title: "Obama's Climate Decision: Congress’ Overwrought Response
+to European Air Travel Regulations"
 date: 2013-07-06
 pin: false
 categories: [writing, article]
