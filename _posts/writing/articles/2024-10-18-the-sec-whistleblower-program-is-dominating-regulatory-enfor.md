@@ -1,5 +1,5 @@
 ---
-title: "The SEC Whistleblower Program Is Dominating Regulatory Enforcementa"
+title: "The SEC Whistleblower Program Is Dominating Regulatory Enforcement"
 date: 2024-10-18
 pin: false
 categories: [writing, article]
