@@ -8,7 +8,7 @@ description: An article for The Boston Globe about how we can respond to the fed
 authors: [nes, mvictor]
 ---
 
-*This article was written with Matt Victor and originally published in [The Boston Globe's Sunday Ideas section](https://www.bostonglobe.com/2025/08/10/opinion/npr-pbs-big-tech-mass-maple/) on 2025-06-29.*
+*This article was written with Matt Victor and originally published in [The Boston Globe's Sunday Ideas section](https://www.bostonglobe.com/2025/08/10/opinion/npr-pbs-big-tech-mass-maple/) on 2025-08-10.*
 
 <p><em>Americans desperately need a shared civic infrastructure. We can fund it with an attention extraction tax.</em></p>
 
