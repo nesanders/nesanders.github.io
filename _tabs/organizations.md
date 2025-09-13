@@ -16,6 +16,8 @@ I am privileged to have supporting roles in several important organizations rela
 
 The Massachusetts Platform for Legislative Engagement (MAPLE) make it easy for anyone to submit testimony to the Massachusetts legislature about the bills that will shape our lives. MAPLE is developed by volunteers organized through Code for Boston and is a project of the 501c3 organization Partners in Democracy Education.
 
+[Read my public legislative testimony on MAPLE here.](https://www.mapletestimony.org/profile?id=kwoCCZ1D0gTthodj0D7CsUI8Ap52)
+
 ![ComSciCon logo](/assets/img/logos/comscicon.png){: .left width="150"}
 # [ComSciCon](https://www.comscicon.org)
 
@@ -30,7 +32,7 @@ ComSciCon is the international conference series on Science Communication. We ha
 
 Astrobites is a graduate student writing collaborative focusing on summarizing recent astrophysics research articles to make them accessible for an undergraduate audience and general readers. Astrobites' hundreds of volunteer graduate student authors have published more than 3,000 articles on the site since its founding in 2010. It was the first of the ScienceBites sites.
 
-[All my posts at Astrobites can be found here](https://astrobites.org/author/nsanders/).
+[All my posts at Astrobites can be found here.](https://astrobites.org/author/nsanders/).
 
 ![ScienceBites logo](/assets/img/logos/sciencebites.png){: .left width="150"}
 # [ScienceBites](https://sciencebites.org)
