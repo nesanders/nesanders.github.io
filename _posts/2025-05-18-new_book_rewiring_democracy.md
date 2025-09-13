@@ -82,3 +82,17 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
   target="_blank">Books a Million</a>
   </li>
 </ul>
+
+# Publicity
+
+## Interviews
+
+* (Bruce) 2025-09-10, Keen on America | [Substack](https://keenon.substack.com/p/the-godfather-of-security-bruce-schneier) | [YouTube](https://www.youtube.com/watch?v=bD-2xBhKv_s)
+
+<!--  AI and You-->
+<!-- Mass AI Hub -->
+
+## Speaking events
+
+* [2025-10-22, Harvard Bookstore, Cambridge Public Library, Cambridge, MA](https://www.harvard.com/event/schneier-sanders)
+* [2025-10-22, Ash Center, Harvard Kennedy School, Cambridge, MA](https://ash.harvard.edu/events/in-person-book-talk-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/)
