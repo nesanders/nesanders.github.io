@@ -85,10 +85,15 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 
 # Publicity
 
+## Excerpts
+
+* 2025-09-11, Pittsburgh Review of Books, [Being a Politician](https://pghrev.com/being-a-politician/)
+
 ## Interviews
 
 * (Bruce) 2025-09-10, Keen on America | [Substack](https://keenon.substack.com/p/the-godfather-of-security-bruce-schneier) | [YouTube](https://www.youtube.com/watch?v=bD-2xBhKv_s)
 
+<!-- Next Big Idea 5 Ideas podcast -->
 <!--  AI and You-->
 <!-- Mass AI Hub -->
 
