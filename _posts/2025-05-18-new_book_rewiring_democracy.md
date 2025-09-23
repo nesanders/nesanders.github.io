@@ -100,5 +100,6 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 ## Speaking events
 
 * [2025-07-15, ComSciCon-Flagship Workshop, Boston, MA](https://comscicon.org/chapter-workshops/comscicon-flagship-workshop-2025/)
+* [2025-10-10, Data + Donuts, Harvard Kennedy School, Virtual](https://www.hks.harvard.edu/events/data-donuts-nathan-sanders-how-ai-rewiring-democracy)
 * [2025-10-22, Harvard Bookstore, Cambridge Public Library, Cambridge, MA](https://www.harvard.com/event/schneier-sanders)
 * [2025-10-22, Ash Center, Harvard Kennedy School, Cambridge, MA](https://ash.harvard.edu/events/in-person-book-talk-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/)
