@@ -92,10 +92,13 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 ## Interviews
 
 * (Bruce) 2025-09-10, Keen on America, [Substack](https://keenon.substack.com/p/the-godfather-of-security-bruce-schneier), [YouTube](https://www.youtube.com/watch?v=bD-2xBhKv_s)
+* 2025-09-26, [The Good Men Project](https://goodmenproject.com/featured-content/rewiring-democracy-bruce-schneier-nathan-sanders-power-future-governance-sjbn/)
 
 <!-- Next Big Idea 5 Ideas podcast -->
 <!--  AI and You-->
 <!-- Mass AI Hub -->
+<!--  Tea with Alice -->
+<!-- New Book Network -->
 
 ## Speaking events
 
