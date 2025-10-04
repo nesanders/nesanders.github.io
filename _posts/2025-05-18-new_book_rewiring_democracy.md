@@ -110,6 +110,8 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [2025-10-22, Harvard Bookstore, Cambridge Public Library, Cambridge, MA](https://www.harvard.com/event/schneier-sanders)
 * [2025-10-22, Ash Center, Harvard Kennedy School, Cambridge, MA](https://ash.harvard.edu/events/in-person-book-talk-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/)
 * [2025-12-01, MIT Museum, Cambridge, MA](https://mitpress.mit.edu/event/bruce-schneier-at-the-mit-museum/)
+* [2025-12-03, City Lights, Virtual](https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/)
 
+<!-- bpl -->
 <!-- hopkins -->
 <!-- data and society -->
