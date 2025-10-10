@@ -101,6 +101,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 <!--  AI and You-->
 <!-- Mass AI Hub -->
 <!-- New Book Network -->
+<!-- SVIC shorts -->
 
 ## Speaking events
 
@@ -109,10 +110,15 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [2025-10-10, Data + Donuts, Harvard Kennedy School, Virtual](https://www.hks.harvard.edu/events/data-donuts-nathan-sanders-how-ai-rewiring-democracy)
 * [2025-10-22, Harvard Bookstore, Cambridge Public Library, Cambridge, MA](https://www.harvard.com/event/schneier-sanders)
 * [2025-10-22, Ash Center, Harvard Kennedy School, Cambridge, MA](https://ash.harvard.edu/events/in-person-book-talk-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/)
+* 2025-10-23, Data & Society webinar
 * [2025-11-03, Boston Public Library, Virtual](https://www.leventhalmap.org/event/author-talk-nathan-sanders-and-bruce-schneier/)
 * [2025-12-01, MIT Museum, Cambridge, MA](https://mitpress.mit.edu/event/bruce-schneier-at-the-mit-museum/)
 * [2025-12-03, City Lights, Virtual](https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/)
 
 <!-- bpl in person -->
 <!-- hopkins -->
-<!-- data and society -->
+<!-- providence -->
+
+## Reviews
+
+* [Ben Shneiderman](https://www.cs.umd.edu/users/ben/), [Human-Centered AI Newsletter](https://groups.google.com/g/human-centered-ai/c/EX0ZT4lhLsY/m/ZuPQpRtUAwAJ?utm_medium=email&utm_source=footer&pli=1): "Overall, a valuable, wise, and balanced contribution in non-technical terms that will be welcomed by the five communities they address, and I hope the researchers and developers who could produce the happier outcomes the authors seek."
