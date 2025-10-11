@@ -96,12 +96,12 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-09-26, [The Good Men Project](https://goodmenproject.com/featured-content/rewiring-democracy-bruce-schneier-nathan-sanders-power-future-governance-sjbn/)
 * 2025-10-02, Tea with Alice, [Apple Podcasts](https://podcasts.apple.com/us/podcast/bruce-schneier-and-nathan-e-sanders-ai-and-democracycast/id789603540?i=1000729797261) | [PlayerFM](https://player.fm/series/tea-with-alice/bruce-schneier-and-nathan-e-sanders-ai-and-democracycast)
 * (Bruce) 2025-10-05, [Self Employed](https://www.selfemployed.com/news/ai-will-transform-democracy-but-we-decide-how/)
+* 2025-10-07, [SVIC Podcast mini-interviews (YouTube shorts)](https://www.youtube.com/shorts/78Qtcp0-IiU)
 
 <!-- Next Big Idea 5 Ideas podcast -->
 <!--  AI and You-->
 <!-- Mass AI Hub -->
 <!-- New Book Network -->
-<!-- SVIC shorts -->
 
 ## Speaking events
 
