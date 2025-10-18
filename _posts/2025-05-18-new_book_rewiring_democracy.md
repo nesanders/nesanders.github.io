@@ -94,10 +94,12 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 
 * (Bruce) 2025-09-10, Keen on America, [Substack](https://keenon.substack.com/p/the-godfather-of-security-bruce-schneier), [YouTube](https://www.youtube.com/watch?v=bD-2xBhKv_s)
 * 2025-09-26, [The Good Men Project](https://goodmenproject.com/featured-content/rewiring-democracy-bruce-schneier-nathan-sanders-power-future-governance-sjbn/)
+* (Bruce) 2025-10-01, [The Politics Guys](https://politicsguys.com/bruce-schneier-on-ai-and-the-future-of-democracy/)
 * 2025-10-02, Tea with Alice, [Apple Podcasts](https://podcasts.apple.com/us/podcast/bruce-schneier-and-nathan-e-sanders-ai-and-democracycast/id789603540?i=1000729797261), [PlayerFM](https://player.fm/series/tea-with-alice/bruce-schneier-and-nathan-e-sanders-ai-and-democracycast)
 * (Bruce) 2025-10-05, [Self Employed](https://www.selfemployed.com/news/ai-will-transform-democracy-but-we-decide-how/)
 * 2025-10-07, [SVIC Podcast mini-interviews (YouTube shorts)](https://www.youtube.com/shorts/78Qtcp0-IiU)
 * 2025-10-13, [Astrobites](https://astrobites.org/2025/10/13/nathan-sanders/)
+* 2025-10-17, [Worth Knowing with Matt Robinson](https://worthknowing.substack.com/p/what-ai-is-doing-to-politics-is-way)
 
 <!-- Next Big Idea 5 Ideas podcast -->
 <!--  AI and You-->
