@@ -89,6 +89,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 
 * 2025-09-11, Pittsburgh Review of Books, [Being a Politician](https://pghrev.com/being-a-politician/)
 * 2025-10-05, New_ Public Newsletter, [Will AI break democracy or fix it? Yes.](https://newpublic.substack.com/p/will-ai-break-democracy-or-fix-it)
+* 2025-10-21, AI Frontiers, [AI Will Be Your Personal Political Proxy](https://ai-frontiers.org/articles/ai-will-be-your-personal-political-proxy)
 
 ## Interviews
 
@@ -102,7 +103,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-10-13, [Astrobites](https://astrobites.org/2025/10/13/nathan-sanders/)
 * 2025-10-17, [Worth Knowing with Matt Robinson](https://worthknowing.substack.com/p/what-ai-is-doing-to-politics-is-way)
 * 2015-10-20, [Next Big Idea Club](https://nextbigideaclub.com/magazine/will-ai-strengthen-undermine-democracy-bookbite/57574/)
-* (Bruce) 2025-10-21, [IVY](https://www.ivy.com/learning-modules/rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship-with-bruce-schneier-1)
+* (Bruce) 2025-10-21, [IVY clip](https://login.ivy.com/insights/how-to-define-the-enduring-role-of-humans-in-an-aipowered-world-1-1) and [module](https://www.ivy.com/learning-modules/rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship-with-bruce-schneier-1)
 
 <!--  AI and You-->
 <!-- Mass AI Hub -->
