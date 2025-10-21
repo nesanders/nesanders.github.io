@@ -92,6 +92,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 
 ## Interviews
 
+* (Bruce) 2025-09-01, [Stand Up! With Pete Dominick](https://www.youtube.com/watch?v=Et52ksJ9JmI)
 * (Bruce) 2025-09-10, Keen on America, [Substack](https://keenon.substack.com/p/the-godfather-of-security-bruce-schneier), [YouTube](https://www.youtube.com/watch?v=bD-2xBhKv_s)
 * 2025-09-26, [The Good Men Project](https://goodmenproject.com/featured-content/rewiring-democracy-bruce-schneier-nathan-sanders-power-future-governance-sjbn/)
 * (Bruce) 2025-10-01, [The Politics Guys](https://politicsguys.com/bruce-schneier-on-ai-and-the-future-of-democracy/)
@@ -100,8 +101,9 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-10-07, [SVIC Podcast mini-interviews (YouTube shorts)](https://www.youtube.com/shorts/78Qtcp0-IiU)
 * 2025-10-13, [Astrobites](https://astrobites.org/2025/10/13/nathan-sanders/)
 * 2025-10-17, [Worth Knowing with Matt Robinson](https://worthknowing.substack.com/p/what-ai-is-doing-to-politics-is-way)
+* 2015-10-20, [Next Big Idea Club](https://nextbigideaclub.com/magazine/will-ai-strengthen-undermine-democracy-bookbite/57574/)
+* (Bruce) 2025-10-21, [IVY](https://www.ivy.com/learning-modules/rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship-with-bruce-schneier-1)
 
-<!-- Next Big Idea 5 Ideas podcast -->
 <!--  AI and You-->
 <!-- Mass AI Hub -->
 <!-- New Book Network -->
@@ -113,13 +115,16 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [2025-10-10, Data + Donuts, Harvard Kennedy School, Virtual](https://www.hks.harvard.edu/events/data-donuts-nathan-sanders-how-ai-rewiring-democracy)
 * [2025-10-22, Harvard Bookstore, Cambridge Public Library, Cambridge, MA](https://www.harvard.com/event/schneier-sanders)
 * [2025-10-22, Ash Center, Harvard Kennedy School, Cambridge, MA](https://ash.harvard.edu/events/in-person-book-talk-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/)
-* 2025-10-23, Data & Society webinar
+* [2025-10-23, Data & Society, Virtual](https://datasociety.net/events/a-roadmap-for-rewiring-democracy-in-the-age-of-ai/)
+* [2025-10-23, BrightTALK Behind the Book](https://www.brighttalk.com/webcast/20421/654252)
 * [2025-11-03, Boston Public Library, Virtual](https://www.leventhalmap.org/event/author-talk-nathan-sanders-and-bruce-schneier/)
+* 2025-11-18, US House, Washington, D.C.
+* 2025-11-19, Georgetown University, Washington, D.C.
+* 2025-11-23, RiffRaff Books, Providence, RI
 * [2025-12-01, MIT Museum, Cambridge, MA](https://mitpress.mit.edu/event/bruce-schneier-at-the-mit-museum/)
 * [2025-12-03, City Lights, Virtual](https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/)
 
 <!-- bpl in person -->
-<!-- hopkins -->
 <!-- providence -->
 
 ## Reviews
