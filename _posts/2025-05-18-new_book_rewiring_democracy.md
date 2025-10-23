@@ -90,6 +90,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-09-11, Pittsburgh Review of Books, [Being a Politician](https://pghrev.com/being-a-politician/)
 * 2025-10-05, New_ Public Newsletter, [Will AI break democracy or fix it? Yes.](https://newpublic.substack.com/p/will-ai-break-democracy-or-fix-it)
 * 2025-10-21, AI Frontiers, [AI Will Be Your Personal Political Proxy](https://ai-frontiers.org/articles/ai-will-be-your-personal-political-proxy)
+* 2025-10-23, BuiltIn, [7 Principles for AI That Will Protect Democracy](https://builtin.com/articles/principles-ai-democracy)
 
 ## Interviews
 
@@ -104,6 +105,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-10-17, [Worth Knowing with Matt Robinson](https://worthknowing.substack.com/p/what-ai-is-doing-to-politics-is-way)
 * 2015-10-20, [Next Big Idea Club](https://nextbigideaclub.com/magazine/will-ai-strengthen-undermine-democracy-bookbite/57574/)
 * (Bruce) 2025-10-21, [IVY clip](https://login.ivy.com/insights/how-to-define-the-enduring-role-of-humans-in-an-aipowered-world-1-1) and [module](https://www.ivy.com/learning-modules/rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship-with-bruce-schneier-1)
+* 2025-10-23, [Harvard Crimson](https://www.thecrimson.com/article/2025/10/23/ai-use-in-elections/)
 
 <!--  AI and You-->
 <!-- Mass AI Hub -->
@@ -115,7 +117,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-08-12, Organization of American States Workshop on AI and Elections
 * [2025-10-10, Data + Donuts, Harvard Kennedy School, Virtual](https://www.hks.harvard.edu/events/data-donuts-nathan-sanders-how-ai-rewiring-democracy)
 * [2025-10-22, Harvard Bookstore, Cambridge Public Library, Cambridge, MA](https://www.harvard.com/event/schneier-sanders)
-* [2025-10-22, Ash Center, Harvard Kennedy School, Cambridge, MA](https://ash.harvard.edu/events/in-person-book-talk-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/)
+* [2025-10-22, Ash Center, Harvard Kennedy School, Cambridge, MA](https://ash.harvard.edu/events/in-person-book-talk-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/) - [Video](https://www.youtube.com/watch?v=gy-w4C6vfOc)
 * [2025-10-23, Data & Society, Virtual](https://datasociety.net/events/a-roadmap-for-rewiring-democracy-in-the-age-of-ai/)
 * [2025-10-23, BrightTALK Behind the Book](https://www.brighttalk.com/webcast/20421/654252)
 * [2025-11-03, Boston Public Library, Virtual](https://www.leventhalmap.org/event/author-talk-nathan-sanders-and-bruce-schneier/)
