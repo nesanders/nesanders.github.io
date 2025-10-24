@@ -106,10 +106,10 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2015-10-20, [Next Big Idea Club](https://nextbigideaclub.com/magazine/will-ai-strengthen-undermine-democracy-bookbite/57574/)
 * (Bruce) 2025-10-21, [IVY clip](https://login.ivy.com/insights/how-to-define-the-enduring-role-of-humans-in-an-aipowered-world-1-1) and [module](https://www.ivy.com/learning-modules/rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship-with-bruce-schneier-1)
 * 2025-10-23, [Harvard Crimson](https://www.thecrimson.com/article/2025/10/23/ai-use-in-elections/)
+* 2025-10-23, [New Books Network Book of the Day](https://newbooksnetwork.com/rewiring-democracy) - [YouTube](https://www.youtube.com/watch?v=U-jkZ7A1kEQ)
 
 <!--  AI and You-->
 <!-- Mass AI Hub -->
-<!-- New Book Network -->
 
 ## Speaking events
 
