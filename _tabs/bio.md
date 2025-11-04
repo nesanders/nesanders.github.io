@@ -11,4 +11,6 @@ As a researcher, Nathan is currently an Affiliate of the Berkman Klein Center at
 Nathan earned his undergraduate degrees in Physics and Astronomy at Michigan State University and his MS and Ph.D. in Astronomy and Astrophysics at Harvard University.
 
 
+<i>High resolution profile photo. Image credit: Shannon Morey.</i>
 
+![Nathan E. Sanders](/assets/img/nsanders_headshot_resized.jpg)
