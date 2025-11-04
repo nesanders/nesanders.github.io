@@ -103,7 +103,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-10-07, [SVIC Podcast mini-interviews (YouTube shorts)](https://www.youtube.com/shorts/78Qtcp0-IiU)
 * 2025-10-13, [Astrobites](https://astrobites.org/2025/10/13/nathan-sanders/)
 * 2025-10-17, [Worth Knowing with Matt Robinson](https://worthknowing.substack.com/p/what-ai-is-doing-to-politics-is-way)
-* 2015-10-20, [Next Big Idea Club](https://nextbigideaclub.com/magazine/will-ai-strengthen-undermine-democracy-bookbite/57574/)
+* 2015-10-20, [Next Big Idea Club](https://nextbigideaclub.com/magazine/will-ai-strengthen-undermine-democracy-bookbite/57574/), reprinted at [Fast Company](https://www.fastcompany.com/91428050/ai-democracy-insights-to-remember)
 * (Bruce) 2025-10-21, [IVY clip](https://login.ivy.com/insights/how-to-define-the-enduring-role-of-humans-in-an-aipowered-world-1-1) and [module](https://www.ivy.com/learning-modules/rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship-with-bruce-schneier-1)
 * 2025-10-23, [Harvard Crimson](https://www.thecrimson.com/article/2025/10/23/ai-use-in-elections/)
 * 2025-10-23, [New Books Network Book of the Day](https://newbooksnetwork.com/rewiring-democracy) - [YouTube](https://www.youtube.com/watch?v=U-jkZ7A1kEQ)
@@ -121,7 +121,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [2025-10-22, Ash Center, Harvard Kennedy School, Cambridge, MA](https://ash.harvard.edu/events/in-person-book-talk-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/) - [Video](https://www.youtube.com/watch?v=gy-w4C6vfOc)
 * [2025-10-23, Data & Society, Virtual](https://datasociety.net/events/a-roadmap-for-rewiring-democracy-in-the-age-of-ai/)
 * [2025-10-23, BrightTALK Behind the Book](https://www.brighttalk.com/webcast/20421/654252)
-* [2025-11-03, Boston Public Library, Virtual](https://www.leventhalmap.org/event/author-talk-nathan-sanders-and-bruce-schneier/)
+* [2025-11-03, Boston Public Library, Virtual](https://www.leventhalmap.org/event/author-talk-nathan-sanders-and-bruce-schneier/), [YouTube recording](https://www.youtube.com/watch?time_continue=3&v=W3h4uEBbDNI&embeds_referring_euri=https%3A%2F%2Fwww.leventhalmap.org%2F&source_ve_path=Mjg2NjY)
 * 2025-11-18, US House, Washington, D.C.
 * 2025-11-19, Georgetown University, Washington, D.C.
 * 2025-11-23, RiffRaff Books, Providence, RI
