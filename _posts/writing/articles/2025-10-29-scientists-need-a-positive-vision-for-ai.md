@@ -4,7 +4,7 @@ date: 2025-10-29
 pin: false
 categories: [writing, article]
 tags: [academia, ai, ieee spectrum]
-description: An article for The American Prospect laying out the landscape of political actors leveraging AI in the runup to the 2026 midterms.
+description: An article for IEEE Spectrum laying out the landscape of political actors leveraging AI in the runup to the 2026 midterms.
 authors: [nes, bruce]
 ---
 
