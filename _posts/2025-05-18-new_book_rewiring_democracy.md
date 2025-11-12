@@ -91,6 +91,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-10-05, New_ Public Newsletter, [Will AI break democracy or fix it? Yes.](https://newpublic.substack.com/p/will-ai-break-democracy-or-fix-it)
 * 2025-10-21, AI Frontiers, [AI Will Be Your Personal Political Proxy](https://ai-frontiers.org/articles/ai-will-be-your-personal-political-proxy)
 * 2025-10-23, BuiltIn, [7 Principles for AI That Will Protect Democracy](https://builtin.com/articles/principles-ai-democracy)
+* 2025-11-07, Time, [How AI Will Transform Democracy](https://time.com/7331883/how-ai-will-transform-democracy/)
 
 ## Interviews
 
