@@ -3,7 +3,7 @@ title: "Who Will Be the First American Candidate To Harness AI"
 date: 2025-11-10
 pin: false
 categories: [writing, article]
-tags: [academia, ai, fulcrum]
+tags: [democracy, ai, 2026 midterms, fulcrum]
 description: An article for The Fulcrum analogizing to how a breakthrough American politician could harness AI in the 2026 midterms like the Obama campaign capitalized on social media in 2008.
 authors: [nes, bruce]
 ---
