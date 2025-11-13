@@ -123,11 +123,11 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [2025-10-23, Data & Society, Virtual](https://datasociety.net/events/a-roadmap-for-rewiring-democracy-in-the-age-of-ai/)
 * [2025-10-23, BrightTALK Behind the Book](https://www.brighttalk.com/webcast/20421/654252)
 * [2025-11-03, Boston Public Library, Virtual](https://www.leventhalmap.org/event/author-talk-nathan-sanders-and-bruce-schneier/), [YouTube recording](https://www.youtube.com/watch?time_continue=3&v=W3h4uEBbDNI&embeds_referring_euri=https%3A%2F%2Fwww.leventhalmap.org%2F&source_ve_path=Mjg2NjY)
-* 2025-11-18, [US House event with PopVox Foundation](https://www.popvox.org/events/ai-and-congress), Washington, D.C.
-* 2025-11-19, [Georgetown University](https://georgetown.us5.list-manage.com/track/click?u=6b8fe4aeecf4730834fe19d73&id=325fed3e80&e=43e2996b04), Washington, D.C.
-* 2025-11-23 (to be rescheduled), RiffRaff Books, Providence, RI
+* [2025-11-18, Congressional briefing with PopVox Foundation](https://www.popvox.org/events/ai-and-congress), Washington, D.C.
+* [2025-11-19, Georgetown University](https://georgetown.us5.list-manage.com/track/click?u=6b8fe4aeecf4730834fe19d73&id=325fed3e80&e=43e2996b04), Washington, D.C.
 * [2025-12-01, MIT Museum, Cambridge, MA](https://mitpress.mit.edu/event/bruce-schneier-at-the-mit-museum/)
 * [2025-12-03, City Lights, Virtual](https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/)
+* (to be rescheduled), RiffRaff Books, Providence, RI
 
 <!-- bpl in person -->
 
