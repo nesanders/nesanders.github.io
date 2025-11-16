@@ -110,8 +110,9 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-10-23, [New Books Network Book of the Day](https://newbooksnetwork.com/rewiring-democracy) - [YouTube](https://www.youtube.com/watch?v=U-jkZ7A1kEQ)
 * (Bruce) 2025-10-24, [Brian Kilmeade show on Fox News Radio](https://radio.foxnews.com/2025/10/24/trump-turns-up-the-heat-on-narco-terrorist-drug-smugglers/)
 * 2025-11-14, [Authority Magazine: "Author Nathan E. Sanders On The Future Of Artificial Intelligence"](https://medium.com/authority-magazine/author-nathan-e-sanders-on-the-future-of-artificial-intelligence-4ab7bc21b476)
+<!--* 2025-11-17, [AI & You: Part 1](November 17: https://aiandyou.net/e/283-guests-bruce-schneier-nathan-sanders-ai-in-democracy-authors-part-1)-->
+<!-- * 2025-11-25, [AI & You: Part 2](https://aiandyou.net/e/284-guests-bruce-schneier-nathan-sanders-ai-in-democracy-authors-part-2) -->
 
-<!--  AI and You-->
 <!-- Mass AI Hub -->
 
 ## Speaking events
@@ -129,7 +130,8 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-11-18, Townhouse Event and Reception, Washington, D.C.
 * [2025-11-19, Georgetown University](https://georgetown.us5.list-manage.com/track/click?u=6b8fe4aeecf4730834fe19d73&id=325fed3e80&e=43e2996b04), Washington, D.C.
 * [2025-12-01, MIT Museum, Cambridge, MA](https://mitpress.mit.edu/event/bruce-schneier-at-the-mit-museum/)
-* [2025-12-03, City Lights, Virtual](https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/)
+* [2025-12-03, City Lights, Virtual](https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/) in conversation with [Cindy Cohn of EFF](https://www.eff.org/event/rewiring-democracy)
+* [2025-12-11, Cambridge Public Library AI Town Hall, Cambridge, MA](https://www.instagram.com/p/DOwYyV0kdmf/)
 * (to be rescheduled), RiffRaff Books, Providence, RI
 
 <!-- bpl in person -->
