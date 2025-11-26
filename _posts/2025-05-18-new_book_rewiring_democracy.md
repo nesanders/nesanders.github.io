@@ -94,6 +94,8 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-10-29, The Preamble, [Chapter 28: Acting as a Lawyer](https://thepreamble.com/p/rewiring-democracy)
 * 2025-11-07, Time, [How AI Will Transform Democracy](https://time.com/7331883/how-ai-will-transform-democracy/)
 
+<!-- Contrarian -->
+
 ## Interviews
 
 * (Bruce) 2025-09-01, [Stand Up! With Pete Dominick](https://www.youtube.com/watch?v=Et52ksJ9JmI)
@@ -111,8 +113,10 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-10-23, [New Books Network Book of the Day](https://newbooksnetwork.com/rewiring-democracy) - [YouTube](https://www.youtube.com/watch?v=U-jkZ7A1kEQ)
 * (Bruce) 2025-10-24, [Brian Kilmeade show on Fox News Radio](https://radio.foxnews.com/2025/10/24/trump-turns-up-the-heat-on-narco-terrorist-drug-smugglers/)
 * 2025-11-14, [Authority Magazine: "Author Nathan E. Sanders On The Future Of Artificial Intelligence"](https://medium.com/authority-magazine/author-nathan-e-sanders-on-the-future-of-artificial-intelligence-4ab7bc21b476)
-<!--* 2025-11-17, [AI & You: Part 1](November 17: https://aiandyou.net/e/283-guests-bruce-schneier-nathan-sanders-ai-in-democracy-authors-part-1)-->
-<!-- * 2025-11-25, [AI & You: Part 2](https://aiandyou.net/e/284-guests-bruce-schneier-nathan-sanders-ai-in-democracy-authors-part-2) -->
+* 2025-11-17, [AI & You: Part 1](https://aiandyou.net/e/283-guests-bruce-schneier-nathan-sanders-ai-in-democracy-authors-part-1)
+* 2025-11-24 [The Lincoln Project / Lincoln Square Media with Susan J. Demas](https://www.bloomberg.com/opinion/articles/2025-11-24/agentic-ai-could-improve-everything-or-cascade-into-doom) and on [Facebook](https://www.facebook.com/LincolnSquareHQ/videos/deepfakes-misinformation-more-how-ai-is-rewiring-politics/702474799584459/)
+* 2025-11-25, [AI & You: Part 2](https://aiandyou.net/e/284-guests-bruce-schneier-nathan-sanders-ai-in-democracy-authors-part-2)
+
 
 <!-- Mass AI Hub -->
 
@@ -126,9 +130,9 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [2025-10-23, Data & Society, Virtual](https://datasociety.net/events/a-roadmap-for-rewiring-democracy-in-the-age-of-ai/)
 * [2025-10-23, BrightTALK Behind the Book](https://www.brighttalk.com/webcast/20421/654252)
 * [2025-11-03, Boston Public Library, Virtual](https://www.leventhalmap.org/event/author-talk-nathan-sanders-and-bruce-schneier/), [YouTube recording](https://www.youtube.com/watch?time_continue=3&v=W3h4uEBbDNI&embeds_referring_euri=https%3A%2F%2Fwww.leventhalmap.org%2F&source_ve_path=Mjg2NjY)
-* [2025-11-18, Congressional briefing with PopVox Foundation](https://www.popvox.org/events/ai-and-congress), Washington, D.C.
+* [2025-11-18, Congressional briefing with POPVOX Foundation](https://www.popvox.org/events/ai-and-congress), Washington, D.C.
 * 2025-11-18, House Chief of Staff Book Club discussion, Washington, D.C.
-* 2025-11-18, Townhouse Event and Reception, Washington, D.C.
+* 2025-11-18, POPVOX Foundation Dialog and Reception, Washington, D.C.
 * [2025-11-19, Georgetown University](https://georgetown.us5.list-manage.com/track/click?u=6b8fe4aeecf4730834fe19d73&id=325fed3e80&e=43e2996b04), Washington, D.C.
 * [2025-12-01, MIT Museum, Cambridge, MA](https://mitpress.mit.edu/event/bruce-schneier-at-the-mit-museum/)
 * [2025-12-03, City Lights, Virtual](https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/) in conversation with [Cindy Cohn of EFF](https://www.eff.org/event/rewiring-democracy)
@@ -140,6 +144,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 ## Reviews
 
 * [Ben Shneiderman](https://www.cs.umd.edu/users/ben/), [Human-Centered AI Newsletter](https://groups.google.com/g/human-centered-ai/c/EX0ZT4lhLsY/m/ZuPQpRtUAwAJ?utm_medium=email&utm_source=footer&pli=1): "Overall, a valuable, wise, and balanced contribution in non-technical terms that will be welcomed by the five communities they address, and I hope the researchers and developers who could produce the happier outcomes the authors seek."
+* [Gideon Lichfield](https://gideonlichfield.com), [Bloomberg](https://www.bloomberg.com/opinion/articles/2025-11-24/agentic-ai-could-improve-everything-or-cascade-into-doom): "A dizzying list of ways in which AI could be used in politics, lawmaking, government operations and the judiciary, as well as how each of these uses could go wrong. . . . If even a fairly small fraction of the applications these authors contemplate come to pass, we’ll be looking at a world even more dramatically unpredictable than today’s."
 * [Virginia Eubanks](https://virginia-eubanks.com), [Nature](https://www.nature.com/articles/d41586-025-03718-w): "Structured clearly enough, even for readers who know little about AI, the book is rich with concrete examples and absorbing speculation. Schneier and Sanders propose that every aspect of democratic governance — such as negotiating procurement contracts, drafting legal briefs, producing local news or facilitating conversation across political divides — could be enhanced by the thoughtful application of AI developed under public control for public benefit."
 * [The National CIO Review](https://nationalcioreview.com/bookshelf/rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/): "With a systems-level view, Rewiring Democracy examines how technology and political power intersect. It explains the practical effects of AI in governance and asks how these tools can be aligned with democratic values and accountability."
 * [Malcom Murray](https://minimizinguncertainty.substack.com), [3 Quarks Daily](https://3quarksdaily.com/3quarksdaily/2025/10/rewiring-democracy-but-not-too-much-a-book-review.html): "Overall, a book worth reading. It helps the reader get up to speed on all the interesting use cases of AI in societal institutions and provides a foundation for the many ways AI could affect democracy."
