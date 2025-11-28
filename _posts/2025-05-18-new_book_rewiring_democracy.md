@@ -116,6 +116,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-11-17, [AI & You: Part 1](https://aiandyou.net/e/283-guests-bruce-schneier-nathan-sanders-ai-in-democracy-authors-part-1)
 * 2025-11-24 [The Lincoln Project / Lincoln Square Media with Susan J. Demas](https://www.bloomberg.com/opinion/articles/2025-11-24/agentic-ai-could-improve-everything-or-cascade-into-doom) and on [Facebook](https://www.facebook.com/LincolnSquareHQ/videos/deepfakes-misinformation-more-how-ai-is-rewiring-politics/702474799584459/)
 * 2025-11-25, [AI & You: Part 2](https://aiandyou.net/e/284-guests-bruce-schneier-nathan-sanders-ai-in-democracy-authors-part-2)
+* 2025-11-26, [New Books Network Newsletter](https://newbooksnetwork.substack.com/p/wandering-the-mountains-of-the-mind?publication_id=737038&post_id=179208740&triedRedirect=true)
 
 
 <!-- Mass AI Hub -->
@@ -139,6 +140,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [2025-12-11, Cambridge Public Library AI Town Hall, Cambridge, MA](https://www.instagram.com/p/DOwYyV0kdmf/)
 * (to be rescheduled), RiffRaff Books, Providence, RI
 
+<!-- City Lights -->
 <!-- bpl in person -->
 
 ## Reviews
