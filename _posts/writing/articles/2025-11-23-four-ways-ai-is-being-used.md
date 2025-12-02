@@ -1,10 +1,10 @@
 ---
 title: "Who Will Be the First American Candidate To Harness AI"
-date: 2025-11-10
+date: 2025-11-23
 pin: false
 categories: [writing, article]
 tags: [democracy, ai, public ai, elections, legal system, the guardian]
-description: An article for The Fulcrum analogizing to how a breakthrough American politician could harness AI in the 2026 midterms like the Obama campaign capitalized on social media in 2008.
+description: An article for The Guardian telling four stories of AI being used to support democratic functions in Japan, Brazil, Switzerland, and California.
 authors: [nes, bruce]
 ---
 

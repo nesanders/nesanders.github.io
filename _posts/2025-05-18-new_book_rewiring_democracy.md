@@ -93,6 +93,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-10-23, BuiltIn, [7 Principles for AI That Will Protect Democracy](https://builtin.com/articles/principles-ai-democracy)
 * 2025-10-29, The Preamble, [Chapter 28: Acting as a Lawyer](https://thepreamble.com/p/rewiring-democracy)
 * 2025-11-07, Time, [How AI Will Transform Democracy](https://time.com/7331883/how-ai-will-transform-democracy/)
+* 2025-12-02, The Contrarian, [How to Build AI for Democracy](https://contrarian.substack.com/p/how-to-build-ai-for-democracy)
 
 <!-- Contrarian -->
 
@@ -115,8 +116,10 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-11-14, [Authority Magazine: "Author Nathan E. Sanders On The Future Of Artificial Intelligence"](https://medium.com/authority-magazine/author-nathan-e-sanders-on-the-future-of-artificial-intelligence-4ab7bc21b476)
 * 2025-11-17, [AI & You: Part 1](https://aiandyou.net/e/283-guests-bruce-schneier-nathan-sanders-ai-in-democracy-authors-part-1)
 * 2025-11-24 [The Lincoln Project / Lincoln Square Media with Susan J. Demas](https://www.bloomberg.com/opinion/articles/2025-11-24/agentic-ai-could-improve-everything-or-cascade-into-doom) and on [Facebook](https://www.facebook.com/LincolnSquareHQ/videos/deepfakes-misinformation-more-how-ai-is-rewiring-politics/702474799584459/)
+* 2025-11-24, [Diginomica](https://diginomica.com/monday-morning-moan-memo-trump-20-its-federal-ai-regulatory-power-grab-will-really-strangle-western)
 * 2025-11-25, [AI & You: Part 2](https://aiandyou.net/e/284-guests-bruce-schneier-nathan-sanders-ai-in-democracy-authors-part-2)
 * 2025-11-26, [New Books Network Newsletter](https://newbooksnetwork.substack.com/p/wandering-the-mountains-of-the-mind?publication_id=737038&post_id=179208740&triedRedirect=true)
+* 2025-11-28, [TechCrunch](https://techcrunch.com/2025/11/28/the-race-to-regulate-ai-has-sparked-a-federal-vs-state-showdown/)
 
 
 <!-- Mass AI Hub -->
