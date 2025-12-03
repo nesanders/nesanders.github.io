@@ -1,5 +1,5 @@
 ---
-title: "Who Will Be the First American Candidate To Harness AI"
+title: "Four ways AI is being used to strengthen democracies worldwide"
 date: 2025-11-23
 pin: false
 categories: [writing, article]
