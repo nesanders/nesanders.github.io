@@ -120,6 +120,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-11-25, [AI & You: Part 2](https://aiandyou.net/e/284-guests-bruce-schneier-nathan-sanders-ai-in-democracy-authors-part-2)
 * 2025-11-26, [New Books Network Newsletter](https://newbooksnetwork.substack.com/p/wandering-the-mountains-of-the-mind?publication_id=737038&post_id=179208740&triedRedirect=true)
 * 2025-11-28, [TechCrunch](https://techcrunch.com/2025/11/28/the-race-to-regulate-ai-has-sparked-a-federal-vs-state-showdown/)
+* 2025-12-03, (Bruce) [Briane Kilmeade Show on FOX News Radio (again)](https://podcasts.apple.com/us/podcast/bruce-schneier-how-ai-is-already-changing-our-political/id219258773?i=1000739337522)
 
 
 <!-- Mass AI Hub -->
