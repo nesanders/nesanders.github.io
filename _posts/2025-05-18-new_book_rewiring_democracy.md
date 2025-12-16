@@ -121,7 +121,8 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-11-26, [New Books Network Newsletter](https://newbooksnetwork.substack.com/p/wandering-the-mountains-of-the-mind?publication_id=737038&post_id=179208740&triedRedirect=true)
 * 2025-11-28, [TechCrunch](https://techcrunch.com/2025/11/28/the-race-to-regulate-ai-has-sparked-a-federal-vs-state-showdown/)
 * 2025-12-03, (Bruce) [Briane Kilmeade Show on FOX News Radio (again)](https://podcasts.apple.com/us/podcast/bruce-schneier-how-ai-is-already-changing-our-political/id219258773?i=1000739337522)
-
+* 2025-12-09, [Big Think](https://bigthink.com/books/rewiring-democracy/)
+<!-- war room -->
 
 <!-- Mass AI Hub -->
 
@@ -141,7 +142,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [2025-11-19, Georgetown University](https://georgetown.us5.list-manage.com/track/click?u=6b8fe4aeecf4730834fe19d73&id=325fed3e80&e=43e2996b04), Washington, D.C.
 * [2025-12-01, MIT Museum, Cambridge, MA](https://mitpress.mit.edu/event/bruce-schneier-at-the-mit-museum/)
 * [2025-12-03, City Lights, Virtual](https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/) in conversation with [Cindy Cohn of EFF](https://www.eff.org/event/rewiring-democracy)
-* [2025-12-11, Cambridge Public Library AI Town Hall, Cambridge, MA](https://www.instagram.com/p/DOwYyV0kdmf/)
+* [2025-12-11, Cambridge Public Library AI & Us Town Hall, Cambridge, MA](https://cambridgepl.libcal.com/event/15747563)
 * (to be rescheduled), RiffRaff Books, Providence, RI
 
 <!-- City Lights -->
@@ -152,6 +153,8 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [Ben Shneiderman](https://www.cs.umd.edu/users/ben/), [Human-Centered AI Newsletter](https://groups.google.com/g/human-centered-ai/c/EX0ZT4lhLsY/m/ZuPQpRtUAwAJ?utm_medium=email&utm_source=footer&pli=1): "Overall, a valuable, wise, and balanced contribution in non-technical terms that will be welcomed by the five communities they address, and I hope the researchers and developers who could produce the happier outcomes the authors seek."
 * [Gideon Lichfield](https://gideonlichfield.com), [Bloomberg](https://www.bloomberg.com/opinion/articles/2025-11-24/agentic-ai-could-improve-everything-or-cascade-into-doom): "A dizzying list of ways in which AI could be used in politics, lawmaking, government operations and the judiciary, as well as how each of these uses could go wrong. . . . If even a fairly small fraction of the applications these authors contemplate come to pass, we’ll be looking at a world even more dramatically unpredictable than today’s."
 * [Virginia Eubanks](https://virginia-eubanks.com), [Nature](https://www.nature.com/articles/d41586-025-03718-w): "Structured clearly enough, even for readers who know little about AI, the book is rich with concrete examples and absorbing speculation. Schneier and Sanders propose that every aspect of democratic governance — such as negotiating procurement contracts, drafting legal briefs, producing local news or facilitating conversation across political divides — could be enhanced by the thoughtful application of AI developed under public control for public benefit."
+* [Samuel Ross](https://muckrack.com/samuel-ross-1/articles), [The Cascadia Advocate | Northwest Progressive Institute](https://www.nwprogressive.org/weblog/2025/12/book-review-rewiring-democracy-offers-a-nuanced-examination-of-ais-impact-on-our-civic-and-social-fabric.html): "In Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship, Bruce Schneier and Nathan E. Sanders look past the panic and hype to explore what AI actually means for the machinery of democracy itself."
+* [Ellsworth Toohey](https://boingboing.net/author/ellsworthtoohey), [BoingBoing](https://boingboing.net/2025/12/04/how-ai-could-save-democracy-instead-of-destroying-it.html): "Bruce Schneier and Nathan Sanders are asking the right question in their new book Rewiring Democracy: not whether AI will change politics, but how we can shape that change. The cybersecurity expert (behind Data and Goliath) and data scientist tackle something most AI discussions skip entirely — the nitty-gritty of democratic governance."
 * [The National CIO Review](https://nationalcioreview.com/bookshelf/rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/): "With a systems-level view, Rewiring Democracy examines how technology and political power intersect. It explains the practical effects of AI in governance and asks how these tools can be aligned with democratic values and accountability."
 * [Malcom Murray](https://minimizinguncertainty.substack.com), [3 Quarks Daily](https://3quarksdaily.com/3quarksdaily/2025/10/rewiring-democracy-but-not-too-much-a-book-review.html): "Overall, a book worth reading. It helps the reader get up to speed on all the interesting use cases of AI in societal institutions and provides a foundation for the many ways AI could affect democracy."
 * [Ben Rothke](https://www.rothke.com), [RSA Conference](https://www.rsaconference.com/library/blog/bens-book-of-the-month-rewiring-democracy): "When it comes to AI, the hype and misunderstanding are overwhelming. The authors cut through all that and provide the reader with a pragmatic, honest look at how AI has impacted and will continue to impact democracy and the democratic process. If you want to understand AI's true power to strengthen and empower democracy, this is a fascinating and essential read."
