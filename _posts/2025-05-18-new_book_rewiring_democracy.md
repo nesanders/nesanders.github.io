@@ -122,6 +122,8 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-11-28, [TechCrunch](https://techcrunch.com/2025/11/28/the-race-to-regulate-ai-has-sparked-a-federal-vs-state-showdown/)
 * 2025-12-03, (Bruce) [Briane Kilmeade Show on FOX News Radio (again)](https://podcasts.apple.com/us/podcast/bruce-schneier-how-ai-is-already-changing-our-political/id219258773?i=1000739337522)
 * 2025-12-09, [Big Think](https://bigthink.com/books/rewiring-democracy/)
+* 2025-12-22, [Law & Disorder Radio](https://lawanddisorder.org/2025/12/law-and-disorder-december-22-2025/)
+
 <!-- war room -->
 
 <!-- Mass AI Hub -->
