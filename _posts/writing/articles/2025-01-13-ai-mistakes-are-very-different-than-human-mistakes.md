@@ -8,7 +8,7 @@ description: An article for IEEE Spectrum about how the weirdness of AI's mistak
 authors: [bruce, nes]
 ---
 
-*This article was written with [Bruce Schneier](https://www.schneier.com) and originally published at *[IEEE Spectrum](https://spectrum.ieee.org/ai-mistakes-schneier)* on 2025-01-13 and in their April 2025 print issue.
+*This article was written with [Bruce Schneier](https://www.schneier.com) and originally published at [IEEE Spectrum](https://spectrum.ieee.org/ai-mistakes-schneier) on 2025-01-13 and in their April 2025 print issue. It was listed among their [top 6 AI stories of 2025](https://spectrum.ieee.org/amp/ai-2025-2674418715).*
 
 
 <p>Humans make mistakes all the time. All of us do, every day, in tasks both new and routine. Some of our mistakes are minor and some are catastrophic. Mistakes can break trust with our friends, lose the confidence of our bosses, and sometimes be the difference between life and death.</p>

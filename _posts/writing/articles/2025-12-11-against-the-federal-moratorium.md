@@ -8,7 +8,7 @@ description: An article for Gizmodo arguing against the Trump administration's p
 authors: [nes, bruce]
 ---
 
-*This article was written with Bruce Schneier and originally published at [Gizmodo](https://gizmodo.com/against-the-federal-moratorium-on-state-level-regulation-of-ai-2000698390) on 2025-12-13.*
+*This article was written with Bruce Schneier and originally published at [Gizmodo](https://gizmodo.com/against-the-federal-moratorium-on-state-level-regulation-of-ai-2000698390) on 2025-12-11.*
 
 Cast your mind back to May of this year: Congress was in the throes of debate over the massive <a href="https://www.congress.gov/bill/119th-congress/house-bill/1">budget bill</a>. Amidst the many seismic provisions, Senator Ted Cruz <a href="https://iapp.org/news/a/policy-analysis-us-house-committee-seeks-moratorium-on-state-AI-rules">dropped</a> a ticking time bomb of tech policy: a ten-year moratorium on the ability of states to regulate artificial intelligence.
 
