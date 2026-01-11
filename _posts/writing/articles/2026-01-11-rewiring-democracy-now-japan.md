@@ -38,7 +38,7 @@ One [interview](https://depth-interview-ai.vercel.app/report/637a7c88-0900-47e9-
 
 Ultimately, the respondent pushed back on the AI’s attempts to go into the structural details of the system, and drove home a different message instead—the Diet must show that it is capable of reform, and implementing a size reduction would be an easily-understandable way to show the public they're up to the job.
 
-![]({{"/assets/img/writing/2026_rewiring_now_japan/image2.jpg" | relative_url }})
+![]({{"/assets/img/writing/2026_rewiring_now_japan/image2.png" | relative_url }})
 
 The initial exchange of a longer [session](https://depth-interview-ai.vercel.app/report/637a7c88-0900-47e9-a2b1-4d5a36e463dd) between Mirai AI Interview and a respondent to a consultation about changing the size of the Diet, from October 18 (machine translated).
 
@@ -50,7 +50,7 @@ The Mirai AI Interview tool is an evolution of a practice Anno started during hi
 
 We asked Anno for an example of a meaningful policy change he adopted as a result of this system. He gave the example of a [suggestion](https://github.com/takahiroanno2024/election2024/issues/283) by GitHub user [sumersummer800](https://github.com/takahiroanno2024/election2024/pull/293/files) from July 2024, to [expand](https://github.com/takahiroanno2024/election2024/pull/293/files) his public health platform to provide public funding for the RSV vaccine for pregnant women. After only one day, the user could see their specific changes accepted and adopted into Anno’s platform. (Nineteen months later, this [became](https://mainichi.jp/english/articles/20251119/p2g/00m/0na/025000c) actual policy in Japan.) The direct and visible impact of the user’s engagement is part of the process: The role of technology here, in part, is to provide positive feedback in return for political action.
 
-![]({{"/assets/img/writing/2026_rewiring_now_japan/image3.jpg" | relative_url }})
+![]({{"/assets/img/writing/2026_rewiring_now_japan/image3.png" | relative_url }})
 
 A user’s proposed change to Takahiro Anno’s 2024 policy platform for public health is [accepted](https://github.com/takahiroanno2024/election2024/issues/283%23issuecomment-2208875056) (machine translated).
 
@@ -62,7 +62,7 @@ Anno told us that he realizes these broad listening tools can be systematically 
 
 Team Mirai’s tools encourage their supporters to take action beyond participating in their own policy development process. The [Action Board](http://action.team-mir.ai) is a gamified volunteer activation platform. Users who register are awarded points and recognized on a [leader board](https://action.team-mir.ai/seasons/season1/ranking/mission) when they take political actions directed by Team Mirai, such as following their social accounts or reposting their content, putting up posters or distributing flyers, volunteering at events, or making a policy suggestion. As of late November, more than 240,000 actions by more than 19,000 users were registered. At least one other Japanese political party, the Democratic Party for the People, has adopted and launched their own Action Board.
 
-![]({{"/assets/img/writing/2026_rewiring_now_japan/image1.jpg" | relative_url }})
+![]({{"/assets/img/writing/2026_rewiring_now_japan/image1.png" | relative_url }})
 
 A volunteer leaderboard on the Mirai Action Board from the 2025 Diet election campaign (machine translated).
 
@@ -70,7 +70,7 @@ A volunteer leaderboard on the Mirai Action Board from the 2025 Diet election ca
 
 One of Team Mirai’s more recent innovations is the Mirai [Gikai](https://gikai.team-mir.ai), translating to “Assembly” or “Parliament” app. The app looks like a live, AI-generated newsfeed of what’s happening in the Diet. The app includes a page for each bill with information about its status in the legislature, a summary of its effects, and links to news reporting about related issues. When the party, Team Mirai, has a stance on the issue, it is posted to the page. An AI chatbot on the side allows users to ask specific questions. Released this October, Team Mirai [reported](https://note.com/jujunjun110/n/n7e48f7bd2b63) that the [open source](https://github.com/team-mirai-volunteer/mirai-gikai) tool received 440,000 views in just its first two days.
 
-![]({{"/assets/img/writing/2026_rewiring_now_japan/image4.jpg" | relative_url }})
+![]({{"/assets/img/writing/2026_rewiring_now_japan/image4.png" | relative_url }})
 
 The Mirai Assembly (Gikai) app surfaces information about bills under active discussion in the Diet, and provides an AI chatbot to explain and contextualize those proposals (machine translated).
 
