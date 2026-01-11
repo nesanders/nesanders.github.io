@@ -1,10 +1,10 @@
 ---
 title: "New book: Rewiring Democracy"
-date: 2025-05-18
+date: 2025-10-01
 pin: true
 categories: [writing, book]
 tags: [ai, democracy]
-description: Announcing the forthcoming book Rewiring Democracy written with Bruce Schneier
+description: Announcing the book Rewiring Democracy written with Bruce Schneier
 image:
   path: "/assets/rewiring_democracy_cover_preview.jpg"
   alt: "Book cover for Rewiring Democracy"
@@ -125,7 +125,8 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-12-22, [Law & Disorder Radio](https://lawanddisorder.org/2025/12/law-and-disorder-december-22-2025/)
 
 <!-- war room -->
-
+<!-- Bosetta -->
+<!-- Democracy Works -->
 <!-- Mass AI Hub -->
 
 ## Speaking events
@@ -149,6 +150,9 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 
 <!-- City Lights -->
 <!-- bpl in person -->
+<!-- Ukraine -->
+<!-- Treasury Execituve -->
+<!-- ADPU -->
 
 ## Reviews
 
@@ -161,3 +165,5 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [The National CIO Review](https://nationalcioreview.com/bookshelf/rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/): "With a systems-level view, Rewiring Democracy examines how technology and political power intersect. It explains the practical effects of AI in governance and asks how these tools can be aligned with democratic values and accountability."
 * [Malcom Murray](https://minimizinguncertainty.substack.com), [3 Quarks Daily](https://3quarksdaily.com/3quarksdaily/2025/10/rewiring-democracy-but-not-too-much-a-book-review.html): "Overall, a book worth reading. It helps the reader get up to speed on all the interesting use cases of AI in societal institutions and provides a foundation for the many ways AI could affect democracy."
 * [Ben Rothke](https://www.rothke.com), [RSA Conference](https://www.rsaconference.com/library/blog/bens-book-of-the-month-rewiring-democracy): "When it comes to AI, the hype and misunderstanding are overwhelming. The authors cut through all that and provide the reader with a pragmatic, honest look at how AI has impacted and will continue to impact democracy and the democratic process. If you want to understand AI's true power to strengthen and empower democracy, this is a fascinating and essential read."
+* [Harvest Prude](https://www.christianitytoday.com/writers/harvest-prude/), [Christianity Today](https://www.christianitytoday.com/2026/01/books-column-politics-public-life-prude/): "...the authors present a thought-provoking, succinct, timely exploration. Read it and decide for yourself—just don’t outsource your conclusions to an AI agent."
+
