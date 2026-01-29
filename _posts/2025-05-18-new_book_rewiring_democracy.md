@@ -123,6 +123,10 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-12-03, (Bruce) [Briane Kilmeade Show on FOX News Radio (again)](https://podcasts.apple.com/us/podcast/bruce-schneier-how-ai-is-already-changing-our-political/id219258773?i=1000739337522)
 * 2025-12-09, [Big Think](https://bigthink.com/books/rewiring-democracy/)
 * 2025-12-22, [Law & Disorder Radio](https://lawanddisorder.org/2025/12/law-and-disorder-december-22-2025/)
+* 2026-01-19, (Bruce only) [Economics Explored with Gene Tunny](https://adepteconomics.com.au/rewiring-democracy-ai-power-and-the-future-of-democratic-governance/)
+* 2026-01-24, (Bruce only) [The Harvard Gazette](https://news.harvard.edu/gazette/story/2026/01/what-if-we-used-ai-to-strengthen-democracy/)
+* 2026-01-28, [Overdueing it podcast](https://www.overdueingit.org/home/episode/429ec9eb/41-rethinking-ai-for-the-public-good)
+
 
 <!-- war room -->
 <!-- Bosetta -->
@@ -144,15 +148,15 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2025-11-18, POPVOX Foundation Dialog and Reception, Washington, D.C.
 * [2025-11-19, Georgetown University](https://georgetown.us5.list-manage.com/track/click?u=6b8fe4aeecf4730834fe19d73&id=325fed3e80&e=43e2996b04), Washington, D.C.
 * [2025-12-01, MIT Museum, Cambridge, MA](https://mitpress.mit.edu/event/bruce-schneier-at-the-mit-museum/)
-* [2025-12-03, City Lights, Virtual](https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/) in conversation with [Cindy Cohn of EFF](https://www.eff.org/event/rewiring-democracy)
 * [2025-12-11, Cambridge Public Library AI & Us Town Hall, Cambridge, MA](https://cambridgepl.libcal.com/event/15747563)
-* (to be rescheduled), RiffRaff Books, Providence, RI
+* [2026-01-14, Treasury Executive Institute](https://home.tei.treasury.gov), virtual
+* 2026-01-19, [USE-IT](https://pouse.it) (Ukrainian Scientific and Educational IT Society), virtual
+<!--* (to be rescheduled), RiffRaff Books, Providence, RI-->
+* [2026-01-24, City Lights, Virtual](https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/) in conversation with [Cindy Cohn of EFF](https://www.eff.org/event/rewiring-democracy)
+* 2026-01-27, [Association of Public Data Users webinar](https://youtu.be/RRhnhe8b1VU?si=rjYvpTHQN7VVdFlZ)
 
-<!-- City Lights -->
 <!-- bpl in person -->
-<!-- Ukraine -->
-<!-- Treasury Execituve -->
-<!-- ADPU -->
+<!-- Reeher interview -->
 
 ## Reviews
 
