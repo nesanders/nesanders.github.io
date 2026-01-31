@@ -126,10 +126,10 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2026-01-19, (Bruce only) [Economics Explored with Gene Tunny](https://adepteconomics.com.au/rewiring-democracy-ai-power-and-the-future-of-democratic-governance/)
 * 2026-01-24, (Bruce only) [The Harvard Gazette](https://news.harvard.edu/gazette/story/2026/01/what-if-we-used-ai-to-strengthen-democracy/)
 * 2026-01-28, [Overdueing it podcast](https://www.overdueingit.org/home/episode/429ec9eb/41-rethinking-ai-for-the-public-good)
-
+* 2026-01-31, [Campbell Conversations on WRVO, NPR for Central New York](https://www.wrvo.org/show/campbell-conversations-0/2026-01-31/nathan-sanders-on-the-campbell-conversations)
+* 2026-02-01, [Social Media & Politics](https://socialmediaandpolitics.org/ai-government-rewiring-democracy-campaigns-legislation-schneier-sanders/)
 
 <!-- war room -->
-<!-- Bosetta -->
 <!-- Democracy Works -->
 <!-- Mass AI Hub -->
 
