@@ -128,9 +128,9 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2026-01-28, [Overdueing it podcast](https://www.overdueingit.org/home/episode/429ec9eb/41-rethinking-ai-for-the-public-good)
 * 2026-01-31, [Campbell Conversations on WRVO, NPR for Central New York](https://www.wrvo.org/show/campbell-conversations-0/2026-01-31/nathan-sanders-on-the-campbell-conversations)
 * 2026-02-01, [Social Media & Politics](https://socialmediaandpolitics.org/ai-government-rewiring-democracy-campaigns-legislation-schneier-sanders/)
+* 2026-02-03, [Democracy Works (WPSU)](https://radio.wpsu.org/opinion/2026-02-03/democracy-works-how-ai-is-changing-democracy)
 
 <!-- war room -->
-<!-- Democracy Works -->
 <!-- Mass AI Hub -->
 
 ## Speaking events
@@ -170,5 +170,6 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [The National CIO Review](https://nationalcioreview.com/bookshelf/rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/): "With a systems-level view, Rewiring Democracy examines how technology and political power intersect. It explains the practical effects of AI in governance and asks how these tools can be aligned with democratic values and accountability."
 * [Malcom Murray](https://minimizinguncertainty.substack.com), [3 Quarks Daily](https://3quarksdaily.com/3quarksdaily/2025/10/rewiring-democracy-but-not-too-much-a-book-review.html): "Overall, a book worth reading. It helps the reader get up to speed on all the interesting use cases of AI in societal institutions and provides a foundation for the many ways AI could affect democracy."
 * [Ben Rothke](https://www.rothke.com), [RSA Conference](https://www.rsaconference.com/library/blog/bens-book-of-the-month-rewiring-democracy): "When it comes to AI, the hype and misunderstanding are overwhelming. The authors cut through all that and provide the reader with a pragmatic, honest look at how AI has impacted and will continue to impact democracy and the democratic process. If you want to understand AI's true power to strengthen and empower democracy, this is a fascinating and essential read."
+* [Johan Steyn](https://www.linkedin.com/in/johanosteyn/), [AI for Business](https://www.aiforbusiness.net/post/ai-book-review-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship): "One of the book’s major strengths is its refusal to reduce “AI and democracy” to a conversation about deepfakes and disinformation... Rewiring Democracy is not a despairing book, but neither is it naïve. Schneier and Sanders take AI’s risks seriously, yet they refuse to accept that democratic erosion is inevitable."
 * [Harvest Prude](https://www.christianitytoday.com/writers/harvest-prude/), [Christianity Today](https://www.christianitytoday.com/2026/01/books-column-politics-public-life-prude/): "...the authors present a thought-provoking, succinct, timely exploration. Read it and decide for yourself—just don’t outsource your conclusions to an AI agent."
 
