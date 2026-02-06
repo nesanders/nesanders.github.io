@@ -4,7 +4,7 @@ date: 2026-02-05
 pin: false
 categories: [writing, article]
 tags: [democracy, ai, the conversation]
-description: An article for The Conversation about AI's fundamendal differentiating capabilities.
+description: An article for The Conversation about the arms races AI is fueling across publishing, academia, courts, legislatures, and beyond.
 authors: [nes, bruce]
 ---
 
