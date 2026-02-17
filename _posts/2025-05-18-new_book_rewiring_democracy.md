@@ -146,7 +146,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [2025-11-18, Congressional briefing with POPVOX Foundation](https://www.popvox.org/events/ai-and-congress), Washington, D.C.
 * 2025-11-18, House Chief of Staff Book Club discussion, Washington, D.C.
 * 2025-11-18, POPVOX Foundation Dialog and Reception, Washington, D.C.
-* [2025-11-19, Georgetown University](https://georgetown.us5.list-manage.com/track/click?u=6b8fe4aeecf4730834fe19d73&id=325fed3e80&e=43e2996b04), Washington, D.C.
+* [2025-11-19, Georgetown University](https://georgetown.us5.list-manage.com/track/click?u=6b8fe4aeecf4730834fe19d73&id=325fed3e80&e=43e2996b04), Washington, D.C. Recorded and distributed by [CSPAN Book TV](https://www.c-span.org/program/book-tv/rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/669302).
 * [2025-12-01, MIT Museum, Cambridge, MA](https://mitpress.mit.edu/event/bruce-schneier-at-the-mit-museum/)
 * [2025-12-11, Cambridge Public Library AI & Us Town Hall, Cambridge, MA](https://cambridgepl.libcal.com/event/15747563)
 * [2026-01-14, Treasury Executive Institute](https://home.tei.treasury.gov), virtual
