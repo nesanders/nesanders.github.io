@@ -38,7 +38,7 @@ Some non-governmental organizations have also been producing open and transparen
 
 ## How Apertus Came To Be
 
-In November, to learn more about Apertus, we spoke to [Imanol Schlag](https://ischlag.github.io), AI Research Scientist at the ETH AI Center at the Swiss public university ETH Zurich and co-lead of Apertus, and [Joshua Tan](https://www.joshuatan.com/research/), Product Lead for the Public AI Inference Utility [PublicAI.co](http://publicai.co).
+In November, to learn more about Apertus, we spoke to [Imanol Schlag](https://ischlag.github.io), AI Research Scientist at the ETH AI Center at the Swiss public university ETH Zurich and co-lead of Apertus, and [Joshua Tan](https://www.joshuatan.com/research/), Product Lead for the Public AI Inference Utility [PublicAI.co](https://publicai.co).
 
 Schlag’s co-leads on the Apertus project are [Antoine Bosselut](https://atcbosselut.github.io) and [Martin Jaggi](https://people.epfl.ch/martin.jaggi?lang=en), professors in natural language processing and machine learning at the public research university EPFL in Lausanne, Switzerland. He and his colleagues benefited from a generation of investment in Swiss national supercomputing infrastructure. The Swiss National Supercomputing Centre (CSCS) operates a computing cluster extended in 2024 with 2,688 advanced GPU nodes with a total of nearly 11,000 [NVIDIA GH200 Grace Hopper](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/) “superchips.”
 
@@ -60,7 +60,7 @@ The model is published and licensed for permissive noncommercial and commercial 
 Tan’s Public AI Inference Utility project [describes](https://publicai.co/about) itself as “public libraries for AI,” in that it makes more accessible resources that you might otherwise purchase commercially. You can try Apertus right now on their website, [publicai.co](https://publicai.co). This is a project of the nonprofit [Metagov](https://metagov.org) with funding from Mozilla, the Future of Life Institute, and the Center for Cultural Innovation. For now, Apertus can be [freely](https://publicai.substack.com/p/public-ai-is-here) used, thanks to compute resources donated by multiple [partners](https://publicai.co/#:~:text=Start%20contributing-,Our%2520Partners,-Powered%2520by%2520models), including Swiss AI / CSCS, commercial cloud providers [AWS](https://aws.amazon.com/) and [Cudo](https://www.cudocompute.com/), and national AI and computing initiatives of [Australia](https://nci.org.au), [Germany](https://www.fz-juelich.de/), and [Singapore](https://www.aisingapore.org/). [Developers](https://platform.publicai.co/docs) can use the Public AI Inference Utility to power applications at a nominal cost. In the future, the Utility has [said](https://publicai.co/stories/utility) it will explore ad-supported, usage-based, and premium subscription plans to sustain the service.
 
 ![](/assets/img/writing/2026_rewiring_now_switzerland/image3.png)
-*An example use of the Public AI Inference utility at [publicai.co](http://publicai.co), demonstrating German-language question answering to a query asking for a definition of sovereign AI.*
+*An example use of the Public AI Inference utility at [publicai.co](https://publicai.co), demonstrating German-language question answering to a query asking for a definition of sovereign AI.*
 
 ## The Features, and Drawbacks, of Apertus
 
