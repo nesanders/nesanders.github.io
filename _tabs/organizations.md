@@ -32,7 +32,7 @@ ComSciCon is the international conference series on Science Communication. We ha
 
 Astrobites is a graduate student writing collaborative focusing on summarizing recent astrophysics research articles to make them accessible for an undergraduate audience and general readers. Astrobites' hundreds of volunteer graduate student authors have published more than 3,000 articles on the site since its founding in 2010. It was the first of the ScienceBites sites.
 
-[All my posts at Astrobites can be found here.](https://astrobites.org/author/nsanders/).
+[All my posts at Astrobites can be found here](https://astrobites.org/author/nsanders/).
 
 ![ScienceBites logo](/assets/img/logos/sciencebites.png){: .left width="150"}
 # [ScienceBites](https://sciencebites.org)
