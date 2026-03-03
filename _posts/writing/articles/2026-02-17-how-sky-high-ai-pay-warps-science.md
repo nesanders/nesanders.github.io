@@ -1,10 +1,10 @@
 ---
 title: "How sky-high AI pay warps science"
 date: 2026-02-17
-pin: false
+pin: true
 categories: [writing, article]
 tags: [ai, scientific enterprise, economics, nature]
-description: An Nature Commentary article about how academia should resist the corporate arms race involving paying AI developers exorbitant salaries.
+description: A Nature Commentary article about how academia should resist the corporate arms race involving paying AI developers exorbitant salaries.
 authors: [nes, bruce]
 ---
 

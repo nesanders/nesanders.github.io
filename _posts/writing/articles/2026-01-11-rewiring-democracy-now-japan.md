@@ -1,7 +1,7 @@
 ---
 title: "Rewiring Democracy Now: Japan"
 date: 2026-01-11
-pin: false
+pin: true
 categories: [writing, article]
 tags: [democracy, ai, japan, team mirai, takahiro ano, the renovator]
 description: An article for The Renovator about Takahiro Anno and the digital democracy politcal party in Japan, Team Mirai.
