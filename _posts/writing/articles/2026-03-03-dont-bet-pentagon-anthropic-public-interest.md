@@ -4,7 +4,7 @@ date: 2026-03-03
 pin: false
 categories: [writing, article]
 tags: [democracy, ai, defense, security, the guardian]
-description: An article for The Globe and Mail arguing against Canada's outsourcing of sovereign AI to American Big Tech and in favor of a Canadian Public AI solution.
+description: An article for The Guardian with perspective on the Defense Department's designation of Anthropic as a national security risk.
 authors: [nes, bruce]
 ---
 
