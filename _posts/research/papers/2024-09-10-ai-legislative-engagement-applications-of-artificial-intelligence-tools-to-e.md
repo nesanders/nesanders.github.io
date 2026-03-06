@@ -8,7 +8,7 @@ description: "Case studies on using AI for legislative engagement from Make.org 
 authors: [ "acombaz", "dmas", "nes", "etal" ]
 ---
 
-*This paper was originally published in in [AI4Democracy](https://www.ie.edu/cgc/research/ai4democracy/), IE Center for the Governance of Change in 2024.*
+*This paper was originally published in [AI4Democracy](https://www.ie.edu/cgc/research/ai4democracy/), IE Center for the Governance of Change in 2024.*
 
 A PDF of the paper is available [here]({{"/assets/papers/2024-ai_legislative_engagement.pdf" | relative_url }}).
 
