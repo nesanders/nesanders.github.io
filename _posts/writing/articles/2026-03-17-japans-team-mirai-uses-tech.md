@@ -8,7 +8,7 @@ description: An article for Tech Policy Press reporting on Team Mirai's gains in
 authors: [nes, bruce]
 ---
 
-*This article was written with Bruce Schneier and originally published by [Tech Policy Press](https://www.techpolicy.press/japans-team-mirai-uses-tech-to-bolster-democracy-not-undermine-it/) on 2026-03-17.
+*This article was written with Bruce Schneier and originally published by [Tech Policy Press](https://www.techpolicy.press/japans-team-mirai-uses-tech-to-bolster-democracy-not-undermine-it/) on 2026-03-17.*
 
 
 Japan’s <a href="https://theconversation.com/japans-ruling-party-secures-historic-election-victory-but-challenges-lie-ahead-275279">election</a> last month and the rise of the country’s newest and most innovative political party, <a href="https://team-mir.ai/">Team Mirai</a>, illustrates the viability of a different way to do politics.
