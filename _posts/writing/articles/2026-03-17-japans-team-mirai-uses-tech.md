@@ -25,7 +25,7 @@ It’s how Team Mirai, which translates to ‘The Future Party,’ does politics
 
 Last year, Anno ran again, this time for the Upper Chamber of the national legislature—the Diet—<a href="https://asiatimes.com/2026/03/team-mirai-pushing-to-bring-digital-democracy-to-japan/">and won</a>. Now the head of a new national party, Anno found himself with a platform for making his vision of a new way of doing politics a reality.
 
-In this recent House of Representatives. Election, Team Mirai shot up to win nearly four millions votes. In the lower chamber’s proportional representation system, that was good enough for eleven total seats—the party’s first ever representation in the Japanese House—and nearly three times what it achieved in <a href="https://www.soumu.go.jp/senkyo/27sansokuhou/index.html">last year’s</a> Upper Chamber election.
+In this recent House of Representatives Election, Team Mirai shot up to win nearly four million votes. In the lower chamber’s proportional representation system, that was good enough for eleven total seats—the party’s first ever representation in the Japanese House—and nearly three times what it achieved in <a href="https://www.soumu.go.jp/senkyo/27sansokuhou/index.html">last year’s</a> Upper Chamber election.
 
 Anno’s party stood for election without aligning itself on the traditional axes of left and right. Instead, Team Mirai, heavily associated with young, urban voters, sought to unite across the ideological spectrum by taking a radical position on a different axis: the status quo and the future. Anno told us that Team Mirai believes it can triple its representation in the Diet after the next elections in each chamber, an ostentatious goal that seems achievable given their rapid rise over the past year.
 
