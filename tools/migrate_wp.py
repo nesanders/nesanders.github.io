@@ -23,8 +23,16 @@ def clean_html(html_text):
     
     html_text = re.sub(r'\[caption.*?\](.*?)\[/caption\]', replace_caption, html_text, flags=re.DOTALL)
     
-    # Add protocol to www. links missing it
-    html_text = re.sub(r'(href|src)="www\.', r'\1="https://www.', html_text)
+    # Fix missing protocol in href and src
+    def fix_protocol(match):
+        attr = match.group(1)
+        url = match.group(2)
+        # If it doesn't have a protocol and doesn't start with / or #, it's likely an external domain
+        if not re.match(r'^(https?://|mailto:|/|#)', url):
+            return f'{attr}="https://{url}"'
+        return match.group(0)
+    
+    html_text = re.sub(r'(href|src)="(.*?)"', fix_protocol, html_text)
     
     # Force HTTPS globally for all http:// links
     html_text = html_text.replace('http://', 'https://')
@@ -32,7 +40,7 @@ def clean_html(html_text):
     # Replace <a> tags with Markdown links
     html_text = re.sub(r'<a href="(.*?)".*?>(.*?)</a>', r'[\2](\1)', html_text)
     
-    # Replace <img> tags (keep absolute URLs, now forced to HTTPS)
+    # Replace <img> tags (keep absolute URLs)
     html_text = re.sub(r'<img.*?src="(.*?)".*?>', r'![](\1)', html_text)
     
     # Replace <ul> and <li>
@@ -117,7 +125,6 @@ def migrate(xml_file, output_root, dry_run=False):
             
         # Migration logic
         post_date = item.find('wp:post_date', ns).text
-        # WordPress date usually: 2010-11-30 14:13:42
         dt = datetime.strptime(post_date, '%Y-%m-%d %H:%M:%S')
         date_str = dt.strftime('%Y-%m-%d')
         readable_date = dt.strftime('%B %d, %Y')
