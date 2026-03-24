@@ -2,7 +2,7 @@
 title: "Avi Loeb and Freeman Dyson on the future of the universe"
 date: "2011-02-03"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["Avi Loeb", "cosmic engineering", "Freeman Dyson", "the distant future", "the future of the universe"]
 description: "This morning I was delighted to receive an email from Avi Loeb, who's paper on the (far) future of astronomy [we discussed yesterday](https://astroph."
 authors: ["nes"]

@@ -2,7 +2,7 @@
 title: "How to simulate a fluid"
 date: "2010-12-11"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: []
 description: "In my [last post](https://astroph.wordpress.com/2010/11/30/formation-of-cold-filamentary-structure-from-wind-blown-superbubbles/), I wrote about an interesting application of hydrodynamical simulations to a particular astrophysical problem, so when I saw this excellent introduction to the inner-workings of these simulation codes, I couldn't resist highlighting it."
 authors: ["nes"]
@@ -10,11 +10,11 @@ authors: ["nes"]
 
 *This post originally appeared on Astrobites.org on December 11, 2010 at [https://astrobites.org/2010/12/11/how-to-simulate-a-fluid/](https://astrobites.org/2010/12/11/how-to-simulate-a-fluid/).*
 
-- **Paper title: **[Smoothed Particle Hydrodynamics and Magnetohydrodynamics](https://arxiv.org/abs/1012.1885)
+- **Paper title:** [Smoothed Particle Hydrodynamics and Magnetohydrodynamics](https://arxiv.org/abs/1012.1885)
 
 	- **Author: **Daniel J. Price
 
-	- **First author's affiliation: ** Monash University, Melbourne, Australia
+	- **First author's affiliation:**  Monash University, Melbourne, Australia
 
 
 [![](https://astrobites.org/wp-content/uploads/2010/12/price5.png)](https://astrobites.org/wp-content/uploads/2010/12/price5.png)

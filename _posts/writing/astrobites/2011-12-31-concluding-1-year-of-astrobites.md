@@ -2,7 +2,7 @@
 title: "Concluding 1 year of Astrobites"
 date: "2011-12-31"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["astrobites"]
 description: "Astrobites looks back at its first year as the astro-ph reader's digest."
 authors: ["nes"]

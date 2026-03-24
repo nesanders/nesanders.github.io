@@ -2,7 +2,7 @@
 title: "Can you hide a super-massive black hole?"
 date: "2012-11-26"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["accretion", "AGN", "black holes", "galaxy evolution", "simulations", "spectroscopy"]
 description: "Observational surveys looking for the smallest super-massive black holes come up empty; could they be hiding in plain sight?"
 authors: ["nes"]

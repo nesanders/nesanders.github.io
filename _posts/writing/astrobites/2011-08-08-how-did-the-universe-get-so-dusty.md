@@ -2,7 +2,7 @@
 title: "How did the universe get so dusty?"
 date: "2011-08-08"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["AGB stars", "dust", "IMF", "mass loss", "quasars", "SMGs", "supernovae"]
 description: "I just vacuumed my apartment and asked the question, 'how does so much dust accumulate in one week?'  These authors ask a more scientifically interesting question: how can galaxies accumulate more than 100 million solar masses of dust in just a few hundred million years?"
 authors: ["nes"]

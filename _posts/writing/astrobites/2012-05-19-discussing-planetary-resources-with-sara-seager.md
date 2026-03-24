@@ -2,7 +2,7 @@
 title: "Discussing Planetary Resources with Sara Seager"
 date: "2012-05-19"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["commercial space exploration", "exoplanets", "interview", "MIT", "Planetary Resources", "spaceflight"]
 description: "We sat down with MIT Professor Sara Seager to ask her about her role in the new asteroid mining venture Planetary Resources, how it might change the field of astronomy, and what your odds are for getting a job there."
 authors: ["nes"]

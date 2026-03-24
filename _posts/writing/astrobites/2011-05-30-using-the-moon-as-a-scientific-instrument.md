@@ -2,7 +2,7 @@
 title: "Using the Moon as a scientific instrument"
 date: "2011-05-30"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["binary stars", "diffraction", "Moon", "observations"]
 description: "These authors use the surface of the Moon to distinguish between binary star systems separated by just thousandths of an arcsecond - far smaller than can be resolved by traditional imaging."
 authors: ["nes"]
@@ -10,11 +10,11 @@ authors: ["nes"]
 
 *This post originally appeared on Astrobites.org on May 30, 2011 at [https://astrobites.org/2011/05/30/using-the-moon-as-a-scientific-instrument/](https://astrobites.org/2011/05/30/using-the-moon-as-a-scientific-instrument/).*
 
-- **Paper title: **[Lunar occultations of 184 stellar sources in two crowded regions towards the galactic bulge](https://arxiv.org/abs/1105.4816)
+- **Paper title:** [Lunar occultations of 184 stellar sources in two crowded regions towards the galactic bulge](https://arxiv.org/abs/1105.4816)
 
-	- **Authors: ** A. Richichi, W.P. Chen, O. Fors, P.F. Wang
+	- **Authors:**  A. Richichi, W.P. Chen, O. Fors, P.F. Wang
 
-	- **First author's affiliation: **National Astronomical Research Institute of Thailand
+	- **First author's affiliation:** National Astronomical Research Institute of Thailand
 
 
 One of the persistent frontiers in astronomical observations is [angular resolution](https://en.wikipedia.org/wiki/Angular_resolution). We need extremely high angular resolution to resolve very small features on the sky (e.g. a [protoplanetary disk](https://astrobites.com/2011/03/11/review-article-protoplanetary-disks-and-their-evolution/) around a young star or [a galaxy far, far away](https://astrobites.com/2011/02/17/details-at-a-distance/)), but we're limited by natural factors such as [turbulence in the Earth's atmosphere](https://en.wikipedia.org/wiki/Astronomical_seeing) and [the laws of diffraction](https://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/raylei.html).

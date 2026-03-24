@@ -2,7 +2,7 @@
 title: "An observation of the cosmic evolution of planets?"
 date: "2012-04-17"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["chemical evolution", "exoplanets", "Kepler", "metallicity"]
 description: "Sarah Dodson-Robinson identifies a correlation between planetary radius and stellar metallicity among gas giants in the Kepler catalog that may indicate a change in the structure and formation mechanism of planets over cosmic time."
 authors: ["nes"]

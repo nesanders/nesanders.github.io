@@ -2,7 +2,7 @@
 title: "What lives far outside the Small Magellanic Cloud?"
 date: "2011-04-18"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["galaxy evolution", "LMC", "Magellenic Clouds", "SMC", "stars"]
 description: "The SMC is one of the best studied galaxies in the sky, but there is still plenty to learn from the stars far from its center."
 authors: ["nes"]
@@ -10,11 +10,11 @@ authors: ["nes"]
 
 *This post originally appeared on Astrobites.org on April 18, 2011 at [https://astrobites.org/2011/04/18/what-lives-far-outside-the-small-magellanic-cloud/](https://astrobites.org/2011/04/18/what-lives-far-outside-the-small-magellanic-cloud/).*
 
-- **Paper title: **[Discovery of a Large Stellar Periphery Around the Small Magellanic Cloud](https://arxiv.org/abs/1104.2594)
+- **Paper title:** [Discovery of a Large Stellar Periphery Around the Small Magellanic Cloud](https://arxiv.org/abs/1104.2594)
 
-	- **Authors: **David L. Nidever, Steven R. Majewski, Ricardo R. Munoz, Rachael L. Beaton, Richard J. Patterson, William E. Kunkel
+	- **Authors:** David L. Nidever, Steven R. Majewski, Ricardo R. Munoz, Rachael L. Beaton, Richard J. Patterson, William E. Kunkel
 
-	- **First author's affiliation: **University of Virginia
+	- **First author's affiliation:** University of Virginia
 
 
 As one of just a handful of extragalactic objects [so close that it can be seen with the naked eye](https://apod.nasa.gov/apod/ap070330.html), the [Magellanic Clouds](https://astrobites.com/glossaries/galaxy-and-agn-types/#famous) (MCs) are among the most well-studied galaxies in the sky. de Vaucouleurs' published his [seminal work on the MCs](https://adsabs.harvard.edu/abs/1955AJ.....60..126D) in 1955. More recently, astronomers have observed the galaxies extensively [searching for MACHO dark matter](https://astrobites.com/2011/01/19/computers-search-for-quasars/) by watching for microlensing events against the backdrop of the LMC.

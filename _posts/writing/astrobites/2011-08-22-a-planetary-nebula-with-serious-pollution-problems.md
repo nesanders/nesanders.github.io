@@ -2,7 +2,7 @@
 title: "A planetary nebula with serious pollution problems"
 date: "2011-08-22"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["barium stars", "binary stars", "chemical abundance", "planetary nebulae", "stellar evolution"]
 description: "Miszalski et al. show that the well-known planetary nebula Abell 70 has a white dwarf companion at its center with a messy past."
 authors: ["nes"]

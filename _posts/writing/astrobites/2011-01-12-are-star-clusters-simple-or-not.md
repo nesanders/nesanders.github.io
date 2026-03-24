@@ -2,7 +2,7 @@
 title: "Are star clusters simple or not?"
 date: "2011-01-12"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["observations", "simulations", "star clusters", "stellar populations"]
 description: "Assuming every star in a cluster has the same age and metallicity is a powerful simplification, but it may not be true."
 authors: ["nes"]

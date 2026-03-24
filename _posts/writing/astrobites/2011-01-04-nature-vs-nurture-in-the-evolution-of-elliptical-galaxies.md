@@ -2,7 +2,7 @@
 title: "Nature vs. nurture in the evolution of elliptical galaxies"
 date: "2011-01-04"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["galaxies", "galaxy clusters", "galaxy evolution"]
 description: "The general picture of galaxy formation was hashed out in the 1960s and 70s.  In the decades since, countless lines of theoretical and observational evidence have suggested additional mechanisms which can influence the evolution of galaxies, and sorting out which of these are the most important is among the most lively fields in astrophysics."
 authors: ["nes"]
@@ -10,11 +10,11 @@ authors: ["nes"]
 
 *This post originally appeared on Astrobites.org on January 04, 2011 at [https://astrobites.org/2011/01/04/nature-vs-nurture-in-the-evolution-of-elliptical-galaxies/](https://astrobites.org/2011/01/04/nature-vs-nurture-in-the-evolution-of-elliptical-galaxies/).*
 
-- **Paper title: **[The stellar populations of early-type galaxies -- II. The effects of environment and mass](https://arxiv.org/abs/1101.0568)
+- **Paper title:** [The stellar populations of early-type galaxies -- II. The effects of environment and mass](https://arxiv.org/abs/1101.0568)
 
-	- **Authors: **Craig Harrison, Matthew Colless, Harald Kuntschner, Warrick Couch, Roberto De Propris, Michael Pracy
+	- **Authors:** Craig Harrison, Matthew Colless, Harald Kuntschner, Warrick Couch, Roberto De Propris, Michael Pracy
 
-	- **First author's affiliation: ** Australian National University / Cerro Tololo Inter-American Observatory (CTIO), Chile
+	- **First author's affiliation:**  Australian National University / Cerro Tololo Inter-American Observatory (CTIO), Chile
 
 
 

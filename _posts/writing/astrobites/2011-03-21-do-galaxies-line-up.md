@@ -2,7 +2,7 @@
 title: "Do galaxies line up?"
 date: "2011-03-21"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["alignment", "BCGs", "galaxies", "observations", "SDSS", "statistics"]
 description: "If you see a bunch of galaxies together in a cluster, are their orientations and orbits random or do they align?"
 authors: ["nes"]
@@ -10,12 +10,12 @@ authors: ["nes"]
 
 *This post originally appeared on Astrobites.org on March 21, 2011 at [https://astrobites.org/2011/03/21/do-galaxies-line-up/](https://astrobites.org/2011/03/21/do-galaxies-line-up/).*
 
-- **Paper title: **[Intrinsic Alignment of Cluster Galaxies: the Redshift Evolution](https://arxiv.org/abs/1103.3500)
+- **Paper title:** [Intrinsic Alignment of Cluster Galaxies: the Redshift Evolution](https://arxiv.org/abs/1103.3500)
 
-	- **Authors: **
+	- **Authors:** 
 Jiangang Hao, Jeffrey M. Kubo, Robert Feldmann, James Annis, David E. Johnston, Huan Lin, Timothy A. McKay
 
-	- **First author's affiliation: **Center for Particle Astrophysics, Fermi National Accelerator
+	- **First author's affiliation:** Center for Particle Astrophysics, Fermi National Accelerator
 Laboratory, Batavia, IL
 
 

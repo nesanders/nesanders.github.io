@@ -2,7 +2,7 @@
 title: "A day in the lives of astronomy grad students"
 date: "2011-07-11"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["a day in the life", "astronomy", "Graduate school"]
 description: "What do grad students do all day?  Read on for more than a dozen personal reports from the field."
 authors: ["nes"]

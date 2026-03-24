@@ -2,7 +2,7 @@
 title: "BOSS's 3D map of the early universe"
 date: "2011-05-02"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["cosmology", "Lyman-alpha", "reionization", "SDSS", "spectroscopy"]
 description: "The BOSS project of the Sloan Digital Sky Survey is exploiting the Lyman-\u03b1 forest in distant quasars to make a 3D map of neutral hydrogen in the early universe."
 authors: ["nes"]
@@ -10,9 +10,9 @@ authors: ["nes"]
 
 *This post originally appeared on Astrobites.org on May 02, 2011 at [https://astrobites.org/2011/05/02/bosss-3d-map-of-the-early-universe/](https://astrobites.org/2011/05/02/bosss-3d-map-of-the-early-universe/).*
 
-- **Paper title: **[The Lyman-alpha forest in three dimensions: measurements of large scale flux correlations from BOSS 1st-year data](https://arxiv.org/abs/1104.5244)
+- **Paper title:** [The Lyman-alpha forest in three dimensions: measurements of large scale flux correlations from BOSS 1st-year data](https://arxiv.org/abs/1104.5244)
 
-	- **Authors: **Anže Slosar, Andreu Font-Ribera, Matthew M. Pieri, James Rich, Jean-Marc Le Goff, Éric Aubourg, Jon Brinkmann, Nicolas Busca, Bill Carithers, Romain Charlassier, Marina Cortês, Rupert Croft, Kyle S. Dawson, Daniel Eisenstein, Jean-Christophe Hamilton, Shirley Ho, Khee-Gan Lee, Robert Lupton, Patrick McDonald, Bumbarija Medolin, Jordi Miralda-Escudé, Adam D. Myers, Robert C. Nichol, Nathalie Palanque-Delabrouille, Isabelle Pâris, Patrick Petitjean, Yodovina Piškur, Emmanuel Rollinde, Nicholas P. Ross, David J. Schlegel, Donald P. Schneider, Erin Sheldon, Benjamin A. Weaver, David H. Weinberg, Christophe Yeche, Donald G. York
+	- **Authors:** Anže Slosar, Andreu Font-Ribera, Matthew M. Pieri, James Rich, Jean-Marc Le Goff, Éric Aubourg, Jon Brinkmann, Nicolas Busca, Bill Carithers, Romain Charlassier, Marina Cortês, Rupert Croft, Kyle S. Dawson, Daniel Eisenstein, Jean-Christophe Hamilton, Shirley Ho, Khee-Gan Lee, Robert Lupton, Patrick McDonald, Bumbarija Medolin, Jordi Miralda-Escudé, Adam D. Myers, Robert C. Nichol, Nathalie Palanque-Delabrouille, Isabelle Pâris, Patrick Petitjean, Yodovina Piškur, Emmanuel Rollinde, Nicholas P. Ross, David J. Schlegel, Donald P. Schneider, Erin Sheldon, Benjamin A. Weaver, David H. Weinberg, Christophe Yeche, Donald G. York
 
 	- **Authors' affiliation: **The [SDSS BOSS survey](https://www.sdss3.org/surveys/boss.php)
 

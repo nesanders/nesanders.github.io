@@ -2,7 +2,7 @@
 title: "All about bulges (and consequences for galaxy evolution)"
 date: "2011-04-04"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["bulges", "galaxies", "galaxy evolution", "galaxy mergers", "pseudobulges"]
 description: "Bulges are a familar feature of spiral galaxies, but bulges seem to come in many shapes and sizes.  Studying bulges can provide clues for the role of galaxy mergers in the history of the universe."
 authors: ["nes"]
@@ -10,11 +10,11 @@ authors: ["nes"]
 
 *This post originally appeared on Astrobites.org on April 04, 2011 at [https://astrobites.org/2011/04/04/all-about-bulges-and-consequences-for-galaxy-evolution/](https://astrobites.org/2011/04/04/all-about-bulges-and-consequences-for-galaxy-evolution/).*
 
-- **Paper title: **[Demographics of Bulge Types within 11 Mpc and Implications for Galaxy Evolution](https://arxiv.org/abs/1104.0020)
+- **Paper title:** [Demographics of Bulge Types within 11 Mpc and Implications for Galaxy Evolution](https://arxiv.org/abs/1104.0020)
 
-	- **Authors: **David B. Fisher, Niv Drory
+	- **Authors:** David B. Fisher, Niv Drory
 
-	- **First author's affiliation: **Laboratory of Millimeter Astronomy, University of Maryland
+	- **First author's affiliation:** Laboratory of Millimeter Astronomy, University of Maryland
 
 
 It's probably painfully evident from our posting history at Astrobites that [galaxy mergers](https://astrobites.com/tag/galaxy-evolution/) are a major component of the modern "hierarchical" theory of how galaxies evolve over time.  At the most basic level, the idea is that spiral galaxies with well-structured, paper-thin disks merge with each other, causing randomizing dynamical disruptions which produce elliptical galaxies that are more spherical in shape.  But galaxies come in many more flavors than spirals and ellipticals - just take a look at our [galaxy glossary](https://astrobites.com/glossaries/galaxy-and-agn-types/)!  Finding new clues to the cosmological history of galaxy mergers and their role in producing this diverse population is a great frontier in astronomy.

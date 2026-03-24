@@ -2,7 +2,7 @@
 title: "How to use SAO ds9 to examine astronomical images"
 date: "2011-03-09"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["ds9", "howto", "sao", "software"]
 description: "The SAO ds9 image viewer is one of the most widely used tools in astronomy.  Read more to learn the basics of ds9 and check out some of the advanced features."
 authors: ["nes"]

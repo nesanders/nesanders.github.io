@@ -2,7 +2,7 @@
 title: "Happy Birthday Astrobites--a look back at our first four years"
 date: "2014-12-14"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["astrobites", "birthday"]
 description: "Astrobites has a birthday this month.  Bear with us as we take a look back at our first four years."
 authors: ["nes"]

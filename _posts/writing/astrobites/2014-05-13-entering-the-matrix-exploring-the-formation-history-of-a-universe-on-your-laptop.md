@@ -2,7 +2,7 @@
 title: "Entering the Matrix: Exploring the formation history of a universe on your laptop"
 date: "2014-05-13"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["outreach", "simulations"]
 description: "How Dylan Nelson produced amazing, interactive visualizations of the Illustris simulation"
 authors: ["nes"]

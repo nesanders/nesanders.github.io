@@ -2,7 +2,7 @@
 title: "Do stars throw snowballs?"
 date: "2011-02-22"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["asteroids", "comets", "hydrogen", "interstellar medium", "Oort cloud", "oxygen", "white dwarfs"]
 description: "Compositional investigations of comets have suggested that they are \"icy dirtballs,\" so would it be possible to detect traces of hydrogen and oxygen if they were flung from one stellar system into the atmosphere of another star?"
 authors: ["nes"]

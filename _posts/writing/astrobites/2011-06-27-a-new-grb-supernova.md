@@ -2,7 +2,7 @@
 title: "A new GRB-Supernova"
 date: "2011-06-27"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["GRB", "SN 1998bw", "SN 2006aj", "SN 2009nz", "spectroscopy", "supernova"]
 description: "SN 2009nz may be the sixth GRB-supernova ever confirmed spectroscopically."
 authors: ["nes"]
@@ -10,11 +10,11 @@ authors: ["nes"]
 
 *This post originally appeared on Astrobites.org on June 27, 2011 at [https://astrobites.org/2011/06/27/a-new-grb-supernova/](https://astrobites.org/2011/06/27/a-new-grb-supernova/).*
 
-- **Paper title: **[The Spectroscopic Classification and Explosion Properties of SN2009nz Associated with GRB091127 at z=0.490](https://arxiv.org/abs/1106.3073)
+- **Paper title:** [The Spectroscopic Classification and Explosion Properties of SN2009nz Associated with GRB091127 at z=0.490](https://arxiv.org/abs/1106.3073)
 
-	- **Authors: **E. Berger, R. Chornock, T. R. Holmes, R. J. Foley, A. Cucchiara, C. Wolf, Ph. Podsiadlowski, D. B. Fox, K. C. Roth
+	- **Authors:** E. Berger, R. Chornock, T. R. Holmes, R. J. Foley, A. Cucchiara, C. Wolf, Ph. Podsiadlowski, D. B. Fox, K. C. Roth
 
-	- **First author's affiliation: **Harvard University
+	- **First author's affiliation:** Harvard University
 
 
 [![](https://astrobites.org/wp-content/uploads/2011/06/berger1.png?w=300)](https://astrobites.org/wp-content/uploads/2011/06/berger1.png)

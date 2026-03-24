@@ -2,7 +2,7 @@
 title: "The first detected signature of dark matter annihilation?"
 date: "2012-06-19"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: ["dark matter", "fermi", "galaxies", "gamma rays", "spectroscopy", "survey"]
 description: "A flurry of recent papers point to detection of a ~130 GeV gamma-ray emission line from near the Galactic center.  If real, this could be the first detection of a signature of annihilating dark matter."
 authors: ["nes"]

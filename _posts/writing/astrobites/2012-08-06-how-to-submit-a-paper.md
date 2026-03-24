@@ -2,7 +2,7 @@
 title: "How to submit a paper"
 date: "2012-08-06"
 pin: false
-categories: ["astrobites"]
+categories: [writing, astrobites]
 tags: []
 description: "You've finally done it - completed your first scientific paper for publication.  What do you do with it now?"
 authors: ["nes"]
