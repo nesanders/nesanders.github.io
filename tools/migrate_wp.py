@@ -23,10 +23,16 @@ def clean_html(html_text):
     
     html_text = re.sub(r'\[caption.*?\](.*?)\[/caption\]', replace_caption, html_text, flags=re.DOTALL)
     
+    # Add protocol to www. links missing it
+    html_text = re.sub(r'(href|src)="www\.', r'\1="https://www.', html_text)
+    
+    # Force HTTPS globally for all http:// links
+    html_text = html_text.replace('http://', 'https://')
+    
     # Replace <a> tags with Markdown links
     html_text = re.sub(r'<a href="(.*?)".*?>(.*?)</a>', r'[\2](\1)', html_text)
     
-    # Replace <img> tags (keep absolute WordPress URLs)
+    # Replace <img> tags (keep absolute URLs, now forced to HTTPS)
     html_text = re.sub(r'<img.*?src="(.*?)".*?>', r'![](\1)', html_text)
     
     # Replace <ul> and <li>
@@ -129,6 +135,9 @@ def migrate(xml_file, output_root, dry_run=False):
             continue
 
         orig_link = item.find('link').text
+        # Force HTTPS for the original link as well
+        orig_link = orig_link.replace('http://', 'https://')
+        
         markdown_body = clean_html(content)
         
         # New: Add original post notice at the TOP
@@ -137,7 +146,7 @@ def migrate(xml_file, output_root, dry_run=False):
         
         excerpt_elem = item.find('excerpt:encoded', ns)
         excerpt = excerpt_elem.text if excerpt_elem is not None else ""
-        description = clean_html(excerpt).split('\n')[0] if excerpt else markdown_body[len(notice)+2:len(notice)+152].split('\n')[0]
+        description = clean_html(excerpt).split('\n')[0].replace('http://', 'https://') if excerpt else markdown_body[len(notice)+2:len(notice)+152].split('\n')[0]
         
         front_matter = {
             "title": title,
@@ -146,7 +155,7 @@ def migrate(xml_file, output_root, dry_run=False):
             "categories": ["astrobites"],
             "tags": tags,
             "description": description,
-            "authors": ["nes"]  # Changed from nsanders
+            "authors": ["nes"]
         }
         
         with open(filepath, 'w') as f:
