@@ -23,14 +23,14 @@ def clean_html(html_text):
     
     html_text = re.sub(r'\[caption.*?\](.*?)\[/caption\]', replace_caption, html_text, flags=re.DOTALL)
     
-    # Fix missing protocol in href and src
+    # Fix missing protocol and spaces in href and src
     def fix_protocol(match):
         attr = match.group(1)
-        url = match.group(2)
+        url = match.group(2).strip() # Strip spaces
         # If it doesn't have a protocol and doesn't start with / or #, it's likely an external domain
         if not re.match(r'^(https?://|mailto:|/|#)', url):
             return f'{attr}="https://{url}"'
-        return match.group(0)
+        return f'{attr}="{url}"'
     
     html_text = re.sub(r'(href|src)="(.*?)"', fix_protocol, html_text)
     
@@ -143,7 +143,7 @@ def migrate(xml_file, output_root, dry_run=False):
 
         orig_link = item.find('link').text
         # Force HTTPS for the original link as well
-        orig_link = orig_link.replace('http://', 'https://')
+        orig_link = orig_link.replace('http://', 'https://').strip()
         
         markdown_body = clean_html(content)
         
