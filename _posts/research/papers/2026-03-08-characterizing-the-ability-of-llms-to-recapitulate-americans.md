@@ -8,7 +8,7 @@ description: "A quantitative analysis of the capability of a foundation model (G
 authors: ["egong", "nes", "bruce" ]
 ---
 
-<!-- *This paper was originally published on the [arXiv](TBD) in 2026.* -->
+*This paper was originally published on the [arXiv](https://arxiv.org/abs/2603.20229) in 2026.*
 
 A PDF of the paper is available [here]({{"/assets/papers/2026-ai-polling-characterizing.pdf" | relative_url }}).
 
@@ -16,4 +16,4 @@ A PDF of the paper is available [here]({{"/assets/papers/2026-ai-polling-charact
 Gong, E., Sanders, N. E., & Schneier, B. 2026, arXiv:TBD.
 
 **Links:**
-<!-- - [arXiv Version](TBD) -->
+- [arXiv Version](https://arxiv.org/abs/2603.20229)
