@@ -13,7 +13,7 @@ authors: ["egong", "nes", "bruce" ]
 A PDF of the paper is available [here]({{"/assets/papers/2026-ai-polling-characterizing.pdf" | relative_url }}).
 
 **Full Citation (AAS Style):**
-Gong, E., Sanders, N. E., & Schneier, B. 2026, arXiv:TBD.
+Gong, E., Sanders, N. E., & Schneier, B. 2026, arXiv:2603.20229.
 
 **Links:**
 - [arXiv Version](https://arxiv.org/abs/2603.20229)
