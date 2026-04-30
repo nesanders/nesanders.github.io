@@ -10,8 +10,6 @@ robots: noindex
 
 Below is a collection of various projects and interactive tools published across this domain.
 
-{% assign projects = "cawastemap,gICLEAN,lawrence-ma-redlining,MAenvironmentaldata,maple,nba-analytics,nearagrams,streamsim,the_long_run,us-canada-ai-use-case-comparison,where-does-the-money-go" | split: "," %}
-
 | Project | Description |
 | :--- | :--- |
 | **[cawastemap](https://nsanders.me/cawastemap)** | Interactive maps of hazardous waste sites and school locations in California; Idalmis Vaquero's Climate Justice Design Fellowship 2022 project. |
