@@ -2,11 +2,10 @@
 layout: page
 icon: fas fa-landmark
 order: 2
-title: Organizations
 toc: true
 ---
 
-I am privileged to have supporting roles in several important organizations relating to civic technology, science communication, and evironmental justice & advocacy.
+I am privileged to have supporting roles in several important organizations relating to civic technology, science communication, and environmental justice & advocacy.
 
 
 ![MAPLE logo](/assets/img/logos/maple.png){: .left width="150"}
