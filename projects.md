@@ -22,3 +22,4 @@ Below is a collection of various projects and interactive tools published across
 | **[the_long_run](https://nsanders.me/the_long_run)** | An experiment in agentic vibe coding for developing a Bayesian statistical model for estimating distributions of lifetime running mileage. |
 | **[us-canada-ai-use-case-comparison](https://nsanders.me/us-canada-ai-use-case-comparison)** | A comparison tool for disclosed AI use cases in government across the US and Canada. |
 | **[where-does-the-money-go](https://nsanders.me/where-does-the-money-go)** | An exploration of US Congressional election spending based on one candidate & election (AOC in 2024). |
+| **[ma_lobbying_explorer](https://nsanders.me/ma_lobbying_explorer)** | An explorer for Massachusetts legislative lobbying disclosures (2009–2026), browsable by bill, employer, and lobbyist. |

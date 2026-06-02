@@ -130,6 +130,8 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2026-02-01, [Social Media & Politics](https://socialmediaandpolitics.org/ai-government-rewiring-democracy-campaigns-legislation-schneier-sanders/)
 * 2026-02-03, [Democracy Works (WPSU)](https://radio.wpsu.org/opinion/2026-02-03/democracy-works-how-ai-is-changing-democracy)
 
+<!-- 2026-05-28, Better Politics Podcast -->
+
 <!-- war room -->
 <!-- Mass AI Hub -->
 
@@ -154,16 +156,21 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 <!--* (to be rescheduled), RiffRaff Books, Providence, RI-->
 * [2026-01-24, City Lights, Virtual](https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/) in conversation with [Cindy Cohn of EFF](https://www.eff.org/event/rewiring-democracy)
 * 2026-01-27, [Association of Public Data Users webinar](https://youtu.be/RRhnhe8b1VU?si=rjYvpTHQN7VVdFlZ)
+* 2026-05-19, [Rhode Island Library Association Conference](https://www.rilibraries.org/2026-Conference) keynote address
+
+<!-- Rhode Island Library Assoc -->
+<!-- Institute for Humane Studies -->
 
 <!-- bpl in person -->
-<!-- Reeher interview -->
 
-## Reviews
+## Reviews & Recognition
 
+* [New America](https://www.newamerica.org/), one of the books selected for the [Us@250 Syllabus: A Guide to Celebrating America’s 250th Anniversary](https://www.newamerica.org/insights/a-guide-to-celebrating-americas-250th-anniversary/) 
 * [Roy L. Austin Jr.](https://counciloncj.org/ccj-directory/roy-l-austin/), [Lawfare](https://www.lawfaremedia.org/article/algorithmic-optimism--democratic-reality): "“Rewiring Democracy” is an important book. It provides an encyclopedic compilation of the ways in which AI is currently being used and can be used by the executive, legislative, and judicial branches. ...  In the end, the book is an urgent warning: Governments must make hard choices about AI governance, or else those choices will be made for them by private actors."
 * [Ben Shneiderman](https://www.cs.umd.edu/users/ben/), [Human-Centered AI Newsletter](https://groups.google.com/g/human-centered-ai/c/EX0ZT4lhLsY/m/ZuPQpRtUAwAJ?utm_medium=email&utm_source=footer&pli=1): "Overall, a valuable, wise, and balanced contribution in non-technical terms that will be welcomed by the five communities they address, and I hope the researchers and developers who could produce the happier outcomes the authors seek."
 * [Gideon Lichfield](https://gideonlichfield.com), [Bloomberg](https://www.bloomberg.com/opinion/articles/2025-11-24/agentic-ai-could-improve-everything-or-cascade-into-doom): "A dizzying list of ways in which AI could be used in politics, lawmaking, government operations and the judiciary, as well as how each of these uses could go wrong. . . . If even a fairly small fraction of the applications these authors contemplate come to pass, we’ll be looking at a world even more dramatically unpredictable than today’s."
 * [Virginia Eubanks](https://virginia-eubanks.com), [Nature](https://www.nature.com/articles/d41586-025-03718-w): "Structured clearly enough, even for readers who know little about AI, the book is rich with concrete examples and absorbing speculation. Schneier and Sanders propose that every aspect of democratic governance — such as negotiating procurement contracts, drafting legal briefs, producing local news or facilitating conversation across political divides — could be enhanced by the thoughtful application of AI developed under public control for public benefit."
+* [Paulo Carvão](https://winthrop.harvard.edu/people/paulo-carv%C3%A3o), [Harvard Data Science Review](https://hdsr.mitpress.mit.edu/pub/jc22wpxa/release/1): "The book’s lasting contribution is to press democratic societies toward the harder task of deciding how AI should be embraced, governed, contested, and, eventually, absorbed into public life."
 * [Sinéad Gibney](https://en.wikipedia.org/wiki/Sin%C3%A9ad_Gibney), [The Irish Times](https://www.irishtimes.com/culture/books/review/2026/01/10/rewiring-democracy-citizen-acceptance-and-trust-in-ai-matters-as-much-as-ai-capabilities/): "Some of the best nonfiction books take two distinct areas of knowledge and bring them together. That’s what’s happening here with AI and democracy. When two techies – a cybersecurity expert and a data analyst – get to train their engineer brains on democracy as an information system, and how AI will affect it at every stage, the result makes for fascinating reading."
 * [Samuel Ross](https://muckrack.com/samuel-ross-1/articles), [The Cascadia Advocate of the Northwest Progressive Institute](https://www.nwprogressive.org/weblog/2025/12/book-review-rewiring-democracy-offers-a-nuanced-examination-of-ais-impact-on-our-civic-and-social-fabric.html): "In Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship, Bruce Schneier and Nathan E. Sanders look past the panic and hype to explore what AI actually means for the machinery of democracy itself."
 * [Ellsworth Toohey](https://boingboing.net/author/ellsworthtoohey), [BoingBoing](https://boingboing.net/2025/12/04/how-ai-could-save-democracy-instead-of-destroying-it.html): "Bruce Schneier and Nathan Sanders are asking the right question in their new book Rewiring Democracy: not whether AI will change politics, but how we can shape that change. The cybersecurity expert (behind Data and Goliath) and data scientist tackle something most AI discussions skip entirely — the nitty-gritty of democratic governance."
