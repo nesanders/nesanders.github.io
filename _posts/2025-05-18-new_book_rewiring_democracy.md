@@ -157,9 +157,9 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * [2026-01-24, City Lights, Virtual](https://citylights.com/events/rewiring-democracy-with-bruce-schneier-and-nathan-e-sanders/) in conversation with [Cindy Cohn of EFF](https://www.eff.org/event/rewiring-democracy)
 * 2026-01-27, [Association of Public Data Users webinar](https://youtu.be/RRhnhe8b1VU?si=rjYvpTHQN7VVdFlZ)
 * 2026-05-19, [Rhode Island Library Association Conference](https://www.rilibraries.org/2026-Conference) keynote address
+* 2026-06-26, [Institute for Humane Studies](https://theihs.org) 
 
-<!-- Rhode Island Library Assoc -->
-<!-- Institute for Humane Studies -->
+<!-- Ft Collins -->
 
 <!-- bpl in person -->
 
