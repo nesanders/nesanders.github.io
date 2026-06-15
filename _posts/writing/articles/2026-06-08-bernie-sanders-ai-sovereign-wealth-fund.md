@@ -8,4 +8,6 @@ description: An article for The Guardian proposing an alternative to the AI Sove
 authors: [nes, bruce]
 ---
 
-*This article was written with Bruce Schneier and originally published by [The Guardian](https://www.theguardian.com/commentisfree/2026/jun/08/bernie-sanders-ai-sovereign-wealth-fund-plan) on 2026-06-08.
+*This article was written with Bruce Schneier and originally published by [The Guardian](https://www.theguardian.com/commentisfree/2026/jun/08/bernie-sanders-ai-sovereign-wealth-fund-plan) on 2026-06-08.*
+
+[Text to be posted]
