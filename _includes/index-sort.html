@@ -1,0 +1,52 @@
+{% comment %}
+  Client-side sort toggle for index pages (tags / venues / categories).
+  Params:
+    target  – id of the container whose direct [data-name] children are sorted
+    default – initial sort mode: 'name' (A–Z) or 'count' (frequency)
+{% endcomment %}
+<div class="sort-controls mb-3 d-flex align-items-center" data-sort-for="{{ include.target }}">
+  <span class="text-muted small me-2">Sort</span>
+  <div class="btn-group btn-group-sm" role="group" aria-label="Sort order">
+    <button type="button" class="btn btn-outline-secondary" data-sort="name">A–Z</button>
+    <button type="button" class="btn btn-outline-secondary" data-sort="count">Count</button>
+  </div>
+</div>
+
+<script>
+  (function () {
+    var id = '{{ include.target }}';
+    var def = '{{ include.default | default: "name" }}';
+    var container = document.getElementById(id);
+    var controls = document.querySelector('.sort-controls[data-sort-for="' + id + '"]');
+    if (!container || !controls) return;
+
+    var items = Array.prototype.slice.call(container.children).filter(function (el) {
+      return el.hasAttribute('data-name');
+    });
+
+    function apply(mode) {
+      items.sort(function (a, b) {
+        var na = a.getAttribute('data-name').toLowerCase();
+        var nb = b.getAttribute('data-name').toLowerCase();
+        if (mode === 'count') {
+          var d = parseInt(b.getAttribute('data-count'), 10) - parseInt(a.getAttribute('data-count'), 10);
+          return d !== 0 ? d : na.localeCompare(nb);
+        }
+        return na.localeCompare(nb);
+      });
+      items.forEach(function (el) { container.appendChild(el); });
+      controls.querySelectorAll('[data-sort]').forEach(function (btn) {
+        btn.classList.toggle('active', btn.getAttribute('data-sort') === mode);
+      });
+      try { localStorage.setItem('indexSort:' + id, mode); } catch (e) {}
+    }
+
+    controls.querySelectorAll('[data-sort]').forEach(function (btn) {
+      btn.addEventListener('click', function () { apply(btn.getAttribute('data-sort')); });
+    });
+
+    var saved = null;
+    try { saved = localStorage.getItem('indexSort:' + id); } catch (e) {}
+    apply(saved || def);
+  })();
+</script>
