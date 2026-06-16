@@ -3,7 +3,8 @@ title: "Using AI for Political Polling"
 date: 2024-06-07
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, elections, polling, ash center]
+tags: [democracy, ai, elections, polling]
+venue: "Harvard Ash Center"
 description: A blog post for the Ash Center about how AI will change political polling.
 authors: [nes, bruce, egong, aberger]
 ---

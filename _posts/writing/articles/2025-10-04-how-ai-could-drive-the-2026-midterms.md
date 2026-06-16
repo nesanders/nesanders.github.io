@@ -3,7 +3,8 @@ title: "How AI Could Drive the 2026 Midterm Elections"
 date: 2025-10-04
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, elections, 2026 midterms, time magazine]
+tags: [democracy, ai, elections, 2026 midterms]
+venue: "TIME"
 description: An article for Time Magazine articulating the emerging partisan gap in political usage of AI in the runup to the 2026 midterms.
 authors: [nes, bruce]
 ---

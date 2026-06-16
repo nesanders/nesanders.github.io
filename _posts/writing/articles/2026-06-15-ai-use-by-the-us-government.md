@@ -3,7 +3,8 @@ title: "AI use by the US government is ballooning. And the lack of transparency 
 date: 2026-06-15
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, Trump administration, transparency, the guardian]
+tags: [democracy, ai, Trump administration, transparency]
+venue: "The Guardian"
 description: An article for The Guardian outlining the US government's 2025 AI use disclosure and its limitations.
 authors: [nes, bruce]
 ---

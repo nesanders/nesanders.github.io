@@ -3,7 +3,8 @@ title: "A New Approach to Developing Interactive Software Modules through Gradua
 date: 2013-10-01
 pin: false
 categories: [research, paper]
-tags: ["education", "astrophysics"]
+tags: [education, astrophysics]
+venue: "Journal of Science Education and Technology"
 description: "Proposes a novel method for creating interactive software modules as part of graduate-level education, focusing on astronomy examples."
 authors: ["nes", "etal"]
 ---

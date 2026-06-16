@@ -3,7 +3,8 @@ title: "KDE 4 Multimedia Meeting exceeds expectations"
 date: 2006-05-31
 pin: false
 categories: [writing, article]
-tags: [open source software, linux, kde, phonon, newsforge]
+tags: [open source software, linux, kde, phonon]
+venue: "NewsForge"
 description: A 2006 Linux.com article about KDE's then-new for KDE4 multimedia subsystem, Phonon.
 # image:
 #   path:

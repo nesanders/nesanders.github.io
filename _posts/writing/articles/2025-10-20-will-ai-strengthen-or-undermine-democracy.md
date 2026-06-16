@@ -3,7 +3,8 @@ title: "Will AI Strengthen or Undermine Democracy?"
 date: 2025-10-20
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, next big idea club, fast company]
+tags: [democracy, ai]
+venue: "Next Big Idea Club"
 description: An article for Next Big Idea Club / Fast Company articulating the emerging partisan gap in political usage of AI in the runup to the 2026 midterms.
 authors: [nes, bruce]
 ---

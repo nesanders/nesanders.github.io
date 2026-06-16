@@ -3,7 +3,8 @@ title: "The SEC Whistleblower Program Is Dominating Regulatory Enforcement"
 date: 2024-10-18
 pin: false
 categories: [writing, article]
-tags: [ai, regulation, finance, sec, democracy, the american prospect]
+tags: [ai, regulation, finance, sec, democracy]
+venue: "The American Prospect"
 description: An article for The American Prospect about the risks of the SEC whistleblower program when confronted with AI.
 authors: [nes, bruce]
 ---

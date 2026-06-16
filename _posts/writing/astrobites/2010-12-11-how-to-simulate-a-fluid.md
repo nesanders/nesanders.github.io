@@ -4,6 +4,7 @@ date: "2010-12-11"
 pin: false
 categories: [writing, astrobites]
 tags: []
+venue: "Astrobites"
 description: "In my [last post](https://astroph.wordpress.com/2010/11/30/formation-of-cold-filamentary-structure-from-wind-blown-superbubbles/), I wrote about an interesting application of hydrodynamical simulations to a particular astrophysical problem, so when I saw this excellent introduction to the inner-workings of these simulation codes, I couldn't resist highlighting it."
 authors: ["nes"]
 ---

@@ -3,7 +3,8 @@ title: "The A.I. Wars Have Three Factions, and They All Crave Power"
 date: 2023-09-28
 pin: false
 categories: [writing, article]
-tags: [ai, democracy, power, the new york times]
+tags: [ai, democracy, power]
+venue: "The New York Times"
 description: An article for The New York Times about the emerging factions within the AI community.
 authors: [nes, bruce]
 ---

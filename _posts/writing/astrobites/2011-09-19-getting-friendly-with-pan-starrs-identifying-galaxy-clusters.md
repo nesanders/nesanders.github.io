@@ -3,7 +3,8 @@ title: "Getting friendly with Pan-STARRS: identifying galaxy clusters"
 date: "2011-09-19"
 pin: false
 categories: [writing, astrobites]
-tags: ["Friends of Friends", "galaxy clusters", "optical surveys", "PanSTARRS", "Voronoi Tessellation"]
+tags: [Friends of Friends, galaxy clusters, optical surveys, PanSTARRS, Voronoi Tessellation]
+venue: "Astrobites"
 description: "We can use galaxy clusters for many different science goals, but first we need to figure out where they are."
 authors: ["nes"]
 ---

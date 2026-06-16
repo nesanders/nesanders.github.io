@@ -4,6 +4,7 @@ date: 2023-07-20
 pin: false
 categories: [writing, article]
 tags: [ai, trust]
+venue: "The Conversation"
 description: An article for The Conversation about how to build AI that is more trustworthy.
 authors: [nes, bruce]
 ---

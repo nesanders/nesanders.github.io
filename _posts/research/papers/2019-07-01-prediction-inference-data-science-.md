@@ -3,7 +3,8 @@ title: "A Balanced Perspective on Prediction and Inference for Data Science in I
 date: 2019-07-01
 pin: false
 categories: [research, paper]
-tags: ["statistics"]
+tags: [statistics]
+venue: "Harvard Data Science Review"
 description: "Offers a balanced view on the roles of prediction and inference in data science within industrial applications, emphasizing their interconnectedness."
 authors: ["nes"]
 ---

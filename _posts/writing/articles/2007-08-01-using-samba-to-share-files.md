@@ -3,7 +3,8 @@ title: "Using Samba to share files between Linux and Windows"
 date: 2007-08-01
 pin: false
 categories: [writing, article]
-tags: [open source software, samba, linux, linux.com]
+tags: [open source software, samba, linux]
+venue: "Linux.com"
 description: A 2007 Linux.com article about sharing files between Linux and Windows machines using Samba.
 # image:
 #   path:

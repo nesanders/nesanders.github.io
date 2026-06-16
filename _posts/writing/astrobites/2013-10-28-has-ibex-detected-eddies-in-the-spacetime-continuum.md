@@ -3,7 +3,8 @@ title: "Has IBEX detected eddies in the spacetime continuum?"
 date: "2013-10-28"
 pin: false
 categories: [writing, astrobites]
-tags: ["heliosphere", "helium", "interstellar medium", "Spacecraft", "Sun", "Turbulence"]
+tags: [heliosphere, helium, interstellar medium, Spacecraft, Sun, Turbulence]
+venue: "Astrobites"
 description: "Douglas Adams' fictional Ford Prefect famously warned us of eddies in the spacetime continuum.  Has the IBEX spacecraft now found evidence that they really exist?"
 authors: ["nes"]
 ---

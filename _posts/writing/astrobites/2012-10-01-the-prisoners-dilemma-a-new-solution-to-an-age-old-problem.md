@@ -3,7 +3,8 @@ title: "The Prisoner's Dilemma: A new solution to an age old problem"
 date: "2012-10-01"
 pin: false
 categories: [writing, astrobites]
-tags: ["computer science", "discoveries", "game theory"]
+tags: [computer science, discoveries, game theory]
+venue: "Astrobites"
 description: "The Prisoner's Dilemma is one of the classic problems in game theory, first posed in 1950 and studied exhaustively for generations.  Remarkably, a new solution has been discovered that prompts us to re-examine long held principles."
 authors: ["nes"]
 ---

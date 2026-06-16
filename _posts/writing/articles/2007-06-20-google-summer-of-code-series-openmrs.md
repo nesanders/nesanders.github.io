@@ -3,7 +3,8 @@ title: "Google Summer of Code Series, OpenMRS"
 date: 2007-06-20
 pin: false
 categories: [writing, article]
-tags: [open source software, google summer of code, openmrs, linux weekly news]
+tags: [open source software, google summer of code, openmrs]
+venue: "Linux Weekly News"
 description: This is the third of six articles in a LWN series about the Google Summer of Code 2007, this one focusing on the Open Medical Record System.
 # image:
 #   path:

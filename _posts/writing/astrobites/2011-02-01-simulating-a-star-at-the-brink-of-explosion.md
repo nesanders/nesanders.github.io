@@ -3,7 +3,8 @@ title: "Simulating a star at the brink of explosion"
 date: "2011-02-01"
 pin: false
 categories: [writing, astrobites]
-tags: ["massive stars", "simulations", "stellar evolution", "supernova progenitors", "supernovae"]
+tags: [massive stars, simulations, stellar evolution, supernova progenitors, supernovae]
+venue: "Astrobites"
 description: "Supernovae are vitally important in the chemical and dynamical evolution of galaxies, but we don't yet fully understand the physics that produce these explosions.  This new work simulates the turbulent instabilities in a star at the brink of core-collapse."
 authors: ["nes"]
 ---

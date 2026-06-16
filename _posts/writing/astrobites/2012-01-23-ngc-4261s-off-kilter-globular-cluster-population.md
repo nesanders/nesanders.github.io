@@ -3,7 +3,8 @@ title: "NGC 4261's off-kilter globular cluster population"
 date: "2012-01-23"
 pin: false
 categories: [writing, astrobites]
-tags: ["galaxy evolution", "galaxy mergers", "glubular clusters", "HST", "photometry"]
+tags: [galaxy evolution, galaxy mergers, glubular clusters, HST, photometry]
+venue: "Astrobites"
 description: "We think many galaxies we see today had mergers and interactions in their past, but how can we know for sure?  Bonfini et al. look to evidence from a subtle pattern in the distribution of globular clusters in NGC 4261."
 authors: ["nes"]
 ---

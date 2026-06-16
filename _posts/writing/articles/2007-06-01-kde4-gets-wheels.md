@@ -4,6 +4,7 @@ date: 2007-06-01
 pin: false
 categories: [writing, article]
 tags: [open source software, kde4, linux, kamion]
+venue: "Linux Format Magazine"
 description: A June 2007 Linux Format Magazine article about Kamion, the system migration tool built for KDE4.
 # image:
 #   path:

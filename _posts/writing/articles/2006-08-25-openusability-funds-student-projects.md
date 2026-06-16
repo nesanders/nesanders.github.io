@@ -3,7 +3,8 @@ title: "OpenUsability funds student projects"
 date: 2006-08-25
 pin: false
 categories: [writing, article]
-tags: [open source software, usability, gimp, linux.com]
+tags: [open source software, usability, gimp]
+venue: "Linux.com"
 description: A 2005 Newsforge article about platform-specific browsers based on the Gecko rendering engine.
 ---
 

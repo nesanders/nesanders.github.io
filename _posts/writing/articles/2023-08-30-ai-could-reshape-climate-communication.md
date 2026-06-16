@@ -5,6 +5,7 @@ pin: false
 authors: [nes, roseh]
 categories: [writing, article]
 tags: [ai, climate, science communication]
+venue: "Eos Magazine"
 description: An article outlining the possibilities AI provides to enhance public communication about climate change published by Eos Magazine (AGU).
 ---
 

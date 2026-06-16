@@ -3,7 +3,8 @@ title: "A new tool to investigate a century old mystery"
 date: "2012-07-09"
 pin: false
 categories: [writing, astrobites]
-tags: ["DIBs", "dust", "extinction", "interstellar medium", "SDSS", "spectroscopy", "stars"]
+tags: [DIBs, dust, extinction, interstellar medium, SDSS, spectroscopy, stars]
+venue: "Astrobites"
 description: "The current and next generation of large scale spectroscopic surveys could provide new clues in the hunt for the carriers producing mysterious interstellar absorption features."
 authors: ["nes"]
 ---

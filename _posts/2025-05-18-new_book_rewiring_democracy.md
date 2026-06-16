@@ -4,6 +4,7 @@ date: 2025-10-01
 pin: true
 categories: [writing, book]
 tags: [ai, democracy]
+venue: "MIT Press"
 description: Announcing the book Rewiring Democracy written with Bruce Schneier
 image:
   path: "/assets/rewiring_democracy_cover_preview.jpg"

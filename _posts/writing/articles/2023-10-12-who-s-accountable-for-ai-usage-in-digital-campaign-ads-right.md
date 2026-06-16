@@ -3,7 +3,8 @@ title: "Who's accountable for AI usage in digital campaign ads? Right now, no on
 date: 2023-10-12
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, elections, ash center]
+tags: [democracy, ai, elections]
+venue: "Harvard Ash Center"
 description: An article for Harvard's Ash center blog about the tangle of US federal agencies failing to enforce regulations relating to AI in election campaigns.
 authors: [nes, bruce]
 ---

@@ -3,7 +3,8 @@ title: "How to succeed at engaging the public's interest in science"
 date: 2011-05-19
 pin: false
 categories: [writing, article]
-tags: [science communication, astrophysics, physics today]
+tags: [science communication, astrophysics]
+venue: "Physics Today"
 description: A 2011 article for Physics Today about public engagement for science.
 # image:
 #   path:

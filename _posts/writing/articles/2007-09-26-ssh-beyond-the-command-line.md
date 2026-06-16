@@ -3,7 +3,8 @@ title: "SSH beyond the command line"
 date: 2007-09-26
 pin: false
 categories: [writing, article]
-tags: [open source software, linux, ssh, free software magazine]
+tags: [open source software, linux, ssh]
+venue: "Free Software Magazine"
 description: A 2007 Free Software Magazine article about cross-platform file sharing over SSH.
 # image:
 #   path:

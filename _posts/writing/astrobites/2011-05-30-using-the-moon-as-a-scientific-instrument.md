@@ -3,7 +3,8 @@ title: "Using the Moon as a scientific instrument"
 date: "2011-05-30"
 pin: false
 categories: [writing, astrobites]
-tags: ["binary stars", "diffraction", "Moon", "observations"]
+tags: [binary stars, diffraction, Moon, observations]
+venue: "Astrobites"
 description: "These authors use the surface of the Moon to distinguish between binary star systems separated by just thousandths of an arcsecond - far smaller than can be resolved by traditional imaging."
 authors: ["nes"]
 ---

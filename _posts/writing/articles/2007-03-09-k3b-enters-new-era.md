@@ -3,7 +3,8 @@ title: "K3b enters new era with approaching 1.0 release"
 date: 2007-03-09
 pin: false
 categories: [writing, article]
-tags: [open source software, kde, k3b, linux.com]
+tags: [open source software, kde, k3b]
+venue: "Linux.com"
 description: A 2007 Linux.com article about the first major release of the KDE CD/DVD-burning and ripping application K3b.
 # image:
 #   path:

@@ -3,7 +3,8 @@ title: "The consequences of stellar rotation"
 date: "2011-10-03"
 pin: false
 categories: [writing, astrobites]
-tags: ["gamma-ray bursts", "GRBs", "Population III stars", "Review", "stars", "stellar rotation", "WR stars"]
+tags: [gamma-ray bursts, GRBs, Population III stars, Review, stars, stellar rotation, WR stars]
+venue: "Astrobites"
 description: "What aspects of a star's life are affected by its rate of rotation?  Just about everything!"
 authors: ["nes"]
 ---

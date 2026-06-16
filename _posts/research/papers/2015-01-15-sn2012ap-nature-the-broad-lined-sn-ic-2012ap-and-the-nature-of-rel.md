@@ -3,7 +3,8 @@ title: "The Broad-lined SN Ic 2012ap and the Nature of Relativistic Supernovae L
 date: 2015-01-15
 pin: false
 categories: [research, paper]
-tags: ["astrophysics", "supernovae"]
+tags: [astrophysics, supernovae]
+venue: "The Astrophysical Journal"
 description: "Analysis of SN 2012ap and the nature of relativistic SNe without GRB detections."
 authors: [ "dmilisav", "rmargutti", "nes", "etal" ]
 ---

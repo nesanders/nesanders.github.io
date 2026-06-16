@@ -3,7 +3,8 @@ title: "AI Will Write Complex Laws"
 date: 2025-01-16
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, legislation, lawfare]
+tags: [democracy, ai, legislation]
+venue: "Lawfare"
 description: An article for Lawfare about the pressures and capabilities for AI to write increasingly complex law.
 authors: [nes, bruce]
 ---

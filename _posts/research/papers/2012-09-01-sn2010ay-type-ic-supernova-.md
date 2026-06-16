@@ -3,7 +3,8 @@ title: "SN 2010ay Is a Luminous and Broad-Lined Type Ic Supernova Within a Low-M
 date: 2012-09-01
 pin: false
 categories: [research, paper]
-tags: ["astrophysics", "supernovae"]
+tags: [astrophysics, supernovae]
+venue: "The Astrophysical Journal"
 description: "Describes SN 2010ay, a bright Type Ic supernova with broad spectral lines, found in a host galaxy with low metallicity, and discusses its implications for GRB progenitors."
 authors: ["nes", "ams", "etal"]
 ---

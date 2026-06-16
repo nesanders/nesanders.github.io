@@ -4,6 +4,7 @@ date: 2012-02-01
 pin: false
 categories: [writing, article]
 tags: [astronomy, bowdoin prize]
+venue: "Personal site"
 description: An essay on the observational science of astronomy in the twenty-first century and my own experiences training in the field, which won Harvard University's 2012 Bowdoin Prize for Graduate Students in the Natural Sciences.
 authors: [nes]
 ---

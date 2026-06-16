@@ -3,7 +3,8 @@ title: "Against the Federal Moratorium on State-Level Regulation of AI"
 date: 2025-12-11
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, regulation, US states, gizmodo]
+tags: [democracy, ai, regulation, US states]
+venue: "Gizmodo"
 description: An article for Gizmodo arguing against the Trump administration's proposed federal moratorium on state regulation of AI.
 authors: [nes, bruce]
 ---

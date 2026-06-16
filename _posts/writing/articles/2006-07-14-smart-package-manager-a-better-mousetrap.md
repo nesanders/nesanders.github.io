@@ -3,7 +3,8 @@ title: "Smart Package Manager: a better mousetrap"
 date: 2006-07-14
 pin: false
 categories: [writing, article]
-tags: [open source software, linux, linux.com]
+tags: [open source software, linux]
+venue: "Linux.com"
 description: A 2006 Linux.com article about the long-since defunct Smart Package Manager for Linux.
 # image:
 #   path:

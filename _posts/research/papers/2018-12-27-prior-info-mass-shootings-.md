@@ -3,7 +3,8 @@ title: "The Role of Prior Information in Inference on the Annualized Rates of Ma
 date: 2018-12-27
 pin: false
 categories: [research, paper]
-tags: ["mass public shootings", "statistics"]
+tags: [mass public shootings, statistics]
+venue: "Statistics and Public Policy"
 description: "Examines how prior information affects statistical inferences regarding the yearly rates of mass shootings in the United States."
 authors: ["nes", "etal"]
 ---

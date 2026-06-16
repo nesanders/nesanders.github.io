@@ -3,7 +3,8 @@ title: "French company embraces, contributes to free software"
 date: 2006-08-18
 pin: false
 categories: [writing, article]
-tags: [open source software, kde, newsforge]
+tags: [open source software, kde]
+venue: "NewsForge"
 description: A 2006 Newsforge interview with free software developer Aurélien Gāteau about his company's (Dental-On-Line's) investment in open source software development.
 # image:
 #   path:

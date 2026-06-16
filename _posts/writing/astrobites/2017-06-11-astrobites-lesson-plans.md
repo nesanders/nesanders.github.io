@@ -3,7 +3,8 @@ title: "Will you use Astrobites in your course this Fall?"
 date: "2017-06-11"
 pin: false
 categories: [writing, astrobites]
-tags: ["astrobites", "astronomy education", "classroom", "education"]
+tags: [astrobites, astronomy education, classroom, education]
+venue: "Astrobites"
 description: "Use these three lesson plans and classroom materials to integrate Astrobites into your undergraduate or graduate course."
 authors: ["nes"]
 ---

@@ -3,7 +3,8 @@ title: "All about bulges (and consequences for galaxy evolution)"
 date: "2011-04-04"
 pin: false
 categories: [writing, astrobites]
-tags: ["bulges", "galaxies", "galaxy evolution", "galaxy mergers", "pseudobulges"]
+tags: [bulges, galaxies, galaxy evolution, galaxy mergers, pseudobulges]
+venue: "Astrobites"
 description: "Bulges are a familar feature of spiral galaxies, but bulges seem to come in many shapes and sizes.  Studying bulges can provide clues for the role of galaxy mergers in the history of the universe."
 authors: ["nes"]
 ---

@@ -3,7 +3,8 @@ title: "Modeling the Time Evolution of the Annualized Rate of Public Mass Shooti
 date: 2017-01-01
 pin: false
 categories: [research, paper]
-tags: ["mass public shootings", "statistics"]
+tags: [mass public shootings, statistics]
+venue: "StanCon Proceedings"
 description: "Describes a statistical model using Gaussian Processes to understand the changing annual rate of public mass shootings, presented at StanCon."
 authors: ["nes", "etal"]
 ---

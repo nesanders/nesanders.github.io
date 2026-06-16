@@ -3,7 +3,8 @@ title: "Are We Ready to Be Governed by Artificial Intelligence?"
 date: 2025-12-23
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, medicare, merion west]
+tags: [democracy, ai, medicare]
+venue: "Merion West"
 description: An article for Merion West exploring examples of how AI is already changing governmental functions around the world.
 authors: [nes, bruce]
 ---

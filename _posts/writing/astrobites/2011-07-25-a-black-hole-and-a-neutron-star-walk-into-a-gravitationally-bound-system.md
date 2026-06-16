@@ -3,7 +3,8 @@ title: "A black hole and a neutron star walk into a gravitationally bound system
 date: "2011-07-25"
 pin: false
 categories: [writing, astrobites]
-tags: ["black holes", "Cygnus X-1", "supernovae", "theory"]
+tags: [black holes, Cygnus X-1, supernovae, theory]
+venue: "Astrobites"
 description: "What will happen if Cygnus X-1 evolves to become a system of two massive, compact objects (and will we ever find out)?"
 authors: ["nes"]
 ---

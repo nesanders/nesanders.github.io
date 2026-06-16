@@ -3,7 +3,8 @@ title: "Finding needles in the cosmological haystack with the SZ effect"
 date: "2011-01-07"
 pin: false
 categories: [writing, astrobites]
-tags: ["cosmology", "early universe", "galaxies", "galaxy clusters", "galaxy evolution", "SZ effect"]
+tags: [cosmology, early universe, galaxies, galaxy clusters, galaxy evolution, SZ effect]
+venue: "Astrobites"
 description: "A new cluster of galaxies discovered in the early universe using the Sunyaev-Zel\u2019dovich (SZ) e\ufb00ect could have important consequences for studying galaxy evolution and cosmology."
 authors: ["nes"]
 ---

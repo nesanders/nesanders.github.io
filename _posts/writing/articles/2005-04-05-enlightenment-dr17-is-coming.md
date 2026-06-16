@@ -3,7 +3,8 @@ title: "Enlightenment DR17 is coming - eventually"
 date: 2005-04-05
 pin: false
 categories: [writing, article]
-tags: [open source software, enlightenment, linux, newsforge]
+tags: [open source software, enlightenment, linux]
+venue: "NewsForge"
 description: A 2005 Newsforge article about a forthcoming release of the Enlightenment desktop environment.
 # image:
 #   path:

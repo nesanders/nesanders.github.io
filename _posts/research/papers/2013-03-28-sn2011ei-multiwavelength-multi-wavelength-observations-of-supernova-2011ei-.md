@@ -3,7 +3,8 @@ title: "Multi-wavelength Observations Of Supernova 2011ei: A Radiatively Ineffic
 date: 2013-03-28
 pin: false
 categories: [research, paper]
-tags: ["astrophysics", "supernovae"]
+tags: [astrophysics, supernovae]
+venue: "The Astrophysical Journal"
 description: "Multi-wavelength study of SN 2011ei, a Type IIb SN with inefficient shock breakout."
 authors: [ "dmilisav", "rmargutti", "ams", "nes", "etal" ]
 ---

@@ -3,7 +3,8 @@ title: "Advertising Attribution Modeling in the Movie Industry"
 date: 2017-01-20
 pin: false
 categories: [research, paper]
-tags: ["statistics", "research", "finance"]
+tags: [statistics, research, finance]
+venue: "StanCon Proceedings"
 description: "Models advertising attribution for the movie industry, presented at StanCon 2017."
 authors: [ "vlei", "nes", "adawson" ]
 ---

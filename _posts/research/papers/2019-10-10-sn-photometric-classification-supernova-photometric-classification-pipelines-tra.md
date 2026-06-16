@@ -3,7 +3,8 @@ title: "Supernova Photometric Classification Pipelines Trained on Spectroscopica
 date: 2019-10-10
 pin: false
 categories: [research, paper]
-tags: ["astrophysics", "supernovae", "statistics", "ml"]
+tags: [astrophysics, supernovae, statistics, ml]
+venue: "The Astrophysical Journal"
 description: "SN photometric classification pipelines trained on Pan-STARRS1 MDS SNe."
 authors: [ "vavillar", "eberger", "nes", "etal" ]
 ---

@@ -3,7 +3,8 @@ title: "AI + Humans: Making the Relationship Work"
 date: 2026-01-01
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, management, rotman]
+tags: [democracy, ai, management]
+venue: "Rotman Management"
 description: An article for Rotman Management Magazine (University of Toronto) explaining research into how to make agentic AI systems work in terms of traditional human management principles.
 authors: [nes, bruce]
 ---

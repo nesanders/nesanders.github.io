@@ -3,7 +3,8 @@ title: "What lives far outside the Small Magellanic Cloud?"
 date: "2011-04-18"
 pin: false
 categories: [writing, astrobites]
-tags: ["galaxy evolution", "LMC", "Magellenic Clouds", "SMC", "stars"]
+tags: [galaxy evolution, LMC, Magellenic Clouds, SMC, stars]
+venue: "Astrobites"
 description: "The SMC is one of the best studied galaxies in the sky, but there is still plenty to learn from the stars far from its center."
 authors: ["nes"]
 ---

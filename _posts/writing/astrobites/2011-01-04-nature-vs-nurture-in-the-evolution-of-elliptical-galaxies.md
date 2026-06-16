@@ -3,7 +3,8 @@ title: "Nature vs. nurture in the evolution of elliptical galaxies"
 date: "2011-01-04"
 pin: false
 categories: [writing, astrobites]
-tags: ["galaxies", "galaxy clusters", "galaxy evolution"]
+tags: [galaxies, galaxy clusters, galaxy evolution]
+venue: "Astrobites"
 description: "The general picture of galaxy formation was hashed out in the 1960s and 70s.  In the decades since, countless lines of theoretical and observational evidence have suggested additional mechanisms which can influence the evolution of galaxies, and sorting out which of these are the most important is among the most lively fields in astrophysics."
 authors: ["nes"]
 ---

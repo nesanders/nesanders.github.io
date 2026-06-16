@@ -3,7 +3,8 @@ title: "GSoC: Student Tackles Wine Direct3D 10 Support"
 date: 2007-07-18
 pin: false
 categories: [writing, article]
-tags: [open source software, google summer of code, wine, linux weekly news]
+tags: [open source software, google summer of code, wine]
+venue: "Linux Weekly News"
 description: The fourth of six entries in a 2007 series for LWN about the Google Summer of Code, this one focusing on the Windows compatability layer Wine.
 # image:
 #   path:

@@ -3,7 +3,8 @@ title: "Can the Coronavirus Prompt a Global Outbreak of 'Distributional Thinking
 date: 2020-04-30
 pin: false
 categories: [research, paper]
-tags: ["statistics"]
+tags: [statistics]
+venue: "Harvard Data Science Review"
 description: "Discusses the potential for the COVID-19 pandemic to foster 'distributional thinking' within organizations, drawing parallels with social justice movements."
 authors: ["nes"]
 ---

@@ -3,7 +3,8 @@ title: "Google Summer of Code 2007 Conclusion"
 date: 2007-09-19
 pin: false
 categories: [writing, article]
-tags: [open source software, google summer of code, linux weekly news]
+tags: [open source software, google summer of code]
+venue: "Linux Weekly News"
 description: The final entry in a 2007 series for LWN about the Google Summer of Code.
 # image:
 #   path:

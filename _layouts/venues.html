@@ -1,0 +1,20 @@
+---
+layout: page
+# Index of all venues with post counts (sidebar: Writing | by Venue).
+---
+
+{% assign groups = site.posts | group_by: 'venue' %}
+{% assign sorted = groups | sort: 'size' | reverse %}
+
+<div id="tags" class="d-flex flex-wrap mx-xl-2">
+  {% for g in sorted %}
+    {% if g.name and g.name != '' %}
+      <div>
+        <a class="tag" href="{{ g.name | slugify | url_encode | prepend: '/venues/' | append: '/' | relative_url }}">
+          {{ g.name -}}
+          <span class="text-muted">{{ g.size }}</span>
+        </a>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

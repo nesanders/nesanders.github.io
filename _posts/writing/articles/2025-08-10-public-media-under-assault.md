@@ -3,7 +3,8 @@ title: "Public Media is Under Assault. Here's a Way to Fight Back"
 date: 2025-08-10
 pin: false
 categories: [writing, article]
-tags: [democracy, civic tech, public media, boston globe]
+tags: [democracy, civic tech, public media]
+venue: "The Boston Globe"
 description: An article for The Boston Globe about how we can respond to the federal defunding of public media by putting an attention extraction tax on tech companies to support civic technology.
 authors: [nes, mvictor]
 ---

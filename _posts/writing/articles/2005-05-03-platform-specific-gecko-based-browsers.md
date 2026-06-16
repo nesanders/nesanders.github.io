@@ -3,7 +3,8 @@ title: "Platform-specific Gecko-based browsers"
 date: 2005-05-03
 pin: false
 categories: [writing, article]
-tags: [open source software, browsers, gecko, newsforge]
+tags: [open source software, browsers, gecko]
+venue: "NewsForge"
 description: A 2005 Newsforge article about platform-specific browsers based on the Gecko rendering engine.
 # image:
 #   path:

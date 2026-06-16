@@ -3,7 +3,8 @@ title: "The Wired World in 2025: Algorithms are Coming for Democracy--But It's N
 date: 2024-11-26
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, wired]
+tags: [democracy, ai]
+venue: "WIRED"
 description: An article for Wired's world in review for 2025 about the many ways AI is impacting democracy.
 authors: [bruce, nes]
 ---

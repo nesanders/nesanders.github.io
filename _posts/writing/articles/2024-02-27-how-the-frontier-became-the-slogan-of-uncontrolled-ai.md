@@ -3,7 +3,8 @@ title: "How the “Frontier” Became the Slogan of Uncontrolled AI."
 date: 2024-02-27
 pin: true
 categories: [writing, article]
-tags: [ai, democracy, jacobin]
+tags: [ai, democracy]
+venue: "Jacobin"
 description: An article for Jacobin about how the 'frontier' analogy is a dangerous metaphor for AI.
 authors: [nes, bruce]
 ---

@@ -3,7 +3,8 @@ title: "BOSS's 3D map of the early universe"
 date: "2011-05-02"
 pin: false
 categories: [writing, astrobites]
-tags: ["cosmology", "Lyman-alpha", "reionization", "SDSS", "spectroscopy"]
+tags: [cosmology, Lyman-alpha, reionization, SDSS, spectroscopy]
+venue: "Astrobites"
 description: "The BOSS project of the Sloan Digital Sky Survey is exploiting the Lyman-\u03b1 forest in distant quasars to make a 3D map of neutral hydrogen in the early universe."
 authors: ["nes"]
 ---

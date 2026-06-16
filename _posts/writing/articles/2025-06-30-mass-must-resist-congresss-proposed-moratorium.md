@@ -3,7 +3,8 @@ title: "Mass. must resist Congress’s proposed moratorium on state AI regulatio
 date: 2025-06-29
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, the conversation]
+tags: [democracy, ai]
+venue: "The Conversation"
 description: An article for CommonWealth Beacon about Massachusetts' potentials role in resisting the proposed Congressional moratorium on state-level AI policy.
 authors: [nes, apascal]
 ---

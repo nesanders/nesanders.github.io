@@ -3,7 +3,8 @@ title: "Neuros takes open source approach to hardware and software development"
 date: 2005-09-21
 pin: false
 categories: [writing, article]
-tags: [open source software, electronics, neuros, newsforge]
+tags: [open source software, electronics, neuros]
+venue: "NewsForge"
 description: A 2005 Newsforge article about open source hardware development and Neuros Technology.
 # image:
 #   path:

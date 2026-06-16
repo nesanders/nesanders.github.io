@@ -3,7 +3,8 @@ title: "How AI could write our laws"
 date: 2023-03-14
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, law, regulation, technology review]
+tags: [democracy, ai, law, regulation]
+venue: "MIT Technology Review"
 description: An article for the Tech Review about how AI could be used to write legislation.
 authors: [nes, bruce]
 ---

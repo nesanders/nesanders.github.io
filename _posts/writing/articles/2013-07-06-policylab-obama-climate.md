@@ -4,7 +4,8 @@ to European Air Travel Regulations"
 date: 2013-07-06
 pin: false
 categories: [writing, article]
-tags: [climate, regulation, policylab]
+tags: [climate, regulation]
+venue: "PolicyLab"
 description: An article for PolicyLab about the Obama administration's failure to act on climate regulation in the airline industry.
 authors: [nes]
 ---

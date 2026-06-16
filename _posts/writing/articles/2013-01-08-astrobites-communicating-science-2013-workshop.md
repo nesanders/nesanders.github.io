@@ -3,7 +3,8 @@ title: "Astrobites Communicating Science 2013 Workshop"
 date: 2013-01-08
 pin: false
 categories: [writing, article]
-tags: [science communication, comscicon, gradhacker]
+tags: [science communication, comscicon]
+venue: "GradHacker"
 description: A GradHacker / InsideHigherEd article from 2013 announcing the first ComSciCon conference.
 ---
 

@@ -3,7 +3,8 @@ title: "Towards Characterization of the Type IIP Supernova Progenitor Population
 date: 2015-02-10
 pin: false
 categories: [research, paper]
-tags: ["astrophysics", "statistics", "supernovae"]
+tags: [astrophysics, statistics, supernovae]
+venue: "The Astrophysical Journal"
 description: "Aims to characterize Type IIP supernova progenitors by analyzing a statistical sample of light curves obtained from the Pan-STARRS1 survey."
 authors: ["nes", "ams", "etal"]
 ---

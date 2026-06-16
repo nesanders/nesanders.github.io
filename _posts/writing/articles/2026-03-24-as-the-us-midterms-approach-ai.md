@@ -3,7 +3,8 @@ title: "As the US midterms approach, AI is going to emerge as a key issue concer
 date: 2026-03-24
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, politics, US states, regulation, 2026 midterms, data centers, the guardian]
+tags: [democracy, ai, politics, US states, regulation, 2026 midterms, data centers]
+venue: "The Guardian"
 description: An article for The Guardian about the role of AI and recent Trump administration regulatory actions in the 2026 US midterms.
 authors: [nes, bruce]
 ---

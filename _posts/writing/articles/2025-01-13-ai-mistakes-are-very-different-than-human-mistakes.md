@@ -3,7 +3,8 @@ title: "AI Mistakes Are Very Different Than Human Mistakes"
 date: 2025-01-13
 pin: false
 categories: [writing, article]
-tags: [ai, mistakes, ieee spectrum]
+tags: [ai, mistakes]
+venue: "IEEE Spectrum"
 description: An article for IEEE Spectrum about how the weirdness of AI's mistakes deceives us about its capabilities and appropriate use cases.
 authors: [bruce, nes]
 ---

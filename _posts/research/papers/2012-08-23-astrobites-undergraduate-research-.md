@@ -3,7 +3,8 @@ title: "Preparing Undergraduates for Research Careers: Using Astrobites in the C
 date: 2012-08-23
 pin: false
 categories: [research, paper]
-tags: ["astrophysics", "education", "astrobites"]
+tags: [astrophysics, education, astrobites]
+venue: "Astronomy Education Review"
 description: "Discusses strategies for preparing undergraduate students for research careers, highlighting the use of Astrobites for integrating current research into educational settings."
 authors: ["nes", "etal"]
 ---

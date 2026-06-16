@@ -3,7 +3,8 @@ title: "How ChatGPT Hijacks Democracy"
 date: 2023-01-15
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, lobbying, the new york times]
+tags: [democracy, ai, lobbying]
+venue: "The New York Times"
 description: An article for The New York Times about the potential for AI to supercharge lobbying.
 authors: [nes, bruce]
 ---

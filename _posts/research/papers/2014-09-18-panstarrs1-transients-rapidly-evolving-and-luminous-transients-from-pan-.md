@@ -3,7 +3,8 @@ title: "Rapidly Evolving And Luminous Transients From PAN-STARRS1"
 date: 2014-09-18
 pin: false
 categories: [research, paper]
-tags: ["astrophysics", "supernovae"]
+tags: [astrophysics, supernovae]
+venue: "The Astrophysical Journal"
 description: "Presents rapidly evolving and luminous transients discovered by Pan-STARRS1."
 authors: [ "mdrout", "rchornock", "ams", "nes", "etal" ]
 ---

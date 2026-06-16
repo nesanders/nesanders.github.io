@@ -3,7 +3,8 @@ title: "Sewage: An Environmental Justice Tragedy"
 date: 2021-02-05
 pin: false
 categories: [writing, article]
-tags: [environmental justice, environment, sewage, myrwa]
+tags: [environmental justice, environment, sewage]
+venue: "Mystic River Watershed Association"
 description: A blog post for the Mystic River Watershed Association about sewage overflows.
 ---
 

@@ -3,7 +3,8 @@ title: "KDE 4 gets more Hot New Stuff"
 date: 2007-03-27
 pin: false
 categories: [writing, article]
-tags: [open source software, kde, linux, linux weekly news]
+tags: [open source software, kde, linux]
+venue: "Linux Weekly News"
 description: A 2007 article for the Linux Weekly News about KDE's Hot New Stuff system for downloading themes and other add-ons.
 # image:
 #   path:

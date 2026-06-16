@@ -3,7 +3,8 @@ title: "AI Is Changing How Politics Is Practiced in America"
 date: 2025-10-10
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, elections, 2026 midterms, the american prospect]
+tags: [democracy, ai, elections, 2026 midterms]
+venue: "The American Prospect"
 description: An article for The American Prospect laying out the landscape of political actors leveraging AI in the runup to the 2026 midterms.
 authors: [nes, bruce]
 ---

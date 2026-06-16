@@ -3,7 +3,8 @@ title: "An update on the atmosphere of super-Earth GJ1214b"
 date: "2011-11-28"
 pin: false
 categories: [writing, astrobites]
-tags: ["atmospheres", "exoplanets", "extra-solar planets", "GJ1214b", "life", "snow line", "Super-Earths", "transits", "water"]
+tags: [atmospheres, exoplanets, extra-solar planets, GJ1214b, life, snow line, Super-Earths, transits, water]
+venue: "Astrobites"
 description: "The latest episode in the saga of GJ1214b appeared on the arXiv Wednesday."
 authors: ["nes"]
 ---

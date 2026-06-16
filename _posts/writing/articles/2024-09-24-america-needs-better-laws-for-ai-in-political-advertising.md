@@ -3,7 +3,8 @@ title: "AI Could Still Wreck the Presidential Election"
 date: 2024-09-24
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, elections, regulation, the atlantic, fec, fcc, ftc]
+tags: [democracy, ai, elections, regulation, fec, fcc, ftc]
+venue: "The Atlantic"
 description: An article for The Atlantic about the US federal agencies' failure to regulate AI in time for the 2024 election.
 authors: [nes, bruce]
 ---

@@ -3,7 +3,8 @@ title: "Scientists Need a Positive Vision for AI: It’s time to lead reform, bl
 date: 2025-10-29
 pin: false
 categories: [writing, article]
-tags: [academia, ai, ieee spectrum]
+tags: [academia, ai]
+venue: "IEEE Spectrum"
 description: An article for IEEE Spectrum laying out the landscape of political actors leveraging AI in the runup to the 2026 midterms.
 authors: [nes, bruce]
 ---

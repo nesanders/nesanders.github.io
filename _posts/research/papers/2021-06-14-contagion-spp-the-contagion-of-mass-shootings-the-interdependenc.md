@@ -3,7 +3,8 @@ title: "The Contagion of Mass Shootings: The Interdependence of Large-Scale Mass
 date: 2021-06-14
 pin: false
 categories: [research, paper]
-tags: ["mass public shootings", "statistics"]
+tags: [mass public shootings, statistics]
+venue: "Statistics and Public Policy"
 description: "Examines the interdependence of large-scale massacres and mass media coverage."
 authors: [ "jaf", "nes", "etal" ]
 ---
