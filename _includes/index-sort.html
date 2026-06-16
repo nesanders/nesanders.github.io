@@ -16,6 +16,13 @@
   (function () {
     var id = '{{ include.target }}';
     var def = '{{ include.default | default: "name" }}';
+
+    function ready(fn) {
+      if (document.readyState !== 'loading') { fn(); }
+      else { document.addEventListener('DOMContentLoaded', fn); }
+    }
+
+    ready(function () {
     var container = document.getElementById(id);
     var controls = document.querySelector('.sort-controls[data-sort-for="' + id + '"]');
     if (!container || !controls) return;
@@ -48,5 +55,6 @@
     var saved = null;
     try { saved = localStorage.getItem('indexSort:' + id); } catch (e) {}
     apply(saved || def);
+    });
   })();
 </script>
