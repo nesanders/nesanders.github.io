@@ -26,3 +26,7 @@ package-lock.json
 _sass/vendors
 assets/js/dist
 *WordPress.2026-03*.xml
+
+# Claude working files
+CLAUDE.md
+*_PROPOSAL.md
