@@ -29,8 +29,6 @@ Two years ago, Air Canada learned this lesson. Its AI chatbot promised a discoun
 
 AI agents are agents of the person or organization that deploys them – and should be treated by the law as such. If a company hired human writers to write its summaries, that company would be liable for inaccuracies in those summaries. If a company’s human agent signed contracts in the company’s name, that company would be bound by those contracts. And if a doctor gave dangerously wrong medical advice, they would be liable for [malpractice](https://www.nature.com/articles/s41746-026-02854-5).
 
-> Why hire human writers, lawyers or doctors when AIs are not only cheaper, but also absolve employers whenever they make a mistake?
-
 To allow businesses to hide behind the excuse of faulty AI in those same circumstances would be a massive handout to companies, and would introduce disastrous incentives for corporate misbehavior. Why hire human writers, lawyers or doctors when AIs are not only cheaper, but also absolve employers whenever they make a mistake?
 
 We are rapidly moving to a world where AI-powered chatbots will be at the other end of all sorts of corporate communications channels. It makes no sense for a company to be able to honor its statements when it wants to and disavow them when it doesn’t.
