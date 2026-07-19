@@ -6,6 +6,19 @@ refactor: true
 {% include lang.html %}
 
 <style>
+  /* Chirpy doesn't bundle Bootstrap's stretched-link helper, so define it here.
+     Without this the card title anchor only covers its text and the rest of the
+     card is unclickable. The ::after overlay covers the position-relative card;
+     tag/venue links sit above it via their own position:relative + z-index. */
+  #post-list .stretched-link::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    content: "";
+  }
   #post-list .post-tags-inline a:hover {
     color: var(--link-color);
     text-decoration: underline;
