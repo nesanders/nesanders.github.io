@@ -3,7 +3,7 @@ title: "Stitching seamless panoramas with Hugin"
 date: 2007-01-10
 pin: false
 categories: [writing, article]
-tags: [open source software, hugin, photography]
+tags: [open source software, linux, photography]
 venue: "Free Software Magazine"
 description: A 2007 Free Software Magazine article about stitching panoramic photography with Hugin.
 # image:

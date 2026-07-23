@@ -3,7 +3,7 @@ title: "Communicating Your Science With Help From ComSciCon"
 date: 2018-07-19
 pin: false
 categories: [writing, article]
-tags: [science communication, comscicon]
+tags: [science communication]
 venue: "Addgene"
 description: An article for the AddGene blog about ComSciCon and science communication.
 ---

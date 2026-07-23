@@ -3,7 +3,7 @@ title: "Season of KDE fosters young students, Part One"
 date: 2006-08-01
 pin: false
 categories: [writing, article]
-tags: [open source software, kde, linux, kwin, kamion, koffice]
+tags: [open source software, linux, kde, interview]
 venue: "Linux Weekly News"
 description: A 2006 article for the Linux Weekly News about the KDE summer internship-like program, the Season of KDE, detailing several student projects.
 # image:

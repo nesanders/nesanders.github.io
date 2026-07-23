@@ -3,7 +3,7 @@ title: "KDE 4's Sonnet will turbocharge language processing"
 date: 2007-02-07
 pin: false
 categories: [writing, article]
-tags: [open source software, kde, linguistics]
+tags: [open source software, linux, kde, interview]
 venue: "Linux.com"
 description: A 2007 Linux.com article about the linguistic service then-in development for KDE 4, providing multi-lingual spelling and grammar checking, a dictionary and thesaurus, language detection, and more.
 # image:

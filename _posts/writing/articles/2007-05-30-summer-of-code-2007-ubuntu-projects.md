@@ -3,7 +3,7 @@ title: "Summer of Code 2007 - Ubuntu projects"
 date: 2007-05-30
 pin: false
 categories: [writing, article]
-tags: [open source software, google summer of code, ubuntu]
+tags: [open source software, linux, google summer of code, interview]
 venue: "Linux Weekly News"
 description: The second entry in a 2007 series for LWN about the Google Summer of Code, focusing on projects from Ubuntu.
 # image:

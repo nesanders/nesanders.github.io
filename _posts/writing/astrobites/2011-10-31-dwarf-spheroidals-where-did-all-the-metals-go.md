@@ -3,7 +3,7 @@ title: "Dwarf Spheroidals: Where did all the metals go?"
 date: "2011-10-31"
 pin: false
 categories: [writing, astrobites]
-tags: [chemical evolution, dSph, galaxies, galaxy evolution, IGM, interstellar medium, Local Group, Metallcity, theory]
+tags: [astrophysics, galaxies, interstellar medium, spectroscopy, simulations]
 venue: "Astrobites"
 description: "Some galaxies get all the metals, but the dSphs surrounding the Milky Way seem to have lost"
 authors: ["nes"]

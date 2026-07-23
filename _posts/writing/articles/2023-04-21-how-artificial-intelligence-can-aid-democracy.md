@@ -3,7 +3,7 @@ title: "How Artificial Intelligence Can Aid Democracy"
 date: 2023-04-21
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, public ai]
+tags: [ai, democracy, public ai]
 venue: "Slate"
 description: An article for Slate about the potential to build Public AI that advances rather than harms democracy.
 authors: [bruce, henryf, nes]

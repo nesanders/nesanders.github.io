@@ -3,7 +3,7 @@ title: "Astronomical methods for the year 1 trillion"
 date: "2011-02-02"
 pin: false
 categories: [writing, astrobites]
-tags: [astronomical methods, cosmology, hypervelocity stars, Milkomeda, the distant future]
+tags: [astrophysics, stars, cosmology, astronomical surveys]
 venue: "Astrobites"
 description: "Update: you can read Avi Loeb and Freeman Dyson's discussion of this issue in [our latest post](https://astroph.wordpress.com/2011/02/03/avi-loeb-and-"
 authors: ["nes"]

@@ -3,7 +3,7 @@ title: "AI-generated text is overwhelming institutions – setting off a no-win 
 date: 2026-02-05
 pin: false
 categories: [writing, article]
-tags: [democracy, ai]
+tags: [ai, democracy]
 venue: "The Conversation"
 description: An article for The Conversation about the arms races AI is fueling across publishing, academia, courts, legislatures, and beyond.
 authors: [nes, bruce]

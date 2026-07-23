@@ -3,7 +3,7 @@ title: "Forecasting the Severity of Mass Public Shootings in the United States"
 date: 2021-04-01
 pin: false
 categories: [research, paper]
-tags: [mass public shootings, statistics]
+tags: [statistics, mass public shootings, public safety]
 venue: "Journal of Quantitative Criminology"
 description: "Forecasts the future severity of mass public shootings in the U.S. using statistical modeling."
 authors: [ "gduwe", "nes", "etal" ]

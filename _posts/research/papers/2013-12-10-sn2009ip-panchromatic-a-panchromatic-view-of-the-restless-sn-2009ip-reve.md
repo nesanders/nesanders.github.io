@@ -3,7 +3,7 @@ title: "A Panchromatic View Of The Restless SN 2009ip Reveals Explosive Ejection
 date: 2013-12-10
 pin: false
 categories: [research, paper]
-tags: [astrophysics, supernovae]
+tags: [astrophysics, supernovae, astronomical surveys]
 venue: "The Astrophysical Journal"
 description: "Panchromatic observations of SN 2009ip, revealing massive star envelope ejection."
 authors: [ "rmargutti", "ams", "dmilisav", "nes", "etal" ]

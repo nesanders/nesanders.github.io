@@ -3,7 +3,7 @@ title: "Can We Build Trustworthy AI?"
 date: 2023-05-04
 pin: false
 categories: [writing, article]
-tags: [ai, trust, chatgpt]
+tags: [ai, ai safety]
 venue: "Gizmodo"
 description: An article for Gizmodo about how to live in a world with untrustworthy AI.
 authors: [bruce, nes]

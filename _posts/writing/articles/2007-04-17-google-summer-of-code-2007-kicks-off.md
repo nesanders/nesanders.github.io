@@ -3,7 +3,7 @@ title: "Google Summer of Code 2007 kicks off"
 date: 2007-04-17
 pin: false
 categories: [writing, article]
-tags: [open source software, google summer of code]
+tags: [open source software, linux, google summer of code]
 venue: "Linux Weekly News"
 description: The first of six entries in a 2007 series for LWN about the Google Summer of Code.
 # image:

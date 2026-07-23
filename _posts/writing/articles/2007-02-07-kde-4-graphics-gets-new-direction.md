@@ -3,7 +3,7 @@ title: "KDE 4 Graphics Gets New Direction with Gwenview II"
 date: 2007-02-07
 pin: false
 categories: [writing, article]
-tags: [open source software, kde, linux, gwenview]
+tags: [open source software, linux, kde]
 venue: "Linux Weekly News"
 description: A 2007 article for the Linux Weekly News about the then-forthcoming version of KDE's new graphics viewer application, Gwenview.
 # image:

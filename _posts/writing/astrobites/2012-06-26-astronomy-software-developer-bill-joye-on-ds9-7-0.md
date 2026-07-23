@@ -3,7 +3,7 @@ title: "Astronomy software developer Bill Joye on ds9 7.0"
 date: "2012-06-26"
 pin: false
 categories: [writing, astrobites]
-tags: [ds9, software, visualization]
+tags: [astrophysics, tutorial, interview]
 venue: "Astrobites"
 description: "We discuss software development in astronomy with Bill Joye and tour the newest version of his ubiquitous program, ds9."
 authors: ["nes"]

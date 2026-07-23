@@ -3,7 +3,7 @@ title: "SuperRAENN: A Semi-supervised Supernova Photometric Classification Pipel
 date: 2020-12-15
 pin: false
 categories: [research, paper]
-tags: [astrophysics, supernovae, ml]
+tags: [astrophysics, supernovae, machine learning]
 venue: "The Astrophysical Journal"
 description: "A semi-supervised SN photometric classification pipeline using Pan-STARRS1 data."
 authors: [ "vavillar", "ghosseinzadeh", "eberger", "dotdotdot", "nes", "etal" ]

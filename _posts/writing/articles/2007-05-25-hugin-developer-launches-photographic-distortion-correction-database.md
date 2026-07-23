@@ -3,7 +3,7 @@ title: "Hugin developer launches photographic distortion correction database"
 date: 2007-05-25
 pin: false
 categories: [writing, article]
-tags: [open source software, hugin, photography]
+tags: [open source software, linux, photography]
 venue: "Linux.com"
 description: A 2007 Linux.com article about a new database used to correct camera model-specific distortion patterns in photographs when stitching panoramas with Hugin.
 # image:

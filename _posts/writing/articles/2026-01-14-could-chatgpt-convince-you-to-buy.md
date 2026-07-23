@@ -3,7 +3,7 @@ title: "Could ChatGPT convince you to buy something? Threat of manipulation loom
 date: 2026-01-14
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, advertising]
+tags: [ai, democracy, economy]
 venue: "The Conversation"
 description: An article for The Conversation about the increasing role of advertising revenue streams in corporate AI.
 authors: [nes, bruce]

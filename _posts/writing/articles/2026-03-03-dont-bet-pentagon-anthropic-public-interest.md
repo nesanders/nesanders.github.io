@@ -3,7 +3,7 @@ title: "Don’t bet that the Pentagon – or Anthropic – is acting in the publ
 date: 2026-03-03
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, defense, security]
+tags: [ai, democracy, ai safety]
 venue: "The Guardian"
 description: An article for The Guardian with perspective on the Defense Department's designation of Anthropic as a national security risk.
 authors: [nes, bruce]

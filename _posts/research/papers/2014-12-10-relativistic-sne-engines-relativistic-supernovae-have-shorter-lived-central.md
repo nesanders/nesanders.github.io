@@ -3,7 +3,7 @@ title: "Relativistic Supernovae Have Shorter-lived Central Engines Or More Exten
 date: 2014-12-10
 pin: false
 categories: [research, paper]
-tags: [astrophysics, supernovae]
+tags: [astrophysics, supernovae, astronomical surveys]
 venue: "The Astrophysical Journal"
 description: "Investigates central engines/progenitors of relativistic SNe, focusing on SN 2012ap."
 authors: [ "rmargutti", "dmilisav", "ams", "etal" ]

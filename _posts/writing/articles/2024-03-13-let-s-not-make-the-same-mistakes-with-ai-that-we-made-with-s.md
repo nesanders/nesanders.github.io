@@ -3,7 +3,7 @@ title: "Let’s Not Make the Same Mistakes with AI That We Made With Social Medi
 date: 2024-03-13
 pin: false
 categories: [writing, article]
-tags: [ai, social media, democracy]
+tags: [ai, democracy, social media]
 venue: "MIT Technology Review"
 description:
 authors: [nes, bruce]

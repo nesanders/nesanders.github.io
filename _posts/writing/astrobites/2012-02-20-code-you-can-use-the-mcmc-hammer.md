@@ -3,7 +3,7 @@ title: "Code you can use: the MCMC Hammer"
 date: "2012-02-20"
 pin: false
 categories: [writing, astrobites]
-tags: [Bayesian, Bayesian statistics, markov chain monte carlo, software, statistics, things to make your life easier]
+tags: [statistics, tutorial]
 venue: "Astrobites"
 description: "What's the best way to sample a banana?  A new code implements an efficient solution to this and other Bayesian inference problems."
 authors: ["nes"]

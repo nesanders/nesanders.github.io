@@ -3,7 +3,7 @@ title: "The Faintest Hint of an Exploding Star"
 date: "2011-02-16"
 pin: false
 categories: [writing, astrobites]
-tags: [cosmology, PCA, SDSS, spectroscopy, statistics, supernovae, survey]
+tags: [astrophysics, statistics, supernovae, cosmology, spectroscopy, astronomical surveys]
 venue: "Astrobites"
 description: "Each galaxy in the sky will probably produce just one or two supernovae in our lifetimes, so you have to be lucky to spot one.  But if you happen to be observing hundreds of thousands of galaxies anyway, you're bound to catch a few."
 authors: ["nes"]

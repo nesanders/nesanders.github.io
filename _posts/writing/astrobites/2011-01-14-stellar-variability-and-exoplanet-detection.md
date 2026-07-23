@@ -3,7 +3,7 @@ title: "Stellar variability and exoplanet detection"
 date: "2011-01-14"
 pin: false
 categories: [writing, astrobites]
-tags: [astrometry, Earth, exoplanets, Kepler, plages, radial velocity, stars, stellar activity, stellar variability, Sun, sunspots, transits]
+tags: [astrophysics, stars, exoplanets, solar system, astronomical surveys]
 venue: "Astrobites"
 description: "Understanding the uncertainties involved in the techniques used to detect exoplanets is an important aspect of the search for life beyond the Earth.   What role could phenomenon like sunspots play in planet detection?"
 authors: ["nes"]

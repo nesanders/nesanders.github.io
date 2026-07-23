@@ -3,7 +3,7 @@ title: "Four Core continues series of KDE 4 meetings"
 date: 2006-07-10
 pin: false
 categories: [writing, article]
-tags: [open source software, kde]
+tags: [open source software, linux, kde]
 venue: "NewsForge"
 description: A 2006 Newsforge article about the open source developer meetings leading to the release of KDE 4.
 # image:

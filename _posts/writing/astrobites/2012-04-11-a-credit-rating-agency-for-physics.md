@@ -3,7 +3,7 @@ title: "A credit rating agency for physics?"
 date: "2012-04-11"
 pin: false
 categories: [writing, astrobites]
-tags: [Career Advice, risk management]
+tags: [statistics, academia, career advice]
 venue: "Astrobites"
 description: "Abraham Loeb proposes the creation of \"credit rating agencies\" to evaluate the riskiness to young researches of emerging theories in physics."
 authors: ["nes"]

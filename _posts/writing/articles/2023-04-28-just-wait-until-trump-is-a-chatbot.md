@@ -3,7 +3,7 @@ title: "Just Wait Until Trump Is a Chatbot"
 date: 2023-04-28
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, elections]
+tags: [ai, democracy, elections]
 venue: "The Atlantic"
 description: An article for The Atlantic about how political campaigns may begin to use AI chatbots.
 authors: [nes, bruce]

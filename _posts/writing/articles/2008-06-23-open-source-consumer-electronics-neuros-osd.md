@@ -3,7 +3,7 @@ title: "Open Source Consumer Electronics: Neuros OSD"
 date: 2008-06-23
 pin: false
 categories: [writing, article]
-tags: [open source software, neuros, linux, electronics]
+tags: [open source software, linux, consumer electronics, interview]
 venue: "Linux Format Magazine"
 description: A 2008 ExtremeTech article about the open source Neuros OSD media player hardware.
 # image:

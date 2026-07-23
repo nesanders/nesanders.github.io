@@ -3,7 +3,7 @@ title: "AI could shore up democracy – here’s one way"
 date: 2023-06-20
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, legislative engagement]
+tags: [ai, democracy, government]
 venue: "The Conversation"
 description: An article for The Conversation about how AI could be used in legislative engagement.
 authors: [nes, bruce] 

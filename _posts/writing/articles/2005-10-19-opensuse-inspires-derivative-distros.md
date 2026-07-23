@@ -3,7 +3,7 @@ title: "openSUSE inspires derivative distros"
 date: 2005-10-19
 pin: false
 categories: [writing, article]
-tags: [open source software, suse, linux]
+tags: [open source software, linux]
 venue: "Linux.com"
 description: A 2005 Linux.com article about Linux distributions derived from openSUSE just months after it was open sourced.
 # image:

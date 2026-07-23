@@ -3,7 +3,7 @@ title: "AI Futures | Trust Issues: The closed corporate ecosystem is the problem
 date: 2024-12-04
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, trust]
+tags: [ai, democracy, ai safety]
 venue: "Boston Review"
 description: An article for the Boston Review in response to Evgeny Morozov's essay 'The AI We Deserve'.
 authors: [nes, bruce]

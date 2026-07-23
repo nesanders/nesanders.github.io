@@ -3,7 +3,7 @@ title: "Can you trust AI? Here's why you shouldn't"
 date: 2023-07-20
 pin: false
 categories: [writing, article]
-tags: [ai, trust]
+tags: [ai, ai safety]
 venue: "The Conversation"
 description: An article for The Conversation about how to build AI that is more trustworthy.
 authors: [nes, bruce]

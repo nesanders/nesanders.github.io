@@ -3,7 +3,7 @@ title: "Six ways that AI could change politics"
 date: 2023-07-28
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, politics]
+tags: [ai, democracy, elections]
 venue: "MIT Technology Review"
 description: An article for the Technology Review about the variety of ways that AI will change politics writ large.
 authors: [nes, bruce]

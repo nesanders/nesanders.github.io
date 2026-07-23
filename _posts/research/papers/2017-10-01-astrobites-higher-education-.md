@@ -3,7 +3,7 @@ title: "Incorporating Current Research into Formal Higher Education Settings usi
 date: 2017-10-01
 pin: false
 categories: [research, paper]
-tags: [astrophysics, education, astrobites]
+tags: [astrophysics, science communication, education, astrobites meta]
 venue: "American Journal of Physics"
 description: "Presents methods for integrating current astrophysical research into higher education curricula using the Astrobites resource, with lesson plans and examples."
 authors: ["nes", "etal"]

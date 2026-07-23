@@ -3,7 +3,7 @@ title: "KDE’s Plasma is heating up"
 date: 2007-06-21
 pin: false
 categories: [writing, article]
-tags: [open source software, kde, plasma, linux]
+tags: [open source software, linux, kde, interview]
 venue: "Linux.com"
 description: A 2007 Linux.com article about the development of the then-new Plasma desktop for KDE4.
 # image:

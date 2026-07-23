@@ -3,7 +3,7 @@ title: "Untouched gas in the early universe"
 date: "2011-11-14"
 pin: false
 categories: [writing, astrobites]
-tags: [Big Bang, cosmology, early universe, IGM, metallicity]
+tags: [astrophysics, interstellar medium, cosmology, spectroscopy]
 venue: "Astrobites"
 description: "Fumagalli et al. may have observed the first example of metal-free gas untouched after the Big Bang."
 authors: ["nes"]

@@ -3,7 +3,7 @@ title: "Phonon and the future of KDE multimedia"
 date: 2006-05-05
 pin: false
 categories: [writing, article]
-tags: [open source software, linux, kde, phonon]
+tags: [open source software, linux, kde, multimedia]
 venue: "Linux.com"
 description: A 2006 Linux.com article about KDE's then-new for KDE4 multimedia subsystem, Phonon.
 # image:

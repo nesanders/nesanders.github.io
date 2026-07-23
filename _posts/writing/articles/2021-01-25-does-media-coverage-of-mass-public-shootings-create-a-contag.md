@@ -4,7 +4,7 @@ date: 2021-01-25
 authors: [jaf, nes, etal]
 pin: false
 categories: [writing, article]
-tags: [public safety, research, mass public shootings]
+tags: [mass public shootings, public safety]
 venue: "Significance"
 description: A short review article for Significance Magazine about the contagion effect in mass public shootings.
 ---
