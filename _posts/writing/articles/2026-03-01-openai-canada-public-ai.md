@@ -3,7 +3,7 @@ title: "OpenAI has shown it cannot be trusted. Canada needs nationalized, public
 date: 2026-03-01
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, public ai, canada]
+tags: [ai, democracy, public ai, canada]
 venue: "The Globe and Mail"
 description: An article for The Globe and Mail arguing against Canada's outsourcing of sovereign AI to American Big Tech and in favor of a Canadian Public AI solution.
 authors: [nes, bruce]

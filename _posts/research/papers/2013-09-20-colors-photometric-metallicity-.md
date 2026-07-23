@@ -3,7 +3,7 @@ title: "Using Colors to Improve Photometric Metallicity Estimates for Galaxies"
 date: 2013-09-20
 pin: false
 categories: [research, paper]
-tags: [astrophysics, galaxies]
+tags: [astrophysics, galaxies, astronomical surveys]
 venue: "The Astrophysical Journal"
 description: "Investigates the use of galaxy colors, particularly UV and optical, to enhance the accuracy of photometric metallicity estimations for star-forming galaxies."
 authors: ["nes", "etal"]

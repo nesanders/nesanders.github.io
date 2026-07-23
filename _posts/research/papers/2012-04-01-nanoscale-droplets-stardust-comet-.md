@@ -3,7 +3,7 @@ title: "The size distributions of nanoscale Fe-Ni-S droplets in Stardust melted 
 date: 2012-04-01
 pin: false
 categories: [research, paper]
-tags: [meteoritics]
+tags: [meteoritics, solar system]
 venue: "Meteoritics & Planetary Science"
 description: "Analyzes the size distributions of iron-nickel-sulfur droplets at the nanoscale found in Stardust mission samples from comet 81P/Wild 2, providing insights into cometary formation."
 authors: ["nes", "mav"]

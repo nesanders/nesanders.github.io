@@ -3,7 +3,7 @@ title: "Season of KDE fosters young students, Part Two"
 date: 2006-08-04
 pin: false
 categories: [writing, article]
-tags: [open source software, kde, linux, koffice, wine, k3b]
+tags: [open source software, linux, kde, multimedia, interview]
 venue: "Linux Weekly News"
 description: A 2006 article for the Linux Weekly News about the KDE summer internship-like program, the Season of KDE, detailing several student projects.
 # image:

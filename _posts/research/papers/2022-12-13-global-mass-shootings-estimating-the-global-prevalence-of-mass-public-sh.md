@@ -3,7 +3,7 @@ title: "Estimating the Global Prevalence of Mass Public Shootings"
 date: 2022-12-13
 pin: false
 categories: [research, paper]
-tags: [mass public shootings, statistics, public safety]
+tags: [statistics, mass public shootings, public safety]
 venue: "International Journal of Offender Therapy and Comparative Criminology"
 description: "Estimates the global prevalence of mass public shootings using Bayesian modeling."
 authors: [ "gduwe", "nes", "etal" ]

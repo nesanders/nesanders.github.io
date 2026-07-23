@@ -3,7 +3,7 @@ title: "Velocity Evolution And The Intrinsic Color Of Type Ia Supernovae"
 date: 2011-11-15
 pin: false
 categories: [research, paper]
-tags: [astrophysics, supernovae]
+tags: [astrophysics, supernovae, astronomical surveys]
 venue: "The Astrophysical Journal"
 description: "Examines velocity evolution and intrinsic colors of Type Ia supernovae."
 authors: [ "rjfoley", "nes", "rpk" ]

@@ -3,7 +3,7 @@ title: "PS1-12sk is a Peculiar Supernova From a He-rich Progenitor System in a C
 date: 2013-05-01
 pin: false
 categories: [research, paper]
-tags: [astrophysics, supernovae]
+tags: [astrophysics, supernovae, astronomical surveys]
 venue: "The Astrophysical Journal"
 description: "Reports the discovery and analysis of PS1-12sk, a peculiar Type Ibn supernova, originating from a helium-rich progenitor in a brightest cluster galaxy environment."
 authors: ["nes", "ams", "etal"]

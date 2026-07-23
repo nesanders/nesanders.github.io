@@ -3,7 +3,7 @@ title: "KDE tips and tricks"
 date: 2005-02-01
 pin: false
 categories: [writing, article]
-tags: [open source software, kde, linux]
+tags: [open source software, linux, kde]
 venue: "NewsForge"
 description: A 2005 Newsforge article with a variety of tips and tricks for using KDE 3.
 # image:

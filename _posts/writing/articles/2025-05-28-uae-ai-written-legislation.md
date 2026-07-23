@@ -3,7 +3,7 @@ title: "AI-Generated Law Isn’t Necessarily a Terrible Idea"
 date: 2025-05-14 
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, legislation]
+tags: [ai, democracy, regulation]
 venue: "Foreign Policy"
 description: An article for Foreign Policy about the new UAE plan to use AI to generate law and its precedents.
 authors: [nes, bruce]

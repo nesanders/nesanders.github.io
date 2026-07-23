@@ -3,7 +3,7 @@ title: "It’s Time to Worry About DOGE’s AI Plans"
 date: 2025-02-01
 pin: false
 categories: [writing, article]
-tags: [ai, democracy, doge]
+tags: [ai, democracy, government]
 venue: "The Atlantic"
 description: An article for The Atlantic about the long term democratic risks posed by DOGE's plan for an 'AI-first' administration.
 authors: [nes, bruce]

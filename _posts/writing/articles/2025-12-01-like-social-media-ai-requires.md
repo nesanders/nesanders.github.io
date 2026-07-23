@@ -3,7 +3,7 @@ title: "Like Social Media, AI Requires Difficult Choices"
 date: 2025-12-01
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, social media]
+tags: [ai, democracy, social media]
 venue: "Lawfare"
 description: An article for Lawfare laying out four key governance choices presented by AI.
 authors: [nes, bruce]

@@ -3,7 +3,7 @@ title: "Do galaxies line up?"
 date: "2011-03-21"
 pin: false
 categories: [writing, astrobites]
-tags: [alignment, BCGs, galaxies, observations, SDSS, statistics]
+tags: [ai, astrophysics, statistics, ai safety, galaxies, astronomical surveys]
 venue: "Astrobites"
 description: "If you see a bunch of galaxies together in a cluster, are their orientations and orbits random or do they align?"
 authors: ["nes"]

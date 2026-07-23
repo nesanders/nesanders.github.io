@@ -3,7 +3,7 @@ title: "SN 2012au: A Golden Link Between Superluminous Supernovae And Their Lowe
 date: 2013-06-12
 pin: false
 categories: [research, paper]
-tags: [astrophysics, supernovae]
+tags: [astrophysics, supernovae, astronomical surveys]
 venue: "The Astrophysical Journal Letters"
 description: "SN 2012au as a link between superluminous SNe and their fainter counterparts."
 authors: [ "dmilisav", "rmargutti", "ams", "ghmarion", "jcwheeler", "nes", "etal" ]

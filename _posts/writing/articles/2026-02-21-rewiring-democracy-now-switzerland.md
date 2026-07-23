@@ -3,7 +3,7 @@ title: "Rewiring Democracy Now: Switzerland shows us an alternative to corporate
 date: 2026-02-21
 pin: true
 categories: [writing, article]
-tags: [democracy, ai, switzerland, apertus, imanol schlag]
+tags: [ai, democracy, public ai, switzerland, interview]
 venue: "The Renovator"
 description: An article for The Renovator about Imanol Schlag and the most advanced Public AI project in the world, Switzerland's Apertus model.
 authors: [nes, bruce]

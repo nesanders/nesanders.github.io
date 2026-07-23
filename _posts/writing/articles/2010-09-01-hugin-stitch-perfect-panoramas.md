@@ -3,7 +3,7 @@ title: "Hugin: stitch perfect panoramas"
 date: 2010-09-01
 pin: false
 categories: [writing, article]
-tags: [open source software, hugin, photography]
+tags: [open source software, linux, photography]
 venue: "Linux Format Magazine"
 description: A September 2010 Linux Format Magazine article about Hugin, the tool for stitching panoramic photographs.
 # image:

@@ -3,7 +3,7 @@ title: "Four ways AI is being used to strengthen democracies worldwide"
 date: 2025-11-23
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, public ai, elections, legal system]
+tags: [ai, democracy, public ai, elections, regulation]
 venue: "The Guardian"
 description: An article for The Guardian telling four stories of AI being used to support democratic functions in Japan, Brazil, Switzerland, and California.
 authors: [nes, bruce]

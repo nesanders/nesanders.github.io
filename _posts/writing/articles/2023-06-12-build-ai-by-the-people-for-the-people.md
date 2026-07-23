@@ -3,7 +3,7 @@ title: "Build AI by the People, for the People"
 date: 2023-06-12
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, public ai]
+tags: [ai, democracy, public ai]
 venue: "Foreign Policy"
 description: An article for Foreign Policy making the case for Public AI.
 authors: [nes, bruce]

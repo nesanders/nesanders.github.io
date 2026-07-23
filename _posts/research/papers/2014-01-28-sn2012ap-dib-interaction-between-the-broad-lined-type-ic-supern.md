@@ -3,7 +3,7 @@ title: "Interaction Between The Broad-lined Type Ic Supernova 2012ap And Carrier
 date: 2014-01-28
 pin: false
 categories: [research, paper]
-tags: [astrophysics, supernovae]
+tags: [astrophysics, supernovae, astronomical surveys]
 venue: "The Astrophysical Journal Letters"
 description: "Studies the interaction between SN 2012ap and DIB carriers."
 authors: [ "dmilisav", "rmargutti", "nes", "rpk", "ams", "etal" ]

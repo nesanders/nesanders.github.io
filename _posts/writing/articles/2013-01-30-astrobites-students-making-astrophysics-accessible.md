@@ -3,7 +3,7 @@ title: "Astrobites: Students Making Astrophysics Accessible"
 date: 2013-01-30
 pin: false
 categories: [writing, article]
-tags: [science communication, astrobites]
+tags: [astrophysics, science communication, astrobites meta]
 venue: "Scientific American"
 description: A blog post for Scientific American introducing Astrobites.
 # image:

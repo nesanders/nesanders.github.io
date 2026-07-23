@@ -3,7 +3,7 @@ title: "How does chemical composition affect star formation?"
 date: "2011-01-18"
 pin: false
 categories: [writing, astrobites]
-tags: [chemical composition, interstellar medium, ISM, metallicity, simulations, star formation]
+tags: [astrophysics, star formation, interstellar medium, spectroscopy, simulations]
 venue: "Astrobites"
 description: "Incorporating all the effects relevant to star formation into accurate simulations of the interstellar medium is a major frontier in astrophysics.  These authors start to tackle the effects of chemical composition."
 authors: ["nes"]

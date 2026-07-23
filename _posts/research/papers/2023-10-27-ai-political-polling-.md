@@ -3,7 +3,7 @@ title: "Demonstrations of the Potential of AI-based Political Issue Polling"
 date: 2023-10-27
 pin: false
 categories: [research, paper]
-tags: [ai, democracy, polling]
+tags: [ai, democracy, elections]
 venue: "Harvard Data Science Review"
 description: "This paper explores the capabilities of artificial intelligence in conducting political issue polling, using LLMs to simulate responses and comparing them to human polling data."
 authors: ["nes", "etal"]

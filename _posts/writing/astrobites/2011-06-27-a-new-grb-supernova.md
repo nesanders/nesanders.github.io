@@ -3,7 +3,7 @@ title: "A new GRB-Supernova"
 date: "2011-06-27"
 pin: false
 categories: [writing, astrobites]
-tags: [GRB, SN 1998bw, SN 2006aj, SN 2009nz, spectroscopy, supernova]
+tags: [astrophysics, supernovae, gamma-ray bursts, spectroscopy]
 venue: "Astrobites"
 description: "SN 2009nz may be the sixth GRB-supernova ever confirmed spectroscopically."
 authors: ["nes"]

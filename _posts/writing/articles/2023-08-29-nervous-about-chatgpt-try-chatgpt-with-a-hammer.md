@@ -3,7 +3,7 @@ title: "Nervous About ChatGPT? Try ChatGPT With a Hammer"
 date: 2023-08-29
 pin: false
 categories: [writing, article]
-tags: [ai, agentic]
+tags: [ai, ai safety]
 venue: "WIRED"
 authors: [nes, bruce]
 description: An article for Wired about the then-coming generation of tool-using, agentic AI.

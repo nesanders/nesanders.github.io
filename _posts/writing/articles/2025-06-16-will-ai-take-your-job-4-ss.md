@@ -3,7 +3,7 @@ title: "Will AI take your job? The answer could hinge on the 4 S’s of the tech
 date: 2025-06-16
 pin: false
 categories: [writing, article]
-tags: [democracy, ai]
+tags: [ai, democracy, economy]
 venue: "The Conversation"
 description: An article for The Conversation about AI's fundamendal differentiating capabilities.
 authors: [nes, bruce]

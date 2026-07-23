@@ -3,7 +3,7 @@ title: "Machine Learning Featurizations for AI Hacking of Political Systems"
 date: 2021-10-08
 pin: false
 categories: [research, paper]
-tags: [ai, statistics]
+tags: [ai, statistics, machine learning]
 venue: "arXiv"
 description: "Investigates graph and sequence data representations for applying deep learning to predict outcomes in political and legislative systems, advancing the concept of AI hacking. [11, 17, 41]"
 authors: ["nes", "bruce"]

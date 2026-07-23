@@ -3,7 +3,7 @@ title: "DOGE’s Flops Shouldn’t Spell Doom for AI In Government"
 date: 2025-09-05
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, doge]
+tags: [ai, democracy, government]
 venue: "Tech Policy Press"
 description: An article for Tech Policy Press outlining the potential for another administration to use AI more responsibly in governance.
 authors: [nes, bruce]

@@ -3,7 +3,7 @@ title: "The metallicity profile of M31 from spectroscopy of hundreds of HII regi
 date: 2012-10-10
 pin: false
 categories: [research, paper]
-tags: [astrophysics]
+tags: [astrophysics, galaxies, spectroscopy]
 venue: "The Astrophysical Journal"
 description: "Presents the metallicity profile of the Andromeda galaxy (M31) derived from spectroscopic analysis of a large sample of HII regions and planetary nebulae."
 authors: ["nes", "etal"]

@@ -3,7 +3,7 @@ title: "What happens in the vast voids between stars in galaxies like the Milky 
 date: "2010-11-30"
 pin: false
 categories: [writing, astrobites]
-tags: [interstellar medium, simulations, star-formation]
+tags: [astrophysics, star formation, interstellar medium, simulations]
 venue: "Astrobites"
 description: "We often think of galaxies as collections of stars, but this simple picture omits (among other things) the fascinating interstellar medium (ISM)!"
 authors: ["nes"]

@@ -3,7 +3,7 @@ title: "AAS digital switch a long time coming?"
 date: "2014-06-07"
 pin: false
 categories: [writing, astrobites]
-tags: [AAS, publishing]
+tags: [science communication]
 venue: "Astrobites"
 description: "The AAS will no longer print physical copies of its flagship journals the ApJ and AJ.  What does this mean for our field?"
 authors: ["nes"]

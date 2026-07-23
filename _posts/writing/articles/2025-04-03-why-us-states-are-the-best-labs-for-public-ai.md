@@ -3,7 +3,7 @@ title: "Why US States Are the Best Labs for Public AI"
 date: 2025-04-03
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, public ai, states]
+tags: [ai, democracy, public ai, regulation]
 venue: "Tech Policy Press"
 description: An article for Tech Policy Press making the case for US states as the best incubators for Public AI projects.
 authors: [nes, apascal]

@@ -3,7 +3,7 @@ title: "PCLinuxOS launching hardware certification program"
 date: 2007-04-20
 pin: false
 categories: [writing, article]
-tags: [open source software, pclinuxos, linux]
+tags: [open source software, linux, interview]
 venue: "Linux.com"
 description: A 2007 Linux.com article about the Linux distributions PCLinuxOS launching a hardware certification program.
 # image:

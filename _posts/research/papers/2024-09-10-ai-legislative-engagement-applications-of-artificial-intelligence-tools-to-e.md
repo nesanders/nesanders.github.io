@@ -3,7 +3,7 @@ title: "Applications Of Artificial Intelligence Tools To Enhance Legislative Eng
 date: 2024-09-10
 pin: false
 categories: [research, paper]
-tags: [ai, democracy, legislative engagement]
+tags: [ai, democracy, government]
 venue: "AI4Democracy"
 description: "Case studies on using AI for legislative engagement from Make.org and MAPLE."
 authors: [ "acombaz", "dmas", "nes", "etal" ]

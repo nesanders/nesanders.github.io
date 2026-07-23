@@ -3,7 +3,7 @@ title: "The Unique Universe of Astronomy Grads"
 date: 2011-07-01
 pin: false
 categories: [writing, article]
-tags: [science communication, academia, astrophysics]
+tags: [astrophysics, science communication, academia]
 venue: "GradHacker"
 description: A 2011 article for GradHacker about being an astronomy graduate student.
 # image:

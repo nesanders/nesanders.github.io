@@ -3,7 +3,7 @@ title: "Opera contests draws attention to widget development"
 date: 2006-12-21
 pin: false
 categories: [writing, article]
-tags: [open source software, browsers, opera]
+tags: [open source software, linux, web browsers, interview]
 venue: "Linux.com"
 description: A 2006 Linux.com article about the development of widgets for the Opera web browser.
 # image:

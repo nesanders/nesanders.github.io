@@ -3,7 +3,7 @@ title: "Japan's Team Mirai Uses Tech to Bolster Democracy, Not Undermine It"
 date: 2026-03-17
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, politics, japan, team mirai]
+tags: [ai, democracy, elections, civic tech, japan, interview]
 venue: "Tech Policy Press"
 description: An article for Tech Policy Press reporting on Team Mirai's gains in the Japanes election and the future of AI in politics.
 authors: [nes, bruce]

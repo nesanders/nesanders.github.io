@@ -3,7 +3,7 @@ title: "iPTF15eqv: A Likely EOB Progenitor for a Type Ib Ca-rich Transient"
 date: 2017-08-31
 pin: false
 categories: [research, paper]
-tags: [astrophysics, supernovae]
+tags: [astrophysics, supernovae, astronomical surveys]
 venue: "The Astrophysical Journal"
 description: "Multi-wavelength analysis of the Ca-rich transient iPTF15eqv."
 authors: [ "dmilisav", "rmargutti", "jtparrent", "nes", "etal" ]

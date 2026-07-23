@@ -3,7 +3,7 @@ title: "Unsupervised Transient Light Curve Analysis Via Hierarchical Bayesian In
 date: 2015-01-29
 pin: false
 categories: [research, paper]
-tags: [astrophysics, supernovae, statistics]
+tags: [astrophysics, statistics, supernovae]
 venue: "The Astrophysical Journal"
 description: "Details a statistical method for analyzing transient light curves in astronomy using hierarchical Bayesian inference to model and characterize them."
 authors: ["nes", "betanalpha", "ams"]

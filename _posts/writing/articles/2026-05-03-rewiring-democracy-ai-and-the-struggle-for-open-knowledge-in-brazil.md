@@ -3,7 +3,7 @@ title: "Rewiring Democracy: AI & the Struggle for Open Knowledge in Brazil"
 date: 2026-05-03
 pin: false
 categories: [writing, article]
-tags: [democracy, ai, brazil, civic tech, open knowledge]
+tags: [ai, democracy, civic tech, brazil, interview]
 venue: "The Renovator"
 description: An article for The Renovator about Open Knowledge Brasil and the sustainability of open source civic technology.
 authors: [nes, bruce]

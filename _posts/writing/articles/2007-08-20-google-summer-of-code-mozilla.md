@@ -3,7 +3,7 @@ title: "Google Summer of Code: Mozilla Projects"
 date: 2007-08-20
 pin: false
 categories: [writing, article]
-tags: [open source software, google summer of code, mozilla]
+tags: [open source software, linux, google summer of code, web browsers, interview]
 venue: "Linux Weekly News"
 description: The fifth of six entries in a 2007 series for LWN about the Google Summer of Code, this one focusing on projects with Mozilla.
 # image:

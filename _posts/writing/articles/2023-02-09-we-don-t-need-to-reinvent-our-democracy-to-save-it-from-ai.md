@@ -4,7 +4,7 @@ date: 2023-02-09
 pin: false
 categories: [writing, article]
 authors: [nes, bruce]
-tags: [democracy, ai]
+tags: [ai, democracy]
 venue: "Belfer Center"
 description: An article for Harvard's Belfer Center blog about how to address AI's coming impacts on democracy.
 ---
