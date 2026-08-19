@@ -130,8 +130,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2026-01-31, [Campbell Conversations on WRVO, NPR for Central New York](https://www.wrvo.org/show/campbell-conversations-0/2026-01-31/nathan-sanders-on-the-campbell-conversations)
 * 2026-02-01, [Social Media & Politics](https://socialmediaandpolitics.org/ai-government-rewiring-democracy-campaigns-legislation-schneier-sanders/)
 * 2026-02-03, [Democracy Works (WPSU)](https://radio.wpsu.org/opinion/2026-02-03/democracy-works-how-ai-is-changing-democracy)
-
-<!-- 2026-05-28, Better Politics Podcast -->
+* 2026-05-28, [Better Politics Podcast](https://www.youtube.com/watch?v=anM5xO-fG0w)
 
 <!-- war room -->
 <!-- Mass AI Hub -->
