@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+# Blocks commits that introduce http:// links in post/tab bodies.
+# Mirrors the CI html-proofer check in .github/workflows/pages-deploy.yml,
+# which fails the build on any http:// link (see CLAUDE.md).
+#
+# To enable in a fresh clone: git config core.hooksPath .githooks
+#
+# Escape hatch: if a URL is genuinely http-only, append an inline
+# "<!-- httpcheck:ignore -->" comment on the same line to skip it.
+
+set -euo pipefail
+
+allowed_pattern='^https?://(127\.0\.0\.1|0\.0\.0\.0|localhost)([:/].*)?$'
+
+files=$(git diff --cached --name-only --diff-filter=ACM \
+  | grep -E '^(_posts|_tabs)/.*\.md$' || true)
+
+if [ -z "$files" ]; then
+  exit 0
+fi
+
+found=0
+while IFS= read -r file; do
+  [ -z "$file" ] && continue
+  while IFS=: read -r lineno line; do
+    [ -z "$lineno" ] && continue
+    if [[ "$line" == *"httpcheck:ignore"* ]]; then
+      continue
+    fi
+    while read -r url; do
+      [ -z "$url" ] && continue
+      if [[ "$url" =~ $allowed_pattern ]]; then
+        continue
+      fi
+      echo "http:// link found: $file:$lineno"
+      echo "  $line"
+      found=1
+    done < <(grep -oE 'http://[^ )"'"'"'<>]+' <<< "$line")
+  done < <(git show ":$file" | grep -n 'http://' || true)
+done <<< "$files"
+
+if [ "$found" -eq 1 ]; then
+  echo ""
+  echo "Commit blocked: convert the http:// link(s) above to https://."
+  echo "If a site is genuinely http-only, add '<!-- httpcheck:ignore -->' on that line instead."
+  exit 1
+fi
+
+exit 0
