@@ -37,7 +37,7 @@ The name CrownShy stems directly from an observation borrowed from forest ecolog
 As Lynn describes it, crown shyness is a metaphor for the combination of self-determination with collaboration. Communities should have sovereignty to govern themselves up to the point where their choices impact other communities, at which point they need to mediate among themselves, cooperatively influencing the intersections and relationships with their neighbors.
 
 ![](/assets/img/writing/2026_rewiring_citizen_science_scotland/image1.png)
-*A screenshot from an older design of [crown-shy.com](http://crown-shy.com), illustrating the arboreal concept of crown shyness.*
+*A screenshot from an older design of [crown-shy.com](https://crown-shy.com), illustrating the arboreal concept of crown shyness.*
 
 Of course, readers familiar with Scottish history and their recent independence referendums might suspect a dual meaning in the name. Crowns—British or otherwise—are symbols of the few holding power over the many. When we spoke to Lynn, he emphasized the arboreal metaphor, but also allowed the anti-monarchist inference.
 
@@ -47,7 +47,7 @@ As Lynn described it to us, organizations world-wide are already developing effe
 
 The Comhairle platform is therefore composed of several different open source tools, some of which may be familiar to Renovator readers. It adapts <a href="https://pol.is/home2">Polis</a> for finding consensus among diverse viewpoints, <a href="https://jitsi.org">Jitsi</a> for virtual assemblies, and <a href="https://talktothe.city">Talk to the City</a> for conversational surveying. By integrating these tools into a single platform, Comhairle is intended to enable seamless design and execution of consultations using many component tools. In doing so, it provides centralized control over identity and data management for data privacy compliance.
 
-On top of this core functionality, CrownShy is building AI assistive features that leverage LLMs to make the deliberative process easier and more friendly. Their Learning Assistant bot helps participants in a deliberation onboard to the conversation. This chatbot sits alongside traditional learning materials—text and videos—and stands ready to answer user questions by responding with information from those and other approved sources. This resembles similar learning features in deliberative tools like <a href="http://make.org">MAKE.org</a>’s <a href="https://static.ie.edu/CGC/AI4D%20Paper%203%20Applications%20of%20Artificial%20Intelligence%20Tools%20to%20Engance%20Legislative%20Engagement.pdf">Panoramic</a> platform.
+On top of this core functionality, CrownShy is building AI assistive features that leverage LLMs to make the deliberative process easier and more friendly. Their Learning Assistant bot helps participants in a deliberation onboard to the conversation. This chatbot sits alongside traditional learning materials—text and videos—and stands ready to answer user questions by responding with information from those and other approved sources. This resembles similar learning features in deliberative tools like <a href="https://make.org">MAKE.org</a>’s <a href="https://static.ie.edu/CGC/AI4D%20Paper%203%20Applications%20of%20Artificial%20Intelligence%20Tools%20to%20Engance%20Legislative%20Engagement.pdf">Panoramic</a> platform.
 
 ![](/assets/img/writing/2026_rewiring_citizen_science_scotland/image2.png)
 *An example of using the Learning Assistant AI feature in a Comhairle deliberation on the Scottish space sector.*
