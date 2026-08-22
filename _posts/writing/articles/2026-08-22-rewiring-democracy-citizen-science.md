@@ -2,7 +2,7 @@
 title: "Rewiring Democracy: Citizen Science Leads to Civic AI in Scotland"
 date: 2026-08-22
 categories: [writing, article]
-tags: [ai, democracy, civic tech, deliberation, scotland, interview]
+tags: [ai, democracy, civic tech, scotland, interview]
 venue: "The Renovator"
 description: An article for The Renovator about how the citizen science movement inspired a Scottish government-backed civic AI deliberation platform.
 authors: [nes, bruce]
