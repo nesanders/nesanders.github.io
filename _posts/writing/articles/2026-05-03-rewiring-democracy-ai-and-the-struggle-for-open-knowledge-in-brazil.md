@@ -1,5 +1,5 @@
 ---
-title: "Rewiring Democracy: AI & the Struggle for Open Knowledge in Brazil"
+title: "Rewiring Democracy Now: AI & the Struggle for Open Knowledge in Brazil"
 date: 2026-05-03
 pin: false
 categories: [writing, article]

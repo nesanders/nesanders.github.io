@@ -1,5 +1,5 @@
 ---
-title: "Rewiring Democracy: Citizen Science Leads to Civic AI in Scotland"
+title: "Rewiring Democracy Now: Citizen Science Leads to Civic AI in Scotland"
 date: 2026-08-22
 categories: [writing, article]
 tags: [ai, democracy, civic tech, scotland, interview]
