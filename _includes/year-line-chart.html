@@ -93,38 +93,15 @@
     {% endfor %}
   </svg>
 
-  <div class="d-flex flex-wrap column-gap-3 row-gap-1 small mt-1">
+  <div class="ylc-legend d-flex flex-wrap small mt-1">
     {% for s in include.series %}
       {% assign color_idx = forloop.index0 %}
-      <span class="d-inline-flex align-items-center">
+      <span class="ylc-legend-item d-inline-flex align-items-center">
         <span class="ylc-swatch ylc-swatch-{{ color_idx }}"></span>
         {{ s.name | replace: '-', ' ' | capitalize }}
       </span>
     {% endfor %}
   </div>
-
-  <details class="small mt-1">
-    <summary class="text-muted">Show as table</summary>
-    <div class="table-responsive">
-      <table class="table table-sm">
-        <thead>
-          <tr>
-            <th>Year</th>
-            {% for s in include.series %}<th>{{ s.name | replace: '-', ' ' | capitalize }}</th>{% endfor %}
-          </tr>
-        </thead>
-        <tbody>
-          {% for idx in (0..years_count_minus1) %}
-            {% assign yr = include.min_year | plus: idx %}
-            <tr>
-              <td>{{ yr }}</td>
-              {% for s in include.series %}<td>{{ s.counts[idx] }}</td>{% endfor %}
-            </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-    </div>
-  </details>
 </div>
 
 <style>
@@ -165,6 +142,7 @@
   .year-line-chart .ylc-dot { stroke: var(--main-bg); stroke-width: 1.5; transition: r 0.1s ease-out; }
   .year-line-chart .ylc-hit { fill: transparent; stroke: none; cursor: pointer; }
   .year-line-chart .ylc-point:hover .ylc-dot { r: 5; }
+  .year-line-chart .ylc-legend-item { margin-right: 12px; margin-bottom: 4px; }
   .year-line-chart .ylc-swatch { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; }
 
   {% for i in (0..4) %}
