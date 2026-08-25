@@ -1,0 +1,175 @@
+<!--
+  Small multi-line chart of post counts by year.
+  Params: series (array of {name, counts}), min_year, max_year, title (optional).
+-->
+{% assign years_count = include.max_year | minus: include.min_year | plus: 1 %}
+{% assign years_count_minus1 = years_count | minus: 1 %}
+
+{% assign max_count = 0 %}
+{% for s in include.series %}
+  {% for c in s.counts %}
+    {% if c > max_count %}{% assign max_count = c %}{% endif %}
+  {% endfor %}
+{% endfor %}
+{% if max_count == 0 %}{% assign max_count = 1 %}{% endif %}
+
+{% assign chart_w = 480 %}
+{% assign chart_h = 130 %}
+{% assign margin_left = 28 %}
+{% assign margin_right = 14 %}
+{% assign margin_top = 10 %}
+{% assign margin_bottom = 18 %}
+{% assign plot_w = chart_w | minus: margin_left | minus: margin_right %}
+{% assign plot_h = chart_h | minus: margin_top | minus: margin_bottom %}
+{% assign baseline_y = chart_h | minus: margin_bottom %}
+
+{% assign step = 0.0 %}
+{% if years_count > 1 %}
+  {% assign step = plot_w | divided_by: years_count_minus1 | times: 1.0 %}
+{% endif %}
+
+{% assign y_ticks = 0 | nice_ticks: max_count, 4 %}
+{% assign x_ticks = include.min_year | axis_ticks_with_endpoints: include.max_year, 6 %}
+
+<div class="year-line-chart my-3">
+  {% if include.title %}<div class="text-muted small mb-1">{{ include.title }}</div>{% endif %}
+
+  <svg viewBox="0 0 {{ chart_w }} {{ chart_h }}" class="w-100" role="img" aria-label="{{ include.title | default: 'Post counts by year' }}">
+    {% for t in y_ticks %}
+      {% assign t_f = t | times: 1.0 %}
+      {% assign t_frac = t_f | divided_by: max_count %}
+      {% assign ty_offset = plot_h | times: t_frac %}
+      {% assign ty = baseline_y | minus: ty_offset | round: 1 %}
+      <line x1="{{ margin_left }}" y1="{{ ty }}" x2="{{ chart_w | minus: margin_right }}" y2="{{ ty }}" class="ylc-axis" />
+      <text x="{{ margin_left | minus: 4 }}" y="{{ ty | plus: 3 }}" class="ylc-axis-label" text-anchor="end">{{ t }}</text>
+    {% endfor %}
+
+    {% for yr in x_ticks %}
+      {% assign yr_idx = yr | minus: include.min_year %}
+      {% assign tx = yr_idx | times: step | plus: margin_left | round: 1 %}
+      {% if yr == include.min_year %}
+        {% assign label_anchor = 'start' %}
+      {% elsif yr == include.max_year %}
+        {% assign label_anchor = 'end' %}
+      {% else %}
+        {% assign label_anchor = 'middle' %}
+      {% endif %}
+      <line x1="{{ tx }}" y1="{{ baseline_y }}" x2="{{ tx }}" y2="{{ baseline_y | plus: 3 }}" class="ylc-axis" />
+      <text x="{{ tx }}" y="{{ chart_h }}" class="ylc-axis-label" text-anchor="{{ label_anchor }}">{{ yr }}</text>
+    {% endfor %}
+
+    {% for s in include.series %}
+      {% assign color_idx = forloop.index0 %}
+      {% assign points = "" %}
+      {% for c in s.counts %}
+        {% assign idx = forloop.index0 %}
+        {% assign x = idx | times: step | plus: margin_left %}
+        {% assign c_f = c | times: 1.0 %}
+        {% assign frac = c_f | divided_by: max_count %}
+        {% assign y_offset = plot_h | times: frac %}
+        {% assign y = baseline_y | minus: y_offset | round: 1 %}
+        {% assign x = x | round: 1 %}
+        {% assign points = points | append: x | append: "," | append: y | append: " " %}
+      {% endfor %}
+      <polyline points="{{ points | strip }}" fill="none" class="ylc-line-{{ color_idx }}" />
+    {% endfor %}
+
+    {% for s in include.series %}
+      {% assign color_idx = forloop.index0 %}
+      {% for c in s.counts %}
+        {% assign idx = forloop.index0 %}
+        {% assign x = idx | times: step | plus: margin_left %}
+        {% assign c_f = c | times: 1.0 %}
+        {% assign frac = c_f | divided_by: max_count %}
+        {% assign y_offset = plot_h | times: frac %}
+        {% assign y = baseline_y | minus: y_offset | round: 1 %}
+        {% assign x = x | round: 1 %}
+        {% assign yr = include.min_year | plus: idx %}
+        <g class="ylc-point">
+          <circle cx="{{ x }}" cy="{{ y }}" r="3" class="ylc-dot ylc-dot-{{ color_idx }}" />
+          <circle cx="{{ x }}" cy="{{ y }}" r="8" class="ylc-hit"><title>{{ s.name | replace: '-', ' ' | capitalize }} · {{ yr }}: {{ c }}</title></circle>
+        </g>
+      {% endfor %}
+    {% endfor %}
+  </svg>
+
+  <div class="d-flex flex-wrap column-gap-3 row-gap-1 small mt-1">
+    {% for s in include.series %}
+      {% assign color_idx = forloop.index0 %}
+      <span class="d-inline-flex align-items-center">
+        <span class="ylc-swatch ylc-swatch-{{ color_idx }}"></span>
+        {{ s.name | replace: '-', ' ' | capitalize }}
+      </span>
+    {% endfor %}
+  </div>
+
+  <details class="small mt-1">
+    <summary class="text-muted">Show as table</summary>
+    <div class="table-responsive">
+      <table class="table table-sm">
+        <thead>
+          <tr>
+            <th>Year</th>
+            {% for s in include.series %}<th>{{ s.name | replace: '-', ' ' | capitalize }}</th>{% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for idx in (0..years_count_minus1) %}
+            {% assign yr = include.min_year | plus: idx %}
+            <tr>
+              <td>{{ yr }}</td>
+              {% for s in include.series %}<td>{{ s.counts[idx] }}</td>{% endfor %}
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+<style>
+  .year-line-chart {
+    --ylc-axis: var(--main-border-color);
+    --ylc-text: var(--text-muted-color);
+    --ylc-series-0: #2a78d6;
+    --ylc-series-1: #eb6834;
+    --ylc-series-2: #1baf7a;
+    --ylc-series-3: #eda100;
+    --ylc-series-4: #e87ba4;
+  }
+
+  html[data-mode='dark'] .year-line-chart {
+    --ylc-series-0: #3987e5;
+    --ylc-series-1: #d95926;
+    --ylc-series-2: #199e70;
+    --ylc-series-3: #c98500;
+    --ylc-series-4: #d55181;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    html:not([data-mode='light']) .year-line-chart {
+      --ylc-series-0: #3987e5;
+      --ylc-series-1: #d95926;
+      --ylc-series-2: #199e70;
+      --ylc-series-3: #c98500;
+      --ylc-series-4: #d55181;
+    }
+  }
+
+  .year-line-chart .ylc-axis { stroke: var(--ylc-axis); stroke-width: 1; }
+  .year-line-chart .ylc-axis-label { fill: var(--ylc-text); font-size: 8px; }
+  .year-line-chart .ylc-line-0, .year-line-chart .ylc-line-1, .year-line-chart .ylc-line-2,
+  .year-line-chart .ylc-line-3, .year-line-chart .ylc-line-4 {
+    stroke-width: 2; stroke-linejoin: round; stroke-linecap: round;
+  }
+  .year-line-chart .ylc-dot { stroke: var(--main-bg); stroke-width: 1.5; transition: r 0.1s ease-out; }
+  .year-line-chart .ylc-hit { fill: transparent; stroke: none; cursor: pointer; }
+  .year-line-chart .ylc-point:hover .ylc-dot { r: 5; }
+  .year-line-chart .ylc-swatch { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; }
+
+  {% for i in (0..4) %}
+  .year-line-chart .ylc-line-{{ i }} { stroke: var(--ylc-series-{{ i }}); }
+  .year-line-chart .ylc-dot-{{ i }} { fill: var(--ylc-series-{{ i }}); }
+  .year-line-chart .ylc-swatch-{{ i }} { background: var(--ylc-series-{{ i }}); }
+  {% endfor %}
+</style>

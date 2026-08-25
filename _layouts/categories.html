@@ -7,6 +7,15 @@ layout: page
 
 {% include index-sort.html target='categories' default='name' %}
 
+{% assign chart_names = site.categories | keys_with_min_count: 10 %}
+{% if chart_names.size > 0 %}
+  {% assign chart_span = site.categories | year_span: chart_names %}
+  {% assign chart_min_year = chart_span[0] %}
+  {% assign chart_max_year = chart_span[1] %}
+  {% assign chart_series = site.categories | year_chart_series: chart_names, chart_min_year, chart_max_year %}
+  {% include year-line-chart.html series=chart_series min_year=chart_min_year max_year=chart_max_year title="Posts by year" %}
+{% endif %}
+
 {% assign HEAD_PREFIX = 'h_' %}
 {% assign LIST_PREFIX = 'l_' %}
 

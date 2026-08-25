@@ -5,6 +5,16 @@ layout: page
 
 {% include index-sort.html target='tags' default='name' %}
 
+{% assign chart_exclude = "linux" | split: "," %}
+{% assign chart_names = site.tags | top_n_by_count: 5, chart_exclude %}
+{% if chart_names.size > 0 %}
+  {% assign chart_span = site.tags | year_span: chart_names %}
+  {% assign chart_min_year = chart_span[0] %}
+  {% assign chart_max_year = chart_span[1] %}
+  {% assign chart_series = site.tags | year_chart_series: chart_names, chart_min_year, chart_max_year %}
+  {% include year-line-chart.html series=chart_series min_year=chart_min_year max_year=chart_max_year title="Top 5 tags by year" %}
+{% endif %}
+
 <div id="tags" class="d-flex flex-wrap mx-xl-2">
   {% assign tags = '' | split: '' %}
   {% for t in site.tags %}
