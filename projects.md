@@ -23,3 +23,4 @@ Below is a collection of various projects and interactive tools published across
 | **[us-canada-ai-use-case-comparison](https://nsanders.me/us-canada-ai-use-case-comparison)** | A comparison tool for disclosed AI use cases in government across the US and Canada. |
 | **[where-does-the-money-go](https://nsanders.me/where-does-the-money-go)** | An exploration of US Congressional election spending based on one candidate & election (AOC in 2024). |
 | **[ma_lobbying_explorer](https://nsanders.me/ma_lobbying_explorer)** | An explorer for Massachusetts legislative lobbying disclosures (2009–2026), browsable by bill, employer, and lobbyist. |
+| **[ma-constitutional-anachronisms/](https://nsanders.me/ma-constitutional-anachronisms/)** | A page surfacing the glaring anachronisms in Massacusetts' state constitution. |
