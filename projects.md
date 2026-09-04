@@ -24,3 +24,4 @@ Below is a collection of various projects and interactive tools published across
 | **[where-does-the-money-go](https://nsanders.me/where-does-the-money-go)** | An exploration of US Congressional election spending based on one candidate & election (AOC in 2024). |
 | **[ma_lobbying_explorer](https://nsanders.me/ma_lobbying_explorer)** | An explorer for Massachusetts legislative lobbying disclosures (2009–2026), browsable by bill, employer, and lobbyist. |
 | **[ma-constitutional-anachronisms/](https://nsanders.me/ma-constitutional-anachronisms/)** | A page surfacing the glaring anachronisms in Massacusetts' state constitution. |
+| **[ma-political-analytics]](https://nsanders.me/ma-political-analytics/)** | A political analytics dashboard with predictive vote share & WAR ratings for MA state legislative elections. |
