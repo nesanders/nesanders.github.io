@@ -4,7 +4,7 @@ date: 2025-06-29
 pin: false
 categories: [writing, article]
 tags: [ai, democracy, regulation]
-venue: "The Conversation"
+venue: "CommonWealth Beacon"
 description: An article for CommonWealth Beacon about Massachusetts' potentials role in resisting the proposed Congressional moratorium on state-level AI policy.
 authors: [nes, apascal]
 ---

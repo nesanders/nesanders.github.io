@@ -25,4 +25,5 @@ Below is a collection of various projects and interactive tools published across
 | **[ma_lobbying_explorer](https://nsanders.me/ma_lobbying_explorer)** | An explorer for Massachusetts legislative lobbying disclosures (2009–2026), browsable by bill, employer, and lobbyist. |
 | **[ma-constitutional-anachronisms/](https://nsanders.me/ma-constitutional-anachronisms/)** | A page surfacing the glaring anachronisms in Massacusetts' state constitution. |
 | **[ma-political-analytics](https://nsanders.me/ma-political-analytics/)** | A political analytics dashboard with predictive vote share & WAR ratings for MA state legislative elections. |
-| **[federal-campaign-disclosure-ai](https://nsanders.me/federal-campaign-disclosure-ai/)** | A dashboard interrogating federal candidate & committee expenditures on AI vendors in the runup to the 2026 midterm elections. |
+| **[federal-campaign-disclosure-ai](https://nsanders.me/federal-campaign-disclosure-ai/)** | A dashboard interrogating federal (and MA state) candidate & committee expenditures on AI vendors in the runup to the 2026 midterm elections. |
+| **[histogram-maker](https://nsanders.me/histogram-maker/)** | A tool for students to make histograms. |
