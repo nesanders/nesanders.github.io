@@ -131,6 +131,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2026-02-01, [Social Media & Politics](https://socialmediaandpolitics.org/ai-government-rewiring-democracy-campaigns-legislation-schneier-sanders/)
 * 2026-02-03, [Democracy Works (WPSU)](https://radio.wpsu.org/opinion/2026-02-03/democracy-works-how-ai-is-changing-democracy)
 * 2026-05-28, [Better Politics Podcast](https://www.youtube.com/watch?v=anM5xO-fG0w)
+* 2026-09-23, [Speech Matters Podcast](https://podcasts.apple.com/us/podcast/speechmatters/id1617830292)
 
 <!-- war room -->
 <!-- Mass AI Hub -->
@@ -158,6 +159,7 @@ Nathan E. Sanders is a data scientist focused on making policymaking more partic
 * 2026-01-27, [Association of Public Data Users webinar](https://youtu.be/RRhnhe8b1VU?si=rjYvpTHQN7VVdFlZ)
 * 2026-05-19, [Rhode Island Library Association Conference](https://www.rilibraries.org/2026-Conference) keynote address
 * 2026-06-26, [Institute for Humane Studies](https://theihs.org) 
+* 2026-09-22, [League of Women Voters](https://www.lwvme.org/civicrm-event/2400) webinar
 
 <!-- Ft Collins -->
 
