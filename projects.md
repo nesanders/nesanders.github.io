@@ -27,3 +27,5 @@ Below is a collection of various projects and interactive tools published across
 | **[ma-political-analytics](https://nsanders.me/ma-political-analytics/)** | A political analytics dashboard with predictive vote share & WAR ratings for MA state legislative elections. |
 | **[federal-campaign-disclosure-ai](https://nsanders.me/federal-campaign-disclosure-ai/)** | A dashboard interrogating federal (and MA state) candidate & committee expenditures on AI vendors in the runup to the 2026 midterm elections. |
 | **[histogram-maker](https://nsanders.me/histogram-maker/)** | A tool for students to make histograms. |
+| **[nba-gameday](https://nsanders.me/nba-gameday/)** | NBA gameday box score and play-by-play data views. |
+| **[2026-ai-policy-platform](https://nsanders.me/2026-ai-policy-platform/)** | An AI policy platform for the Democratic party following the 2026 elections (encrypted; password required). |
